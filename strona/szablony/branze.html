@@ -1,0 +1,26 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, cta_box with context %}
+{% block main %}
+<div class="wrap page-head">
+  <h1>Dotacja z urzędu pracy w Twojej branży</h1>
+  <p class="lead">Każda branża ma swoje typowe zakupy, limity i pułapki w kosztorysie. Zebraliśmy je dla najczęstszych pomysłów na firmę – razem z tym, co punktuje komisja.</p>
+</div>
+<div class="sec sec--tight">
+  <div class="wrap">
+    <ul class="bcards">
+      {% for b in branze %}
+      <li class="bcard">
+        <a href="{{ u('branze/' ~ b.slug ~ '/') }}">
+          <span class="card__ik">{{ ikona(b.ikona) }}</span>
+          <h2 class="bcard__t">{{ b.nazwa }}</h2>
+          <p>{{ b.lead }}</p>
+          <span class="link-strong">Zakupy, limity, pułapki {{ ikona('strzalka', 'ik ik-s') }}</span>
+        </a>
+      </li>
+      {% endfor %}
+    </ul>
+    <p class="muted">Nie ma Twojej branży? Zasady kosztorysu są podobne – piszemy wnioski dla każdej działalności, której nie wyklucza regulamin Twojego urzędu. <a href="{{ u('kontakt/') }}">Zapytaj</a>.</p>
+  </div>
+</div>
+<div class="sec"><div class="wrap">{{ cta_box('Treści do wniosku pod Twój urząd', 'Od 299 zł, w 24–48 h od kompletu danych, z gwarancją poprawek po wezwaniu urzędu.') }}</div></div>
+{% endblock %}

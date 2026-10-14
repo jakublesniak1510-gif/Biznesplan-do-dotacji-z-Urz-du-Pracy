@@ -1,0 +1,79 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, cta_box, faq_lista with context %}
+{% block main %}
+<article>
+<div class="wrap page-head">
+  <p class="eyebrow">{{ ikona(b.ikona, 'ik ik-s') }} Branża: {{ b.nazwa }}</p>
+  <h1>{{ b.h1 }}</h1>
+  <p class="lead">{{ b.lead }}</p>
+</div>
+
+<div class="wrap with-aside">
+  <div class="prose">
+    <h2>Specyfika wniosku w tej branży</h2>
+    {% for p in b.specyfika %}<p>{{ p }}</p>{% endfor %}
+
+    <h2>Typowe zakupy z dotacji</h2>
+    <ul class="checks">
+      {% for z in b.zakupy %}<li>{{ ikona('check') }} <span>{{ z }}</span></li>{% endfor %}
+    </ul>
+    <p class="muted small">Do każdej pozycji potrzebna jest oferta z ceną brutto (link, zrzut ekranu lub PDF). Kupujesz dopiero po podpisaniu umowy z urzędem.</p>
+
+    <h2>Pułapki kosztorysu</h2>
+    <div class="traps">
+      {% for p in b.pulapki %}
+      <div class="trap"><h3>{{ ikona('uwaga', 'ik ik-s') }} {{ p.t }}</h3><p>{{ p.x }}</p></div>
+      {% endfor %}
+    </div>
+    <p class="muted small">Limity podane przykładowo na podstawie regulaminów PUP z lat 2025–2026. Dokładne wartości dla Twojego urzędu sprawdzamy w jego regulaminie – zobacz <a href="{{ u('urzedy/') }}">bazę urzędów</a>.</p>
+
+    <h2>Co punktuje komisja</h2>
+    <ul class="checks">
+      {% for p in b.punktuje %}<li>{{ ikona('check') }} <span>{{ p }}</span></li>{% endfor %}
+    </ul>
+
+    <h2>Jak opisać konkurencję: przykład</h2>
+    <div class="compare">
+      <div class="compare__bad"><p class="compare__lbl">{{ ikona('x', 'ik ik-s') }} Tak komisja czyta setki razy</p><p>„{{ b.przyklad.zle }}”</p></div>
+      <div class="compare__good"><p class="compare__lbl">{{ ikona('check', 'ik ik-s') }} Tak wygląda konkret</p><p>„{{ b.przyklad.dobrze }}”</p></div>
+    </div>
+    <p class="muted small">Liczby w przykładzie są ilustracyjne. We wniosku wpisujemy wyłącznie Twoje prawdziwe dane.</p>
+
+    <h2>Pytania o kwalifikacje i plan, na które warto znać odpowiedź</h2>
+    <p>Takie pytania zadaje sobie komisja przy ocenie wniosku – a tam, gdzie jest rozmowa, także wprost. Kwestionariusz prowadzi Cię przez nie krok po kroku.</p>
+    <ol class="numbered">
+      {% for q in b.pytania %}<li>{{ q }}</li>{% endfor %}
+    </ol>
+
+    <h2>Pytania i odpowiedzi</h2>
+    {{ faq_lista(b.faq, html_answers=False) }}
+  </div>
+
+  <aside class="side" aria-label="Na skróty">
+    <div class="side__box">
+      <p class="side__t">Treści do wniosku: {{ b.krotko }}</p>
+      <p class="side__price">od 299 zł · 24–48 h</p>
+      <a class="btn btn-primary btn-block" href="{{ tally() }}">Zamów</a>
+      <a class="btn btn-ghost btn-block" href="{{ u('quiz/') }}">Quiz kwalifikacyjny</a>
+      <p class="small"><a href="{{ u('cennik/') }}">Cennik i gwarancja poprawek</a></p>
+    </div>
+    <div class="side__box">
+      <p class="side__t">Regulamin Twojego urzędu</p>
+      <p class="small">Limity na samochód, remont, towar i sprzęt używany różnią się między urzędami.</p>
+      <p class="small"><a href="{{ u('urzedy/') }}">Znajdź swój urząd pracy</a></p>
+      {% if pupy %}<ul class="side__list small">{% for p in pupy[:5] %}<li><a href="{{ u('urzedy/' ~ p.id ~ '/') }}">{{ p.nazwa_pup }}</a></li>{% endfor %}</ul>{% endif %}
+    </div>
+  </aside>
+</div>
+
+<div class="wrap">
+  {{ cta_box('Zamów treści do wniosku: ' ~ b.krotko, 'Piszemy pod formularz i kartę oceny Twojego urzędu, na podstawie Twoich danych. Poprawki po wezwaniu urzędu gratis.') }}
+  <nav class="more" aria-label="Inne branże">
+    <h2 class="more__t">Inne branże</h2>
+    <ul class="tiles tiles--small">
+      {% for x in branze if x.slug != b.slug %}<li><a class="tile" href="{{ u('branze/' ~ x.slug ~ '/') }}">{{ ikona(x.ikona) }}<span>{{ x.nazwa }}</span></a></li>{% endfor %}
+    </ul>
+  </nav>
+</div>
+</article>
+{% endblock %}

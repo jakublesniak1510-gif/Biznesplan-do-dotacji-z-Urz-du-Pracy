@@ -1,0 +1,137 @@
+{
+  "id": "2026-10-mechanik-tomasz",
+  "kontakt": {"email": "tomasz.przyklad@example.com"},
+  "osoba": {"imie": "Tomasz", "miejscowosc": "Lipy", "gmina": "Lipy"},
+  "nabor": {
+    "nazwa_pup": "Powiatowy Urząd Pracy w Zielonowie",
+    "pup_id": "zielonow",
+    "powiat": "zielonowski",
+    "url_ogloszenia": "https://zielonow.praca.gov.pl/-/nabor-dofinansowanie-2026-przyklad",
+    "kwota_max_zl": 30000,
+    "termin_zlozenia": "2026-10-30",
+    "zrodlo_finansowania": "FP"
+  },
+  "status": "bezrobotny",
+  "bezrobotny_od": "2025-12",
+  "powod_utraty_pracy": "zamknięcie zakładu Auto-Serwis Majewski w listopadzie 2025 r. (właściciel przeszedł na emeryturę)",
+  "grupy": [],
+  "kwota_wnioskowana": 30000,
+  "zabezpieczenie": {"formy": ["weksel z poręczeniem"], "liczba_poreczycieli": 2},
+  "pomysl": {
+    "opis": "Otworzę warsztat mechaniki pojazdowej w Lipach, w wynajętym garażu z kanałem przy ul. Polnej 12, przy drodze powiatowej do Zielonowa. Będę naprawiał samochody osobowe i dostawcze do 3,5 t: serwis okresowy, hamulce, zawieszenie, rozrząd, diagnostyka komputerowa i serwis klimatyzacji. Klientami będą mieszkańcy Lip i okolicznych wsi, którzy dziś jeżdżą 18 km do Zielonowa, oraz lokalne firmy z busami.",
+    "pkd": [{"kod": "95.31.A", "nazwa": "Naprawa mechaniczna i serwisowa pojazdów silnikowych, z wyłączeniem motocykli", "glowny": true}],
+    "uprawnienia": "Certyfikat F-gazowy dla personelu (klimatyzacja samochodowa) od 2022 r. – wymagany do serwisu klimatyzacji. Odbiór zużytego oleju i filtrów przez firmę z uprawnieniami (umowa przy starcie).",
+    "sezonowosc": "nie",
+    "sezonowosc_opis": "Latem więcej serwisu klimatyzacji, zimą część klientów odkłada naprawy niepilne; naprawy bieżące przez cały rok.",
+    "data_startu": "2027-01-01",
+    "przejecie_od_rodziny": "nie",
+    "motywacja": "Duża część stałych klientów Auto-Serwisu Majewski dojeżdżała z Lip i okolicznych wsi, 18 km w jedną stronę. Po zamknięciu zakładu w listopadzie 2025 r. wielu z nich pyta mnie, gdzie teraz naprawiać samochody."
+  },
+  "uslugi": [
+    {"nazwa": "Wymiana oleju i filtrów (robocizna)", "cena": 80, "liczba_mies": 40, "czas_h": 0.5, "glowna": true},
+    {"nazwa": "Wymiana klocków i tarcz hamulcowych (za oś)", "cena": 150, "liczba_mies": 25, "czas_h": 1.0},
+    {"nazwa": "Diagnostyka komputerowa", "cena": 100, "liczba_mies": 30, "czas_h": 0.5},
+    {"nazwa": "Serwis klimatyzacji z czynnikiem", "cena": 250, "liczba_mies": 15, "czas_h": 1.0},
+    {"nazwa": "Wymiana rozrządu / naprawy zawieszenia", "cena": 600, "liczba_mies": 6, "czas_h": 4.0}
+  ],
+  "forma": {
+    "opodatkowanie": "skala",
+    "vat": "czynny",
+    "stawka_vat_sprzedaz": 0.23,
+    "zus": "ulga na start + preferencyjny",
+    "chorobowe": true,
+    "ksiegowosc": "biuro rachunkowe w Zielonowie, 350 zł miesięcznie"
+  },
+  "lokalizacja": {
+    "tryb": "wynajem",
+    "miejscowosc": "Lipy",
+    "ulica": "ul. Polna 12",
+    "opis_lokalu": "Garaż 90 m² z kanałem, bramą dla aut dostawczych, siłą 400 V i wodą. Parking na 4 auta przed budynkiem. Przed startem trzeba pomalować posadzkę i zamontować podnośnik.",
+    "dokument_lokalu": "tak",
+    "obszar": ["Lipy", "wsie gminy Lipy", "Borków", "Zielonów"],
+    "promien_km": 20,
+    "prawo_jazdy": "kat. B i C",
+    "godziny_pracy": "pn–pt 8–17, sob. 8–13",
+    "przyjmowanie_zlecen": "telefonicznie i na miejscu; prostsze naprawy w dniu przyjęcia auta"
+  },
+  "kwalifikacje": {
+    "wyksztalcenie": [{"poziom": "technikum", "szkola": "Zespół Szkół Samochodowych w Zielonowie", "kierunek": "technik pojazdów samochodowych", "rok": 2004}],
+    "kursy": [{"nazwa": "Certyfikat F-gazowy – klimatyzacja samochodowa", "organizator": "jednostka certyfikująca UDT", "rok": 2022},
+              {"nazwa": "Diagnostyka układów common rail", "organizator": "hurtownia motoryzacyjna w Zielonowie", "rok": 2019, "godziny": 24}],
+    "doswiadczenie": [
+      {"pracodawca": "Auto-Serwis Majewski", "miejscowosc": "Zielonów", "stanowisko": "mechanik samochodowy, od 2018 kierownik zmiany",
+       "od": "2010", "do": "2025-11",
+       "obowiazki": "naprawy mechaniczne aut osobowych i dostawczych, diagnostyka, serwis klimatyzacji; od 2018 przydział zleceń dla 3 mechaników, zamawianie części w hurtowni, rozliczanie zleceń z klientami"}
+    ],
+    "nieformalne": "Naprawy aut rodziny i sąsiadów w Lipach (bez wynagrodzenia).",
+    "dokumenty": ["świadectwo ukończenia technikum", "certyfikat F-gazowy", "zaświadczenie ze szkolenia common rail", "świadectwo pracy z Auto-Serwisu Majewski", "umowa przedwstępna najmu garażu"],
+    "szkolenie_pup": "spotkanie informacyjne PUP dla przyszłych przedsiębiorców, wrzesień 2026",
+    "inne_umiejetnosci": "obsługa programów do wyceny napraw i katalogów części"
+  },
+  "klienci": {
+    "segmenty": [
+      {"nazwa": "dawni klienci z Lip i okolic", "opis": "właściciele aut 10–20-letnich, dojeżdżali do Zielonowa 18 km", "liczba": "kilkadziesiąt osób z mojej listy telefonów"},
+      {"nazwa": "lokalne firmy z busami", "opis": "serwis okresowy flot do 3,5 t", "liczba": "„Trans-Lip”: 6 busów"},
+      {"nazwa": "rolnicy i mieszkańcy wsi gminy Lipy", "opis": "auta osobowe i dostawcze, naprawy bez dojazdu do miasta"}
+    ],
+    "dane_o_terenie": [{"opis": "Gmina Lipy ma ok. 7 800 mieszkańców", "zrodlo": "GUS BDL 2025, notatka właściciela"}],
+    "dowody_popytu": [
+      "dawni klienci Auto-Serwisu Majewski z Lip dzwonią i pytają, gdzie naprawiać auta",
+      "list intencyjny firmy przewozowej „Trans-Lip” (6 busów, serwis okresowy)",
+      "najbliższy warsztat mechaniczny „Moto-Fix” w Zielonowie ma terminy 7–10 dni"
+    ]
+  },
+  "konkurencja": {
+    "data_rozpoznania": "wrzesień 2026",
+    "konkurenci": [
+      {"nazwa": "Moto-Fix", "miejscowosc": "Zielonów (18 km)", "oferta": "naprawy mechaniczne, diagnostyka", "ceny": "wymiana oleju 100 zł robocizny, diagnostyka 120 zł", "zrodlo_cen": "telefon, 09.2026", "slabe_strony": "terminy 7–10 dni, dojazd 18 km", "mocne_strony": "duży warsztat, 2 podnośniki"},
+      {"nazwa": "Opony i Mechanika Kruk", "miejscowosc": "Borków", "oferta": "wulkanizacja, drobne naprawy", "ceny": "wymiana klocków 120 zł za oś", "zrodlo_cen": "cennik na miejscu, 09.2026", "slabe_strony": "brak diagnostyki komputerowej i serwisu klimatyzacji"},
+      {"nazwa": "Auto-Centrum Zielonów (ASO)", "miejscowosc": "Zielonów", "oferta": "serwis autoryzowany, nowe auta", "ceny": "przegląd od 450 zł, klimatyzacja 390 zł", "zrodlo_cen": "strona www, 09.2026", "slabe_strony": "wysokie ceny, mało chętnie przyjmuje auta 15-letnie", "mocne_strony": "oryginalne części, auta zastępcze"}
+    ],
+    "substytuty": ["naprawy we własnym zakresie", "serwisy w mieście wojewódzkim"],
+    "przewaga": "Warsztat na miejscu w Lipach, krótkie terminy, diagnostyka i klimatyzacja w jednym miejscu, certyfikat F-gazowy, 15 lat praktyki w naprawach aut z tej okolicy."
+  },
+  "marketing": {
+    "kanaly": ["telefony i SMS do dawnych klientów z mojej listy", "wizytówka Google „mechanik Lipy”", "szyld przy drodze powiatowej", "ogłoszenie w biuletynie gminy Lipy", "oferta dla firm z busami (osobiste wizyty)"],
+    "pierwsze_dzialania": ["przed startem: szyld, wizytówka Google, SMS do dawnych klientów", "miesiąc 1: rozpoczęcie serwisu busów „Trans-Lip”", "miesiąc 2–3: wizyty w 3 firmach transportowych z gminy"],
+    "cele": "po 3 miesiącach 60 zleceń miesięcznie i 2 firmy z flotą",
+    "utrzymanie": ["przypomnienie SMS o terminie wymiany oleju", "karta auta z historią napraw"]
+  },
+  "zakupy": [
+    {"nazwa": "Podnośnik dwukolumnowy 4 t z montażem", "kategoria": "sprzęt", "cena_brutto": 13530, "link": "https://example.com/oferta/podnosnik-4t", "uzasadnienie": "bez podnośnika nie wymienię zawieszenia i układu wydechowego w autach dostawczych; porównałem 3 oferty, wybrałem model z montażem i serwisem"},
+    {"nazwa": "Tester diagnostyczny OBD z oprogramowaniem na 2 lata", "kategoria": "sprzęt", "cena_brutto": 5535, "link": "https://example.com/oferta/tester-obd", "uzasadnienie": "diagnostyka komputerowa i kasowanie błędów, obsługa aut z lat 2005–2024"},
+    {"nazwa": "Stacja do obsługi klimatyzacji R134a/R1234yf (używana, z fakturą)", "kategoria": "sprzęt", "stan": "używany", "cena_brutto": 6765, "sprzedawca": "firma handlująca sprzętem warsztatowym", "link": "https://example.com/oferta/stacja-klima", "uzasadnienie": "serwis klimatyzacji wymaga stacji; nowa kosztuje ok. 14 000 zł netto, używana ma przegląd i gwarancję 6 mies."},
+    {"nazwa": "Kompresor 270 l z kluczem pneumatycznym udarowym", "kategoria": "sprzęt", "cena_brutto": 3690, "link": "https://example.com/oferta/kompresor", "uzasadnienie": "odkręcanie kół i zapieczonych śrub, pompowanie opon"},
+    {"nazwa": "Wózek narzędziowy z zestawem nasadek i kluczy dynamometrycznych", "kategoria": "sprzęt", "cena_brutto": 2460, "link": "https://example.com/oferta/wozek", "uzasadnienie": "uzupełnienie moich narzędzi ręcznych o klucze dynamometryczne do kół i głowic"},
+    {"nazwa": "Szyld świetlny przy drodze powiatowej", "kategoria": "reklama", "cena_brutto": 1845, "link": "https://example.com/oferta/szyld", "uzasadnienie": "przez Lipy przejeżdża niewiele aut, szyld przy drodze do Zielonowa pokaże, że warsztat działa"},
+    {"nazwa": "Strona www z cennikiem i formularzem zgłoszenia", "kategoria": "reklama", "cena_brutto": 1230, "link": "https://example.com/oferta/strona", "uzasadnienie": "klienci sprawdzą cennik i zgłoszą auto przez telefon lub formularz"},
+    {"nazwa": "Części eksploatacyjne na start (oleje, filtry, klocki)", "kategoria": "towar", "cena_brutto": 1845, "sprzedawca": "hurtownia w Zielonowie", "link": "https://example.com/oferta/czesci", "uzasadnienie": "najczęściej wymieniane części na pierwszy miesiąc; resztę zamawiam z dostawą 2 razy dziennie"},
+    {"nazwa": "Podnośnik hydrauliczny typu żaba 3 t i stojaki", "kategoria": "sprzęt", "cena_brutto": 1230, "finansowanie": "wkład własny", "uzasadnienie": "szybka wymiana kół i prace na stanowisku obok kanału"}
+  ],
+  "zakup_od_rodziny": false,
+  "zasoby_posiadane": [{"nazwa": "zestaw kluczy i nasadek, narzędzia ręczne", "wartosc": 4000}, {"nazwa": "samochód osobowy do dojazdów po części", "wartosc": 9000}],
+  "wklad_wlasny": {"kwota": 4000, "zrodlo": "oszczędności", "na_co": "podnośnik typu żaba, malowanie posadzki, rezerwa na czynsz"},
+  "listy_intencyjne": [{"od_kogo": "firma przewozowa „Trans-Lip” z Lip", "czego_dotyczy": "serwis okresowy 6 busów", "czestotliwosc": "ok. 2 auta miesięcznie", "status": "podpisany"}],
+  "zatrudnienie": "nie",
+  "prognoza": {
+    "klienci_m1": 45, "klienci_m6": 100, "klienci_m12": 110,
+    "sezonowosc": [0.85, 0.85, 1.0, 1.1, 1.05, 1.1, 1.1, 1.0, 1.0, 1.05, 1.05, 0.85],
+    "rozruch": [0.4, 0.6, 0.8, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "dni_robocze": 21,
+    "godziny_dzien": 7,
+    "materialy_pct": 0.08,
+    "materialy_opis": "czyściwo, smary, płyny – ok. 8% przychodu z robocizny",
+    "koszty_stale": {"czynsz": 1200, "media": 350, "telefon_internet": 100, "ksiegowosc": 350, "ubezpieczenie": 120, "paliwo": 300, "reklama": 200, "inne": 250}
+  },
+  "ryzyka": [
+    {"ryzyko": "brak doświadczenia w rozliczeniach firmy", "zapobieganie": "księgowość w biurze rachunkowym", "plan_b": "konsultacje z biurem przy każdej wątpliwości"},
+    {"ryzyko": "choroba – pracuję sam", "zapobieganie": "ubezpieczenie chorobowe", "plan_b": "pilne naprawy przekażę koledze z warsztatu w Borkowie (ustne porozumienie)"},
+    {"ryzyko": "zimą klienci odkładają naprawy niepilne", "zapobieganie": "przypomnienia SMS o przeglądach przed zimą", "plan_b": "więcej serwisu busów firmowych i przygotowania aut do przeglądów"},
+    {"ryzyko": "mniej zleceń niż w planie", "zapobieganie": "lista dawnych klientów i list intencyjny „Trans-Lip”", "plan_b": "oferta serwisu flot dla 3 firm transportowych z gminy, soboty do 15"},
+    {"ryzyko": "wzrost cen części", "zapobieganie": "uprzedzam klienta o koszcie przed naprawą", "plan_b": "proponuję sprawdzone zamienniki"},
+    {"ryzyko": "obniżka cen w „Moto-Fix”", "zapobieganie": "krótkie terminy i warsztat na miejscu"}
+  ],
+  "finanse_domowe": {"inne_dochody": "żona pracuje w szkole w Lipach", "potrzeby_mies": 3500, "wytrzymalosc": "3–6 mies."},
+  "ton": "techniczny",
+  "notatka_wlasciciela": "Sprzedaż części klientom – kod PKD 2025 do ustalenia z księgową (nie dopisywać). Gmina Lipy ok. 7 800 mieszkańców (GUS BDL 2025)."
+}

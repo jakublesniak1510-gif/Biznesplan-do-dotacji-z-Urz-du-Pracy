@@ -1,0 +1,23 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona with context %}
+{% block main %}
+<div class="draft-banner" role="note">
+  <div class="wrap">{{ ikona('uwaga') }} <p><strong>Wersja robocza do konsultacji prawnej.</strong> Ten dokument nie jest jeszcze obowiązującym {{ 'regulaminem' if 'Regulamin' in naglowek else 'dokumentem' }}. Przed uruchomieniem sprzedaży zostanie sprawdzony przez prawnika. Nawiasy kwadratowe [ ] oznaczają dane do uzupełnienia.</p></div>
+</div>
+<div class="wrap page-head narrow">
+  <h1>{{ naglowek }}</h1>
+</div>
+<div class="wrap narrow">
+  {% if toc %}
+  <nav class="toc" aria-label="Spis treści">
+    <details open>
+      <summary>Spis treści</summary>
+      <ol>{% for hid, t in toc %}<li><a href="#{{ hid }}">{{ t }}</a></li>{% endfor %}</ol>
+    </details>
+  </nav>
+  {% endif %}
+  <div class="prose legal">
+    {{ tresc }}
+  </div>
+</div>
+{% endblock %}

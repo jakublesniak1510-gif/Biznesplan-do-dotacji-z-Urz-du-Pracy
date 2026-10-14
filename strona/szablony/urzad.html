@@ -1,0 +1,132 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, cta_box with context %}
+{% macro wartosc(v, suffix='') -%}
+{% if v %}{{ v }}{{ suffix }}{% else %}<span class="muted">nie ustalono w źródle</span>{% endif %}
+{%- endmacro %}
+{% macro limit(v) -%}
+{% set n = (v or '')|replace(',', '.')|float(-1) %}{% if not v %}<span class="muted">nie ustalono</span>{% elif n == -1 %}{{ v }}{% elif n == 0 %}<strong class="bad">wykluczone</strong>{% else %}do {{ v }}% kwoty{% endif %}
+{%- endmacro %}
+{% block main %}
+<article>
+<div class="wrap page-head">
+  {% if p.przyklad %}
+  <p class="notice notice--dev" role="note">{{ ikona('uwaga') }} <span><strong>Dane przykładowe.</strong> Ta podstrona pokazuje działanie szablonu na wartościach przepisanych z naszej ściągawki. Zanim skorzystasz z tych informacji, sprawdź aktualny regulamin urzędu.</span></p>
+  {% endif %}
+  <p class="eyebrow">{{ ikona('urzad', 'ik ik-s') }} {{ p.woj }}{% if p.powiat %} · powiat {{ p.powiat }}{% endif %}</p>
+  <h1>Dotacja z PUP: {{ p.nazwa_pup }}</h1>
+  <p class="lead">Co wiemy o zasadach przyznawania dofinansowania na podjęcie działalności w tym urzędzie i co to oznacza dla Twojego wniosku.</p>
+  <ul class="kpis">
+    <li class="kpi"><span class="kpi__k">Maks. kwota</span><span class="kpi__v">{{ p.kwota_txt or '—' }}</span>{% if p.zrodlo_finansowania %}<span class="kpi__d">źródło: {{ p.zrodlo_txt }}</span>{% endif %}</li>
+    <li class="kpi"><span class="kpi__k">Ostatni nabór</span><span class="kpi__v kpi__v--s">{% if p.nabor_od_txt or p.nabor_do_txt %}{{ p.nabor_od_txt }}{% if p.nabor_do_txt %}–{{ p.nabor_do_txt }}{% endif %}{% else %}—{% endif %}</span><span class="kpi__d status status--{{ p.nabor_status[0] }}">{{ p.nabor_status[1] }}</span></li>
+    <li class="kpi"><span class="kpi__k">Komisja / rozmowa</span><span class="kpi__v kpi__v--s">{{ p.komisja_rozmowa or '—' }}</span>{% if p.wizja_lokalna %}<span class="kpi__d">wizja lokalna: {{ p.wizja_lokalna }}</span>{% endif %}</li>
+    <li class="kpi"><span class="kpi__k">Dane zweryfikowano</span><span class="kpi__v kpi__v--s">{{ p.zweryf_txt or '—' }}</span>{% if p.zweryf_stare %}<span class="kpi__d bad">ponad 6 mies. temu – może być nieaktualne</span>{% endif %}</li>
+  </ul>
+</div>
+
+<div class="wrap with-aside">
+  <div class="prose">
+    <section aria-labelledby="h-co">
+      <h2 id="h-co">Co to oznacza dla Twojego wniosku</h2>
+      <ul class="impl">
+        {% for w in p.wnioski %}<li class="impl--{{ w.typ }}">{{ ikona({'ok': 'check', 'uwaga': 'uwaga', 'info': 'info'}[w.typ], 'ik ik-s') }}<span>{{ w.t }}</span></li>{% endfor %}
+      </ul>
+    </section>
+
+    <section aria-labelledby="h-nab">
+      <h2 id="h-nab">Kwota i nabór</h2>
+      <dl class="defs defs--compact">
+        <div class="defs__row"><dt>Maksymalna kwota (ostatni nabór)</dt><dd>{{ wartosc(p.kwota_txt) }}</dd></div>
+        <div class="defs__row"><dt>Źródło finansowania</dt><dd>{{ wartosc(p.zrodlo_txt) }}</dd></div>
+        {% if p.l_grupy %}<div class="defs__row"><dt>Grupy docelowe</dt><dd>{{ p.l_grupy|join(', ') }}</dd></div>{% endif %}
+        <div class="defs__row"><dt>Ostatni nabór</dt><dd>{% if p.nabor_od_txt %}{{ p.nabor_od_txt }}{% if p.nabor_do_txt %} – {{ p.nabor_do_txt }}{% endif %}{% else %}<span class="muted">nie ustalono w źródle</span>{% endif %}</dd></div>
+        <div class="defs__row"><dt>Tryb naboru</dt><dd>{{ wartosc(p.nabor_tryb) }}</dd></div>
+        {% if p.liczba_miejsc %}<div class="defs__row"><dt>Liczba miejsc</dt><dd>{{ p.liczba_miejsc }}</dd></div>{% endif %}
+        <div class="defs__row"><dt>Minimalny okres prowadzenia firmy</dt><dd>{% if p.okres_prowadzenia_mies %}{{ p.okres_prowadzenia_mies }} mies.{% else %}<span class="muted">nie ustalono (ustawowo min. 12 mies.)</span>{% endif %}</dd></div>
+      </dl>
+    </section>
+
+    <section aria-labelledby="h-kos">
+      <h2 id="h-kos">Limity w kosztorysie</h2>
+      <dl class="defs defs--compact">
+        <div class="defs__row"><dt>Reklama, strona www</dt><dd>{{ limit(p.limit_reklama_pct) }}</dd></div>
+        <div class="defs__row"><dt>Towar handlowy, materiały</dt><dd>{{ limit(p.limit_towar_pct) }}</dd></div>
+        <div class="defs__row"><dt>Remont, adaptacja lokalu</dt><dd>{{ limit(p.limit_remont_pct) }}</dd></div>
+        <div class="defs__row"><dt>Samochód, pojazd</dt><dd>{{ limit(p.limit_samochod_pct) }}</dd></div>
+        <div class="defs__row"><dt>Sprzęt używany</dt><dd>{{ wartosc(p.sprzet_uzywany) }}</dd></div>
+        <div class="defs__row"><dt>Wkład własny</dt><dd>{{ wartosc(p.wklad_wlasny) }}</dd></div>
+      </dl>
+      <p class="muted small">W prawie każdym regulaminie wykluczone są też: koszty bieżące (czynsz, media, ZUS), leasing i raty, kaucje, kasa fiskalna, zakupy od rodziny i poręczycieli.</p>
+    </section>
+
+    <section aria-labelledby="h-zab">
+      <h2 id="h-zab">Zabezpieczenie zwrotu</h2>
+      <dl class="defs defs--compact">
+        <div class="defs__row"><dt>Dopuszczone formy</dt><dd>{% if p.l_zabezp %}{{ p.l_zabezp|join(', ') }}{% else %}<span class="muted">nie ustalono w źródle</span>{% endif %}</dd></div>
+        <div class="defs__row"><dt>Liczba poręczycieli</dt><dd>{{ wartosc(p.liczba_poreczycieli) }}</dd></div>
+        <div class="defs__row"><dt>Minimalny dochód poręczyciela</dt><dd>{{ wartosc(p.dochod_poreczyciela_min_zl|zl) }}</dd></div>
+      </dl>
+    </section>
+
+    <section aria-labelledby="h-wyk">
+      <h2 id="h-wyk">Wykluczone rodzaje działalności</h2>
+      {% if p.l_wykl %}<ul class="tags">{% for x in p.l_wykl %}<li>{{ x }}</li>{% endfor %}</ul>
+      {% else %}<p class="muted">Nie ustaliliśmy listy wykluczeń w źródle. Sprawdzimy ją w regulaminie naboru przed rozpoczęciem pracy.</p>{% endif %}
+    </section>
+
+    <section aria-labelledby="h-kar">
+      <h2 id="h-kar">Karta oceny i komisja</h2>
+      <dl class="defs defs--compact">
+        <div class="defs__row"><dt>Punktacja</dt><dd>{% if p.karta_oceny_max_pkt or p.karta_oceny_prog_pkt %}{% if p.karta_oceny_max_pkt %}maks. {{ p.karta_oceny_max_pkt }} pkt{% endif %}{% if p.karta_oceny_max_pkt and p.karta_oceny_prog_pkt %}, {% endif %}{% if p.karta_oceny_prog_pkt %}próg {{ p.karta_oceny_prog_pkt }} pkt{% endif %}{% else %}<span class="muted">nie ustalono w źródle</span>{% endif %}</dd></div>
+        <div class="defs__row"><dt>Rozmowa z komisją</dt><dd>{{ wartosc(p.komisja_rozmowa) }}</dd></div>
+        <div class="defs__row"><dt>Wizja lokalna</dt><dd>{{ wartosc(p.wizja_lokalna) }}</dd></div>
+        <div class="defs__row"><dt>Termin na uzupełnienie braków</dt><dd>{% if p.termin_uzupelnien_dni %}{{ p.termin_uzupelnien_dni }} dni{% else %}<span class="muted">nie ustalono (zwykle min. 7 dni)</span>{% endif %}</dd></div>
+      </dl>
+      {% if p.l_kryt %}<h3>Kryteria punktowane</h3><ul class="tags">{% for x in p.l_kryt %}<li>{{ x }}</li>{% endfor %}</ul>{% endif %}
+    </section>
+
+    {% if p.uwagi_txt %}
+    <section aria-labelledby="h-uw">
+      <h2 id="h-uw">Inne ważne zapisy</h2>
+      <p>{{ p.uwagi_txt }}</p>
+    </section>
+    {% endif %}
+
+    <section aria-labelledby="h-zr">
+      <h2 id="h-zr">Dokumenty i źródła</h2>
+      <ul class="links">
+        <li>{{ ikona('plik', 'ik ik-s') }} Regulamin / zasady: {% if p.url_regulamin %}<a href="{{ p.url_regulamin }}" rel="noopener">otwórz dokument urzędu</a>{% if p.data_reg_txt %} <span class="muted">(z {{ p.data_reg_txt }})</span>{% endif %}{% else %}<span class="muted">brak linku</span>{% endif %}</li>
+        <li>{{ ikona('plik', 'ik ik-s') }} Formularz wniosku: {% if p.url_formularz %}<a href="{{ p.url_formularz }}" rel="noopener">pobierz ze strony urzędu</a>{% else %}<span class="muted">brak linku w bazie – pobierz ze strony urzędu lub dołącz do kwestionariusza</span>{% endif %}</li>
+        <li>{{ ikona('urzad', 'ik ik-s') }} Strona urzędu: {% if p.url_pup %}<a href="{{ p.url_pup }}" rel="noopener">{{ p.url_pup|replace('https://', '') }}</a>{% else %}<span class="muted">brak linku w bazie</span>{% endif %}</li>
+        {% for z in p.l_zrodla %}<li>{{ ikona('info', 'ik ik-s') }} Źródło danych {{ loop.index }}: <a href="{{ z }}" rel="noopener">{{ z|replace('https://', '')|truncate(60, True, '…') }}</a></li>{% endfor %}
+      </ul>
+      <p class="muted small">Dane zweryfikowano: {{ p.zweryf_txt or 'brak daty' }}. Każda wartość pochodzi z regulaminu lub ogłoszenia urzędu; czego nie ma w źródle, zostawiamy puste. Regulaminy zmieniają się przy każdym naborze – przed złożeniem wniosku zawsze sprawdź aktualną wersję.</p>
+    </section>
+  </div>
+
+  <aside class="side" aria-label="Na skróty">
+    <div class="side__box">
+      <p class="side__t">Wniosek do: {{ p.miasto or p.nazwa_pup }}</p>
+      <p class="side__price">od 299 zł · 24–48 h</p>
+      <a class="btn btn-primary btn-block" href="{{ tally() }}">Zamów treści do wniosku</a>
+      <a class="btn btn-ghost btn-block" href="{{ u('') }}?woj={{ p.woj|urlencode }}#alerty">{{ ikona('dzwonek', 'ik ik-s') }} Alert o naborze: {{ p.woj }}</a>
+      <p class="small"><a href="{{ u('cennik/') }}">Cennik</a> · <a href="{{ u('quiz/') }}">Quiz</a></p>
+    </div>
+    <div class="side__box">
+      <p class="side__t">Wskazówki dla branż</p>
+      <ul class="side__list small">{% for b in branze %}<li><a href="{{ u('branze/' ~ b.slug ~ '/') }}">{{ b.nazwa }}</a></li>{% endfor %}</ul>
+    </div>
+  </aside>
+</div>
+
+<div class="wrap">
+  {{ cta_box('Treści do wniosku pod ' ~ (p.miasto or p.nazwa_pup), 'Piszemy w układzie formularza tego urzędu, z limitami i kryteriami z jego regulaminu. Poprawki po wezwaniu urzędu gratis.') }}
+  {% set inne = pupy_wg_woj[p.woj]|rejectattr('id', 'equalto', p.id)|list %}
+  {% if inne %}
+  <nav class="more" aria-label="Inne urzędy w województwie">
+    <h2 class="more__t">Inne urzędy: {{ p.woj }}</h2>
+    <ul class="side__list">{% for x in inne %}<li><a href="{{ u('urzedy/' ~ x.id ~ '/') }}">{{ x.nazwa_pup }}</a></li>{% endfor %}</ul>
+  </nav>
+  {% endif %}
+</div>
+</article>
+{% endblock %}

@@ -7,3 +7,6 @@ node_modules/
 *.tmp
 ~$*
 .~lock.*#
+
+# wyniki generatora (dane klientów – RODO)
+wyniki/

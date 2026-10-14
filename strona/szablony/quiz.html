@@ -1,0 +1,32 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona with context %}
+{% block main %}
+<div class="wrap page-head narrow">
+  <h1>Sprawdź, czy kwalifikujesz się do dotacji z urzędu pracy</h1>
+  <p class="lead">Około 10 krótkich pytań o warunki z ustawy o rynku pracy (art. 147–148) i praktykę urzędów. Wynik zobaczysz od razu. <strong>Nic nie wysyłamy</strong> – odpowiedzi zostają w Twojej przeglądarce.</p>
+</div>
+
+<div class="sec sec--tight">
+  <div class="wrap narrow">
+    <div class="quiz" id="quiz" data-ready="false">
+      <noscript>
+        <p class="notice">{{ ikona('info') }} <span>Quiz wymaga włączonego JavaScriptu. Najważniejsze warunki: status osoby bezrobotnej (albo absolwenta CIS/KIS lub opiekuna osoby niepełnosprawnej), brak firmy w ostatnich 12 miesiącach, brak wcześniejszej dotacji na start, brak wniosku w innym urzędzie, brak skazania za przestępstwa gospodarcze w ostatnich 2 latach oraz zabezpieczenie zwrotu (np. 2 poręczycieli). Szczegóły: <a href="{{ u('jak-dziala/') }}">jak to działa</a>.</span></p>
+      </noscript>
+      <div class="quiz__progress" aria-hidden="true"><span class="quiz__bar" id="quiz-bar"></span></div>
+      <p class="quiz__count small muted" id="quiz-count" aria-live="polite"></p>
+      <form id="quiz-form" class="quiz__form" novalidate hidden>
+        <div id="quiz-step"></div>
+        <p class="quiz__err" id="quiz-err" role="alert"></p>
+        <div class="quiz__nav">
+          <button type="button" class="btn btn-ghost" id="quiz-back">Wstecz</button>
+          <button type="submit" class="btn btn-primary btn-lg" id="quiz-next">Dalej {{ ikona('strzalka') }}</button>
+        </div>
+      </form>
+      <div id="quiz-result" class="quiz__result" hidden tabindex="-1"></div>
+    </div>
+    <p class="disclaimer">{{ ikona('info', 'ik ik-s') }} <span>Quiz ma charakter orientacyjny i opiera się na stanie prawnym z {{ site.STAN_NA_TXT }}. O kwalifikacji decyduje urząd na podstawie swojego regulaminu. Warunki weryfikujemy także w kwestionariuszu po zamówieniu.</span></p>
+  </div>
+</div>
+<script type="application/json" id="quiz-config">{{ quiz_config }}</script>
+{% endblock %}
+{% block scripts %}<script src="{{ u('assets/quiz.js') }}" defer></script>{% endblock %}

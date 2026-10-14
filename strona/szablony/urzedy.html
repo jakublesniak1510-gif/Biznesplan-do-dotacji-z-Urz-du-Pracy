@@ -1,0 +1,51 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, cta_box with context %}
+{% block main %}
+<div class="wrap page-head">
+  <h1>Dotacja z PUP w Twoim powiecie</h1>
+  <p class="lead">Baza regulaminów powiatowych urzędów pracy: maksymalna kwota, limity w kosztorysie, zabezpieczenia, wykluczenia, karta oceny i ostatni nabór. Wniosek składasz w urzędzie właściwym dla miejsca zamieszkania.</p>
+  {% if przyklad_plik %}
+  <p class="notice notice--dev" role="note">{{ ikona('uwaga') }} <span><strong>Dane przykładowe.</strong> Lista zawiera {{ pupy|length }} przykładowe urzędy do testu szablonu. Docelowa baza jest w przygotowaniu.</span></p>
+  {% endif %}
+</div>
+
+<div class="sec sec--tight">
+  <div class="wrap">
+    <div class="search" role="search">
+      <label for="szukaj-pup">{{ ikona('szukaj', 'ik ik-s') }} Szukaj urzędu, miasta lub powiatu</label>
+      <div class="search__row">
+        <input id="szukaj-pup" type="search" placeholder="np. Nowa Sól" autocomplete="off" aria-describedby="szukaj-wynik">
+        <select id="szukaj-woj" aria-label="Województwo">
+          <option value="">Wszystkie województwa</option>
+          {% for w in site.wojewodztwa %}<option value="{{ w }}">{{ w }}</option>{% endfor %}
+        </select>
+      </div>
+      <p id="szukaj-wynik" class="small muted" role="status" aria-live="polite">Urzędów w bazie: {{ pupy|length }}.</p>
+    </div>
+
+    <div id="lista-pup">
+    {% for woj, lista in pupy_wg_woj.items() %}
+      <section class="woj" data-woj="{{ woj }}" aria-labelledby="woj-{{ lista[0].woj_slug }}">
+        <h2 id="woj-{{ lista[0].woj_slug }}" class="woj__t">{{ woj }} <span class="muted small">({{ lista|length }})</span></h2>
+        <ul class="pup-list">
+          {% for p in lista %}
+          <li class="pup" data-szukaj="{{ (p.nazwa_pup ~ ' ' ~ (p.miasto or '') ~ ' ' ~ (p.powiat or '') ~ ' ' ~ woj)|lower }}">
+            <a href="{{ u('urzedy/' ~ p.id ~ '/') }}">
+              <span class="pup__n">{{ p.nazwa_pup }}</span>
+              <span class="pup__m">{% if p.powiat %}powiat {{ p.powiat }}{% endif %}{% if p.kwota_txt %} · do {{ p.kwota_txt }}{% endif %}{% if p.nabor_od_txt %} · nabór {{ p.nabor_od_txt }}{% endif %}</span>
+              <span class="status status--{{ p.nabor_status[0] }}">{{ p.nabor_status[1] }}</span>
+            </a>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
+    {% endfor %}
+    </div>
+    <p id="brak-wynikow" class="notice" hidden>{{ ikona('info') }} <span>Nie mamy jeszcze tego urzędu w bazie. To nie przeszkoda: dołączasz regulamin i formularz do kwestionariusza, a my dopasowujemy treści. <a href="{{ u('') }}#alerty">Zapisz się na alert</a> albo <a href="{{ u('kontakt/') }}">zapytaj</a>.</span></p>
+    <p class="muted small">Nie ma Twojego urzędu? Pracujemy z każdym PUP w Polsce – regulamin i formularz dołączasz do kwestionariusza.</p>
+  </div>
+</div>
+<div class="sec"><div class="wrap">{{ cta_box('Wniosek pod regulamin Twojego urzędu', 'Od 299 zł, w 24–48 h od kompletu danych, z gwarancją poprawek po wezwaniu urzędu.') }}
+<p class="center small">Zobacz też: <a href="{{ u('branze/') }}">wskazówki dla branż</a> · <a href="{{ u('cennik/') }}">cennik</a> · <a href="{{ u('jak-dziala/') }}">jak to działa</a></p></div></div>
+{% endblock %}
+{% block scripts %}<script src="{{ u('assets/urzedy.js') }}" defer></script>{% endblock %}

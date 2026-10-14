@@ -1,0 +1,15 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona with context %}
+{% block head %}<meta name="robots" content="noindex">{% endblock %}
+{% block main %}
+<div class="wrap page-head narrow center">
+  <p class="big404" aria-hidden="true">404</p>
+  <h1>Nie ma takiej strony</h1>
+  <p class="lead">Adres mógł się zmienić albo zawiera literówkę. Spróbuj jednej z tych stron:</p>
+  <div class="hero__btns hero__btns--center">
+    <a class="btn btn-primary btn-lg" href="{{ u('') }}">Strona główna</a>
+    <a class="btn btn-secondary btn-lg" href="{{ u('quiz/') }}">Quiz kwalifikacyjny</a>
+  </div>
+  <p><a href="{{ u('cennik/') }}">Cennik</a> · <a href="{{ u('branze/') }}">Branże</a> · <a href="{{ u('urzedy/') }}">Urzędy pracy</a> · <a href="{{ u('kontakt/') }}">Kontakt</a></p>
+</div>
+{% endblock %}

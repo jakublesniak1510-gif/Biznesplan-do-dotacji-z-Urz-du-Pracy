@@ -1,0 +1,179 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, karty_pakietow, tabela_pakietow, tabela_doplat, formularz_alertow, faq_lista with context %}
+{% block main %}
+<section class="hero">
+  <div class="wrap hero__in">
+    <div class="hero__txt">
+      <p class="eyebrow">Dotacja z urzędu pracy na założenie firmy</p>
+      <h1>Treści do wniosku o dotację pod <span class="hl">Twój urząd pracy</span> – w 24–48 h, od 299 zł</h1>
+      <p class="lead">Wypełniasz kwestionariusz o swoim pomyśle. Dostajesz gotowe teksty do pól wniosku <strong>Twojego</strong> PUP, kosztorys z uzasadnieniem i prognozę finansową – napisane pod regulamin i kartę oceny tego urzędu. Każdy dokument sprawdza człowiek.</p>
+      <div class="hero__btns">
+        <a class="btn btn-primary btn-lg" href="{{ tally() }}">Zamów treści do wniosku {{ ikona('strzalka') }}</a>
+        <a class="btn btn-secondary btn-lg" href="{{ u('quiz/') }}">Sprawdź, czy się kwalifikujesz</a>
+      </div>
+      <ul class="hero__trust">
+        <li>{{ ikona('tarcza') }} Poprawki po wezwaniu urzędu gratis</li>
+        <li>{{ ikona('czlowiek') }} Każdy tekst czyta i poprawia człowiek</li>
+        <li>{{ ikona('zegar') }} Stała cena, bez wyceny „indywidualnej”</li>
+      </ul>
+    </div>
+    <div class="hero__card">
+      <p class="hero__card-t">{{ ikona('plik') }} Dostajesz</p>
+      <ul class="checks">
+        <li>{{ ikona('check') }} opis działalności i kwalifikacji pod kryteria oceny</li>
+        <li>{{ ikona('check') }} analizę rynku i lokalnej konkurencji</li>
+        <li>{{ ikona('check') }} specyfikację zakupów z uzasadnieniem, sprawdzoną z wykluczeniami regulaminu</li>
+        <li>{{ ikona('check') }} prognozę przychodów i kosztów na 12 miesięcy</li>
+        <li>{{ ikona('check') }} DOCX, PDF i arkusz + instrukcję, co wpisać i podpisać samemu</li>
+      </ul>
+      <p class="hero__card-foot muted small">Zakres zależy od pakietu – <a href="#cennik">porównanie niżej</a>.</p>
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-wyrozniki">
+  <div class="wrap">
+    <h2 id="h-wyrozniki" class="sec__t">Czym różnimy się od wzorów i firm doradczych</h2>
+    <div class="grid-3">
+      <article class="card">
+        <span class="card__ik">{{ ikona('zegar') }}</span>
+        <h3>24–48 h zamiast 7–14 dni</h3>
+        <p>Liczymy od kompletu danych. Nabory w 2026 r. trwają często 1–2 dni albo do wyczerpania środków, więc gotowy wniosek w dniu otwarcia to realna przewaga. Premium i ekspres: 24 h robocze.</p>
+      </article>
+      <article class="card">
+        <span class="card__ik">{{ ikona('urzad') }}</span>
+        <h3>Pod regulamin Twojego PUP, nie z szablonu</h3>
+        <p>Każdy urząd ma własny formularz, limity w kosztorysie, wykluczenia i kartę oceny. Piszemy treści w układzie formularza Twojego urzędu i celujemy w punktowane kryteria – za ułamek ceny usługi „pod klucz” (1 350–1 450 zł).</p>
+      </article>
+      <article class="card">
+        <span class="card__ik">{{ ikona('tarcza') }}</span>
+        <h3>Poprawki po wezwaniu urzędu gratis</h3>
+        <p>Jeśli urząd wezwie do uzupełnienia lub poprawienia naszych treści, poprawiamy je bez dopłaty w 24 h robocze. W każdym pakiecie. <a href="{{ u('cennik/') }}#gwarancja">Warunki gwarancji</a>.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-kroki">
+  <div class="wrap">
+    <h2 id="h-kroki" class="sec__t">Jak to działa – 5 kroków</h2>
+    <ol class="steps">
+      <li><h3>Sprawdź, czy się kwalifikujesz</h3><p>Bezpłatny <a href="{{ u('quiz/') }}">quiz</a> (2–3 min): warunki z ustawy, zabezpieczenie, branża, nabór w Twoim urzędzie.</p></li>
+      <li><h3>Wybierz pakiet i zapłać</h3><p>Podstawowy, Standard lub Premium. BLIK lub karta. Stała cena, bez niespodzianek.</p></li>
+      <li><h3>Wypełnij kwestionariusz</h3><p>40–60 min, z zapisem wersji roboczej. Dołączasz regulamin i formularz urzędu oraz linki do ofert zakupów. Bez PESEL i adresu.</p></li>
+      <li><h3>My piszemy, człowiek sprawdza</h3><p>Treści powstają z Twoich danych według szablonów i modelu finansowego, z pomocą AI. Potem redakcja i kontrola według checklisty: regulamin, limity, spójność liczb, prawdziwość.</p></li>
+      <li><h3>Odbierasz, poprawiasz, składasz</h3><p>DOCX, PDF i arkusz w 24–48 h. Masz 7 dni na zbiorczą listę uwag. Wniosek podpisujesz i składasz sam. Wezwanie z urzędu? Odsyłamy poprawki w 24 h.</p></li>
+    </ol>
+    <p class="center"><a class="link-strong" href="{{ u('jak-dziala/') }}">Szczegóły: co przygotować i jakie są terminy {{ ikona('strzalka', 'ik ik-s') }}</a></p>
+  </div>
+</section>
+
+<section class="sec" id="cennik" aria-labelledby="h-cennik">
+  <div class="wrap">
+    <h2 id="h-cennik" class="sec__t">Cennik</h2>
+    <p class="sec__lead">Ceny końcowe. Usługa „pod klucz” u doradcy kosztuje zwykle 1 350–1 450 zł i trwa 7–14 dni.</p>
+    {{ karty_pakietow() }}
+    <h3 class="sub-t">Porównanie pakietów</h3>
+    {{ tabela_pakietow() }}
+    <h3 class="sub-t">Dopłaty</h3>
+    {{ tabela_doplat() }}
+    <p class="center"><a class="link-strong" href="{{ u('cennik/') }}">Pełny cennik: rundy poprawek, gwarancja, zwroty, porównanie z alternatywami {{ ikona('strzalka', 'ik ik-s') }}</a></p>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-nie">
+  <div class="wrap two-col">
+    <div>
+      <h2 id="h-nie" class="sec__t">Czego nie robimy</h2>
+      <p>Wniosek podpisujesz Ty, a część oświadczeń składasz pod rygorem odpowiedzialności karnej. Dlatego stawiamy sprawę jasno:</p>
+    </div>
+    <ul class="nots">
+      <li>{{ ikona('x') }}<div><strong>Nie gwarantujemy dotacji.</strong> Decyzję podejmuje urząd – według swoich kryteriów i dostępnych pieniędzy. Odmowa nie jest decyzją administracyjną i nie można się od niej odwołać.</div></li>
+      <li>{{ ikona('x') }}<div><strong>Nie wymyślamy danych.</strong> Nie dopisujemy doświadczenia, klientów, listów intencyjnych ani cen. Czego brakuje, oznaczamy w dokumencie jako „[UZUPEŁNIJ]”.</div></li>
+      <li>{{ ikona('x') }}<div><strong>Nie składamy wniosku za Ciebie</strong> i nie reprezentujemy Cię przed urzędem.</div></li>
+      <li>{{ ikona('x') }}<div><strong>Nie doradzamy prawnie ani podatkowo</strong> (np. w wyborze formy opodatkowania) i nie prowadzimy księgowości.</div></li>
+      <li>{{ ikona('x') }}<div><strong>Naszej usługi nie opłacisz z dotacji.</strong> Z dotacji rozlicza się tylko wydatki poniesione od dnia podpisania umowy z urzędem.</div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-fakty">
+  <div class="wrap">
+    <h2 id="h-fakty" class="sec__t">Dotacja z PUP – fakty na {{ site.STAN_NA_TXT }}</h2>
+    <div class="facts">
+      <div class="fact">
+        <p class="fact__k">Limit ustawowy</p>
+        <p class="fact__v">{{ site.fakty.limit_kwota }}</p>
+        <p class="fact__d">{{ site.fakty.limit_okres }}. {{ site.fakty.limit_uwaga }} <a href="{{ site.fakty.limit_zrodlo }}" rel="noopener">Komunikat GUS</a></p>
+      </div>
+      <div class="fact">
+        <p class="fact__k">Ile dają urzędy w praktyce</p>
+        <p class="fact__v">{{ site.fakty.typowe_kwoty }}</p>
+        <p class="fact__d">Każdy PUP ustala własne, niższe maksimum – {{ site.fakty.typowe_przyklady }}. Liczy się kwota z ogłoszenia Twojego urzędu.</p>
+      </div>
+      <div class="fact">
+        <p class="fact__k">Kiedy są nabory</p>
+        <p class="fact__v">Przez cały rok</p>
+        <p class="fact__d">Najwięcej w lutym–kwietniu, kolejne fale w czerwcu–lipcu i we wrześniu–październiku. Styczeń jest zwykle cichy. W 2026 r. pule z Funduszu Pracy są mniejsze, a nabory krótkie (często 1–2 dni).</p>
+      </div>
+      <div class="fact">
+        <p class="fact__k">Warunek, o którym się zapomina</p>
+        <p class="fact__v">Zabezpieczenie</p>
+        <p class="fact__d">Bez niego urząd nie podpisze umowy. Najczęściej 2 poręczycieli z dochodem ok. 4–5 tys. zł netto, alternatywnie blokada środków, gwarancja bankowa, zastaw.</p>
+      </div>
+      <div class="fact">
+        <p class="fact__k">Po przyznaniu</p>
+        <p class="fact__v">min. 12 miesięcy</p>
+        <p class="fact__d">prowadzenia firmy, bez etatu. Zawieszenie łącznie do 6 miesięcy (nie liczy się do 12). Rozliczenie w 2 miesiące od startu.</p>
+      </div>
+    </div>
+    <p class="disclaimer">{{ ikona('info', 'ik ik-s') }} <span>Dane na {{ site.STAN_NA_TXT }} na podstawie <a href="{{ site.fakty.ustawa_url }}" rel="noopener">ustawy z 20.03.2025 o rynku pracy i służbach zatrudnienia</a> (art. 147–153) i <a href="{{ site.fakty.rozporzadzenie_url }}" rel="noopener">rozporządzenia MRPiPS z 21.11.2025</a>. Kwoty, terminy i limity zmieniają się – zawsze sprawdzaj ogłoszenie i regulamin swojego urzędu.</span></p>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-branze">
+  <div class="wrap">
+    <h2 id="h-branze" class="sec__t">Twoja branża, Twój urząd</h2>
+    <p class="sec__lead">Typowe zakupy, limity i pułapki kosztorysu w najczęstszych pomysłach na firmę.</p>
+    <ul class="tiles">
+      {% for b in branze %}<li><a class="tile" href="{{ u('branze/' ~ b.slug ~ '/') }}">{{ ikona(b.ikona) }}<span>{{ b.nazwa }}</span></a></li>{% endfor %}
+      <li><a class="tile tile--alt" href="{{ u('urzedy/') }}">{{ ikona('urzad') }}<span>Regulaminy urzędów pracy</span></a></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-faq">
+  <div class="wrap narrow">
+    <h2 id="h-faq" class="sec__t">Najczęstsze pytania</h2>
+    {{ faq_lista(faq) }}
+  </div>
+</section>
+
+<section class="sec sec--accent" id="alerty" aria-labelledby="h-alerty" tabindex="-1">
+  <div class="wrap two-col">
+    <div>
+      <h2 id="h-alerty" class="sec__t">{{ ikona('dzwonek') }} Bezpłatne alerty o naborach</h2>
+      <p>Nabory bywają otwarte 1–2 dni. Zapisz się, a damy Ci znać e-mailem, gdy urząd w Twoim województwie ogłosi nabór wniosków o dotację na założenie firmy – z linkiem do ogłoszenia i terminem.</p>
+      <ul class="checks checks--small">
+        <li>{{ ikona('check') }} tylko nabory z Twojego województwa</li>
+        <li>{{ ikona('check') }} bez spamu, wypisanie jednym kliknięciem</li>
+      </ul>
+    </div>
+    <div class="panel">
+      {{ formularz_alertow() }}
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-final">
+  <div class="wrap final">
+    <h2 id="h-final">Gotowy wniosek, zanim urząd otworzy nabór</h2>
+    <p>Sprawdź warunki w 2 minuty albo od razu zamów treści pod swój urząd.</p>
+    <div class="hero__btns hero__btns--center">
+      <a class="btn btn-primary btn-lg" href="{{ tally() }}">Zamów treści do wniosku {{ ikona('strzalka') }}</a>
+      <a class="btn btn-secondary btn-lg" href="{{ u('quiz/') }}">Zrób quiz kwalifikacyjny</a>
+    </div>
+  </div>
+</section>
+{% endblock %}
+{% block scripts %}<script src="{{ u('assets/formularze.js') }}" defer></script>{% endblock %}

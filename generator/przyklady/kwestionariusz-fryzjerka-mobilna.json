@@ -1,0 +1,149 @@
+{
+  "id": "2026-10-fryzjerka-anna",
+  "kontakt": {"email": "anna.przyklad@example.com", "telefon": "600 100 200"},
+  "osoba": {"imie": "Anna", "miejscowosc": "Borków", "gmina": "Borków"},
+  "nabor": {
+    "nazwa_pup": "Powiatowy Urząd Pracy w Zielonowie",
+    "pup_id": "zielonow",
+    "powiat": "zielonowski",
+    "url_ogloszenia": "https://zielonow.praca.gov.pl/-/nabor-dofinansowanie-2026-przyklad",
+    "url_regulaminu": "https://zielonow.praca.gov.pl/-/regulamin-2026-przyklad",
+    "kwota_max_zl": 30000,
+    "termin_zlozenia": "2026-10-30",
+    "zrodlo_finansowania": "FP"
+  },
+  "status": "bezrobotny",
+  "bezrobotny_od": "2026-04",
+  "powod_utraty_pracy": "zamknięcie salonu „Studio Włosów Iza” w marcu 2026 r.",
+  "grupy": ["kobieta"],
+  "kwota_wnioskowana": 26000,
+  "zabezpieczenie": {"formy": ["poręczenie"], "liczba_poreczycieli": 2, "uwagi": "brat i szwagierka, umowy na czas nieokreślony"},
+  "pomysl": {
+    "opis": "Będę fryzjerką mobilną: strzygę, farbuję i czeszę klientki i klientów w ich domach w Borkowie, Zielonowie i okolicznych wsiach (do 25 km). Raz w miesiącu strzygę mieszkańców DPS „Pod Lipami” w Borkowie na podstawie umowy, którą mam od 2022 r. Robię też upięcia ślubne i okolicznościowe w domach panien młodych. Dojeżdżam własnym autem ze sprzętem w walizce, a umawiam się przez telefon i stronę z rezerwacją.",
+    "pkd": [{"kod": "96.21.Z", "nazwa": "Fryzjerstwo", "glowny": true}],
+    "uprawnienia": "Działalność nie wymaga zezwoleń. Mam dyplom czeladnika w zawodzie fryzjer. Kasa fiskalna online obowiązkowa od pierwszej usługi.",
+    "sezonowosc": "częściowo",
+    "sezonowosc_opis": "Więcej pracy w grudniu (święta, sylwester) i w maju–czerwcu (śluby, komunie), mniej w styczniu i lutym.",
+    "data_startu": "2026-12-01",
+    "przejecie_od_rodziny": "nie",
+    "motywacja": "Dawne klientki z salonu pytały, czy mogę przyjeżdżać do nich do domu – część z nich przestała wychodzić z domu. Strzyżenie w DPS pokazało mi, że umiem pracować przy łóżku i na wózku."
+  },
+  "uslugi": [
+    {"nazwa": "Strzyżenie damskie z modelowaniem", "cena": 80, "liczba_mies": 30, "czas_h": 1.0, "glowna": true},
+    {"nazwa": "Strzyżenie męskie i dziecięce", "cena": 45, "liczba_mies": 30, "czas_h": 0.5},
+    {"nazwa": "Koloryzacja (z materiałem)", "cena": 200, "liczba_mies": 12, "czas_h": 2.5},
+    {"nazwa": "Upięcie okolicznościowe / ślubne", "cena": 220, "liczba_mies": 5, "czas_h": 1.5},
+    {"nazwa": "Strzyżenie seniorów w DPS (umowa)", "cena": 40, "liczba_mies": 20, "czas_h": 0.5}
+  ],
+  "forma": {
+    "opodatkowanie": "ryczałt",
+    "stawka_ryczaltu": 0.085,
+    "vat": "zwolniony",
+    "stawka_vat_sprzedaz": 0.08,
+    "zus": "ulga na start + preferencyjny",
+    "chorobowe": true,
+    "ksiegowosc": "biuro rachunkowe, 200 zł miesięcznie"
+  },
+  "lokalizacja": {
+    "tryb": "mobilnie",
+    "miejscowosc": "Borków",
+    "obszar": ["Borków", "Zielonów", "wsie gminy Borków", "gmina Lipy"],
+    "promien_km": 25,
+    "dojazd": "własny samochód Skoda Fabia 2014",
+    "prawo_jazdy": "kat. B od 2010 r.",
+    "przechowywanie_sprzetu": "w domu w Borkowie (wydzielona szafa i garaż)",
+    "godziny_pracy": "pn–pt 9–18, soboty 8–14 (śluby według terminów)",
+    "przyjmowanie_zlecen": "telefonicznie i przez stronę z rezerwacją online"
+  },
+  "kwalifikacje": {
+    "wyksztalcenie": [{"poziom": "zasadnicza szkoła zawodowa", "kierunek": "fryzjer", "rok": 2010},
+                      {"poziom": "dyplom czeladnika", "szkola": "Cech Rzemiosł Różnych w Zielonowie", "kierunek": "fryzjer", "rok": 2012}],
+    "kursy": [{"nazwa": "Koloryzacja – szkolenie producenta farb", "rok": 2019, "godziny": 16},
+              {"nazwa": "Fryzury okolicznościowe i upięcia (3 dni)", "rok": 2021}],
+    "doswiadczenie": [
+      {"pracodawca": "Fryzjer Ela", "miejscowosc": "Borków", "stanowisko": "fryzjerka", "od": "2012", "do": "2017",
+       "obowiazki": "strzyżenia damskie, męskie i dziecięce"},
+      {"pracodawca": "Studio Włosów Iza", "miejscowosc": "Zielonów, ul. Kościuszki 8", "stanowisko": "fryzjerka", "od": "2017", "do": "2026-03",
+       "obowiazki": "strzyżenia, koloryzacje, upięcia; od 2020 opieka nad praktykantkami; zamawianie farb u hurtownika; obsługa kasy fiskalnej"},
+      {"pracodawca": "DPS „Pod Lipami”", "miejscowosc": "Borków", "stanowisko": "fryzjerka (umowa zlecenie)", "od": "2022", "do": "obecnie",
+       "obowiazki": "raz w miesiącu strzyżenie mieszkańców, także leżących i na wózkach"}
+    ],
+    "nieformalne": "Ok. 15 upięć ślubnych rocznie w domach klientek przez ostatnie 3 lata (w ramach pracy w salonie).",
+    "dokumenty": ["dyplom czeladniczy", "zaświadczenia z kursów", "świadectwa pracy", "umowa zlecenia z DPS"],
+    "inne_umiejetnosci": "obsługa kasy fiskalnej, zamawianie towaru, grafik wizyt"
+  },
+  "klienci": {
+    "segmenty": [
+      {"nazwa": "stałe klientki z salonu", "opis": "kobiety 40–75 lat z Zielonowa i Borkowa, które chcą kontynuować strzyżenie i koloryzację u mnie", "liczba": "ok. 40 osób zadeklarowało przejście"},
+      {"nazwa": "seniorzy w domach i DPS", "opis": "osoby, które nie wychodzą z domu lub mieszkają w DPS „Pod Lipami”", "liczba": "ok. 20 strzyżeń miesięcznie w DPS"},
+      {"nazwa": "panny młode i goście weselni", "opis": "upięcia w dniu ślubu, w domu klientki", "liczba": "ok. 15 upięć rocznie dotąd"},
+      {"nazwa": "rodziny z dziećmi", "opis": "strzyżenie kilku osób podczas jednej wizyty"}
+    ],
+    "dowody_popytu": [
+      "ok. 40 stałych klientek z salonu zadeklarowało, że przejdą do mnie",
+      "umowa zlecenie z DPS „Pod Lipami” trwa od 2022 r.",
+      "klientki pytały o wizyty domowe jeszcze w czasie pracy w salonie"
+    ],
+    "zainteresowani": "DPS „Pod Lipami” (umowa), ok. 40 klientek z listy"
+  },
+  "konkurencja": {
+    "data_rozpoznania": "wrzesień 2026",
+    "konkurenci": [
+      {"nazwa": "Salon „Fryzjer Ela”", "miejscowosc": "Borków", "oferta": "strzyżenia, koloryzacje w salonie", "ceny": "strzyżenie damskie 70 zł, koloryzacja od 180 zł", "zrodlo_cen": "cennik w salonie, 09.2026", "slabe_strony": "brak wizyt domowych, czynne do 17"},
+      {"nazwa": "Salon „Lok”", "miejscowosc": "Zielonów, Rynek 5", "oferta": "pełna oferta salonu, 4 stanowiska", "ceny": "strzyżenie damskie 95 zł, koloryzacja od 220 zł", "zrodlo_cen": "strona www, 09.2026", "slabe_strony": "terminy ok. 2 tygodnie, brak dojazdu do klienta"},
+      {"nazwa": "Studio „Grzywka”", "miejscowosc": "Zielonów, ul. Polna 3", "oferta": "strzyżenia damskie i męskie", "ceny": "strzyżenie damskie 75 zł, męskie 40 zł", "zrodlo_cen": "telefon, 09.2026", "slabe_strony": "pierwsze piętro bez windy – trudne dla seniorów"},
+      {"nazwa": "Pani Marta – fryzjerka mobilna", "miejscowosc": "Zielonów", "oferta": "strzyżenia w domu klienta", "ceny": "strzyżenie damskie 90 zł + dojazd 20 zł", "zrodlo_cen": "ogłoszenie na Facebooku, 09.2026", "slabe_strony": "nie robi koloryzacji ani upięć, nie dojeżdża do wsi gminy Borków"}
+    ],
+    "substytuty": ["strzyżenie przez rodzinę w domu", "wyjazd do salonu z pomocą bliskich"],
+    "przewaga": "Dojeżdżam do klienta bez dopłaty w promieniu 25 km, robię także koloryzację i upięcia w domu, mam doświadczenie z osobami leżącymi z DPS."
+  },
+  "marketing": {
+    "kanaly": ["grupa FB „Borków i okolice”", "wizytówka Google", "ulotki w przychodni i w parafii w Borkowie", "oklejone auto", "strona z rezerwacją online", "polecenia klientek"],
+    "pierwsze_dzialania": ["przed startem: strona, oklejenie auta, wizytówka Google, telefon do klientek z listy", "miesiąc 1: wizyty u klientek z listy i w DPS", "miesiąc 2–3: ulotki w przychodni i parafii"],
+    "cele": "po 3 miesiącach 30 stałych klientek i stała współpraca z DPS",
+    "utrzymanie": ["karta stałej klientki – co 10. strzyżenie gratis", "przypomnienie SMS o kolejnej wizycie"]
+  },
+  "zakupy": [
+    {"nazwa": "Fotel fryzjerski mobilny, składany", "kategoria": "sprzęt", "cena_brutto": 799.50, "uzasadnienie": "klientka siedzi wygodnie w każdym mieszkaniu"},
+    {"nazwa": "Przenośna myjka do włosów z podgrzewaniem wody", "kategoria": "sprzęt", "cena_brutto": 1476, "uzasadnienie": "mycie głowy bez umywalki; porównałam 3 oferty (1 090–1 690 zł netto), wybrałam środkową ze zbiornikiem 20 l"},
+    {"nazwa": "Suszarka profesjonalna 2000 W", "kategoria": "sprzęt", "ilosc": 2, "cena_brutto": 553.50, "uzasadnienie": "druga suszarka na wypadek awarii u klientki"},
+    {"nazwa": "Prostownica i lokówka profesjonalna (zestaw)", "kategoria": "sprzęt", "cena_brutto": 861, "uzasadnienie": "stylizacja i upięcia"},
+    {"nazwa": "Maszynka bezprzewodowa + trymer", "kategoria": "sprzęt", "cena_brutto": 1353, "uzasadnienie": "strzyżenia męskie i w DPS bez dostępu do gniazdka"},
+    {"nazwa": "Nożyczki fryzjerskie: proste + degażówki", "kategoria": "sprzęt", "cena_brutto": 2214, "uzasadnienie": "stal japońska – tanie nożyczki tępią się po kilku miesiącach"},
+    {"nazwa": "Sterylizator UV i kuweta do dezynfekcji narzędzi", "kategoria": "sprzęt", "cena_brutto": 1107, "uzasadnienie": "higiena przy pracy u klientów"},
+    {"nazwa": "Climazon przenośny (używany, od osoby prywatnej)", "kategoria": "sprzęt", "stan": "używany", "cena_brutto": 1500, "stawka_vat": 0, "sprzedawca": "osoba prywatna", "uzasadnienie": "skraca koloryzację; nowy ok. 3 900 zł netto; sprawdzę na miejscu, umowa kupna-sprzedaży i oświadczenie sprzedającej"},
+    {"nazwa": "Walizka na kółkach i organizery na narzędzia", "kategoria": "sprzęt", "cena_brutto": 738, "uzasadnienie": "przewóz sprzętu do klientów"},
+    {"nazwa": "Kasa fiskalna online", "kategoria": "sprzęt", "cena_brutto": 2214, "uzasadnienie": "obowiązkowa od pierwszej usługi fryzjerskiej (informacja z biura rachunkowego)"},
+    {"nazwa": "Lampa LED akumulatorowa do pracy u klienta", "kategoria": "sprzęt", "cena_brutto": 325.95, "uzasadnienie": "słabe światło w mieszkaniach seniorów"},
+    {"nazwa": "Peleryny, ręczniki, szczotki, grzebienie, klipsy", "kategoria": "inne", "cena_brutto": 1476, "uzasadnienie": "akcesoria do codziennej pracy"},
+    {"nazwa": "Pierwszy zapas farb, oksydantów i kosmetyków", "kategoria": "towar", "cena_brutto": 6150, "sprzedawca": "hurtownia, z której korzystałam w salonie", "uzasadnienie": "materiały na pierwsze 2–3 miesiące"},
+    {"nazwa": "Oklejenie samochodu folią z logo i telefonem", "kategoria": "reklama", "cena_brutto": 2214, "uzasadnienie": "auto zastępuje szyld – firma mobilna nie ma witryny"},
+    {"nazwa": "Logo i strona www z rezerwacją online", "kategoria": "reklama", "cena_brutto": 2460, "uzasadnienie": "klientki umówią się o każdej porze"},
+    {"nazwa": "Tablet do kalendarza wizyt i portfolio", "kategoria": "sprzęt", "cena_brutto": 1722, "finansowanie": "wkład własny", "uzasadnienie": "kalendarz wizyt i zdjęcia fryzur"},
+    {"nazwa": "Ulotki, wizytówki, karty stałego klienta", "kategoria": "reklama", "cena_brutto": 615, "finansowanie": "wkład własny", "uzasadnienie": "ulotki do przychodni i parafii"}
+  ],
+  "zakup_od_rodziny": false,
+  "zasoby_posiadane": [{"nazwa": "samochód Skoda Fabia 2014", "wartosc": 12000}, {"nazwa": "telefon", "wartosc": 800}],
+  "wklad_wlasny": {"kwota": 3000, "zrodlo": "oszczędności", "na_co": "tablet, ulotki i rezerwa na pierwszy miesiąc"},
+  "listy_intencyjne": [{"od_kogo": "DPS „Pod Lipami” w Borkowie", "czego_dotyczy": "kontynuacja strzyżenia mieszkańców", "czestotliwosc": "raz w miesiącu, ok. 20 osób", "status": "podpisany"}],
+  "zatrudnienie": "nie",
+  "prognoza": {
+    "klienci_m1": 40, "klienci_m6": 90, "klienci_m12": 95,
+    "sezonowosc": [0.85, 0.85, 0.95, 1.05, 1.10, 1.15, 1.00, 0.95, 1.05, 0.95, 0.95, 1.15],
+    "rozruch": [0.4, 0.6, 0.8, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "dni_robocze": 21,
+    "godziny_dzien": 6,
+    "materialy_pct": 0.12,
+    "materialy_opis": "farby, oksydanty, szampony – ok. 12% przychodu",
+    "koszty_stale": {"czynsz": 0, "media": 0, "telefon_internet": 80, "ksiegowosc": 200, "ubezpieczenie": 60, "paliwo": 700, "reklama": 250, "inne": 200}
+  },
+  "ryzyka": [
+    {"ryzyko": "choroba – pracuję sama", "zapobieganie": "dobrowolne ubezpieczenie chorobowe", "plan_b": "przełożenie wizyt, pilne upięcia przekażę koleżance z Zielonowa"},
+    {"ryzyko": "słabsze miesiące styczeń–luty", "zapobieganie": "rezerwa gotówki z grudnia", "plan_b": "strzyżenie w drugim DPS w gminie Lipy i w zakładzie opiekuńczym w Zielonowie"},
+    {"ryzyko": "mniej klientek niż w planie", "zapobieganie": "lista 40 klientek i umowa z DPS", "plan_b": "pakiety dla rodzin (strzyżenie 3–4 osób podczas jednej wizyty), ograniczenie płatnej reklamy"},
+    {"ryzyko": "awaria auta", "zapobieganie": "przegląd przed startem", "plan_b": "wizyty w Borkowie pieszo, auto zastępcze od rodziny"}
+  ],
+  "finanse_domowe": {"inne_dochody": "mąż pracuje na etacie; jego pensja pokrywa wydatki domowe", "potrzeby_mies": 2000, "wytrzymalosc": "3–6 mies."},
+  "ton": "ciepły",
+  "notatka_wlasciciela": "Regulamin PUP Zielonów: towar do 30% dotacji, reklama do 20%, sprzęt używany dozwolony z oświadczeniem sprzedającego o niefinansowaniu ze środków publicznych w ostatnich 7 latach. Kasa fiskalna – sprawdzić katalog wydatków."
+}

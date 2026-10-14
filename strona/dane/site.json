@@ -1,0 +1,105 @@
+{
+  "_opis": "Ustawienia globalne strony. Wszystkie placeholdery do podmiany przed startem zawierają słowo PODMIEN (build.py wypisze ostrzeżenie, a formularze pokażą komunikat trybu podglądu). Lista: strona/README.md.",
+  "DOMENA": "https://example.pl",
+  "BASE_PATH": "/",
+  "NAZWA": "Biznesplan do PUP",
+  "NAZWA_PELNA": "Biznesplan do PUP – treści do wniosku o dotację z urzędu pracy",
+  "EMAIL": "kontakt@example.pl",
+  "FIRMA_DANE": "[PODMIEN: imię i nazwisko, firma, adres, NIP]",
+  "TALLY_URL": "https://tally.so/r/PODMIEN",
+  "ALERTY_FORM_ACTION": "https://example.com/PODMIEN-brevo-lub-tally-alerty",
+  "KONTAKT_FORM_ACTION": "https://example.com/PODMIEN-tally-kontakt",
+  "STAN_NA": "2026-10-14",
+  "STAN_NA_TXT": "14.10.2026",
+  "fakty": {
+    "limit_kwota": "55 398,78 zł",
+    "limit_okres": "od 1.09.2026 do 30.11.2026",
+    "limit_uwaga": "6 × przeciętne wynagrodzenie z II kw. 2026 (9 233,13 zł). Od 1.12.2026 obowiązuje nowa wartość z komunikatu GUS za III kw. – stronę aktualizujemy w listopadzie.",
+    "limit_zrodlo": "https://stat.gov.pl/sygnalne/komunikaty-i-obwieszczenia/lista-komunikatow-i-obwieszczen/komunikat-w-sprawie-przecietnego-wynagrodzenia-w-drugim-kwartale-2026-r-,271,53.html",
+    "typowe_kwoty": "28–49 tys. zł",
+    "typowe_przyklady": "np. Brodnica 32 tys. zł, Kolbuszowa 40 tys. zł, Łódź 49 tys. zł (nabory 2026)",
+    "ustawa_url": "https://api.sejm.gov.pl/eli/acts/DU/2025/620/text.pdf",
+    "rozporzadzenie_url": "https://api.sejm.gov.pl/eli/acts/DU/2025/1645/text.pdf",
+    "zielona_linia_url": "https://zielonalinia.gov.pl/",
+    "limit_liczba": 55398.78
+  },
+  "faq_strona_glowna": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    11,
+    20
+  ],
+  "zrodla_tresci": {
+    "faq": "../docs/faq-dla-klienta.md",
+    "regulamin": "../prawo/regulamin-uslugi-szkic.md",
+    "polityka": "dane/tresci/polityka-prywatnosci.md",
+    "pup_csv": "../baza-pup/regulaminy-pup-2026.csv",
+    "pup_csv_przyklad": "dane/przyklad-pup.csv"
+  },
+  "wojewodztwa": [
+    "dolnośląskie",
+    "kujawsko-pomorskie",
+    "lubelskie",
+    "lubuskie",
+    "łódzkie",
+    "małopolskie",
+    "mazowieckie",
+    "opolskie",
+    "podkarpackie",
+    "podlaskie",
+    "pomorskie",
+    "śląskie",
+    "świętokrzyskie",
+    "warmińsko-mazurskie",
+    "wielkopolskie",
+    "zachodniopomorskie"
+  ],
+  "seo": {
+    "index": {
+      "title": "Biznesplan do urzędu pracy: treści do wniosku pod Twój PUP w 24–48 h, od 299 zł",
+      "description": "Pomoc w napisaniu wniosku o dotację z urzędu pracy. Treści w układzie formularza Twojego PUP, kosztorys i prognoza w 24–48 h. Poprawki po wezwaniu urzędu gratis."
+    },
+    "quiz": {
+      "title": "Czy dostanę dotację z urzędu pracy? Bezpłatny quiz kwalifikacyjny",
+      "description": "10 pytań o warunki z ustawy o rynku pracy (art. 147–148): status, firma w ostatnich 12 mies., wcześniejsze dotacje, zabezpieczenie, branża. Wynik od razu, bez podawania e-maila."
+    },
+    "cennik": {
+      "title": "Napisanie biznesplanu do urzędu pracy – cena: 299 / 449 / 649 zł",
+      "description": "Cennik treści do wniosku o dotację z PUP: pakiety, rundy poprawek, gwarancja poprawek po wezwaniu urzędu, dopłaty i zwroty. Porównanie z wzorami i usługą pod klucz."
+    },
+    "jak-dziala": {
+      "title": "Wniosek o dotację z urzędu pracy krok po kroku – jak pracujemy",
+      "description": "Jak powstają treści do wniosku o dofinansowanie z PUP: co przygotować (regulamin, formularz, oferty, poręczyciele), terminy u nas i w urzędzie, AI pod kontrolą człowieka."
+    },
+    "branze": {
+      "title": "Dotacja z urzędu pracy dla Twojej branży – zakupy, limity, pułapki",
+      "description": "Wnioski o dotację z PUP w 9 branżach: fryzjer, kosmetyczka, mechanik, fotograf, sprzątanie, budowlanka, sklep internetowy, gastronomia, korepetycje."
+    },
+    "urzedy": {
+      "title": "Dotacja z PUP w Twoim powiecie – regulaminy, kwoty i nabory urzędów pracy",
+      "description": "Baza regulaminów powiatowych urzędów pracy: maksymalna kwota, limity w kosztorysie, zabezpieczenia, wykluczenia, karta oceny i ostatni nabór."
+    },
+    "regulamin": {
+      "title": "Regulamin usługi (wersja robocza)",
+      "description": "Regulamin świadczenia usługi przygotowania treści do wniosku o dotację z urzędu pracy – wersja robocza do konsultacji prawnej."
+    },
+    "polityka-prywatnosci": {
+      "title": "Polityka prywatności (wersja robocza)",
+      "description": "Jakie dane zbieramy, czego nie zbieramy (PESEL, adres), jak korzystamy z AI i jak długo przechowujemy pliki – wersja robocza do konsultacji prawnej."
+    },
+    "kontakt": {
+      "title": "Kontakt – pytania o wniosek o dotację z PUP",
+      "description": "Napisz do nas: pytania o pakiet, Twój urząd pracy lub nabór. Odpowiadamy w ciągu 1 dnia roboczego."
+    },
+    "404": {
+      "title": "Nie ma takiej strony",
+      "description": "Strona nie istnieje. Przejdź do strony głównej, cennika lub quizu kwalifikacyjnego."
+    }
+  }
+}

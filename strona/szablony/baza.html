@@ -1,0 +1,110 @@
+{% from 'makra.html' import ikona with context %}
+<!doctype html>
+<html lang="pl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>{{ seo.title }}{% if path != '' %} | {{ site.NAZWA }}{% endif %}</title>
+<meta name="description" content="{{ seo.description }}">
+<link rel="canonical" href="{{ canonical }}">
+{% if robots is defined and robots %}<meta name="robots" content="{{ robots }}">{% endif %}
+<meta name="color-scheme" content="light dark">
+<meta name="theme-color" content="#0f5d57" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#101816" media="(prefers-color-scheme: dark)">
+<meta property="og:type" content="website">
+<meta property="og:locale" content="pl_PL">
+<meta property="og:site_name" content="{{ site.NAZWA }}">
+<meta property="og:title" content="{{ seo.title }}">
+<meta property="og:description" content="{{ seo.description }}">
+<meta property="og:url" content="{{ canonical }}">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="{{ u('assets/favicon.svg') }}" type="image/svg+xml">
+<link rel="stylesheet" href="{{ u('assets/styl.css') }}">
+{% if ld %}<script type="application/ld+json">{{ ld }}</script>{% endif %}
+{% block head %}{% endblock %}
+</head>
+<body>
+<a class="skip" href="#tresc">Przejdź do treści</a>
+<header class="site-header">
+  <div class="wrap site-header__in">
+    <a class="logo" href="{{ u('') }}" aria-label="{{ site.NAZWA }} – strona główna">
+      <span class="logo__znak" aria-hidden="true">{{ ikona('plik') }}</span>
+      <span class="logo__txt">{{ site.NAZWA }}</span>
+    </a>
+    {% set NAV = [('jak-dziala/', 'Jak to działa'), ('cennik/', 'Cennik'), ('branze/', 'Branże'), ('urzedy/', 'Urzędy pracy')] %}
+    <nav class="nav-desk" aria-label="Główna nawigacja">
+      <ul>
+        {% for href, label in NAV %}<li><a href="{{ u(href) }}"{% if path.startswith(href) %} aria-current="page"{% endif %}>{{ label }}</a></li>{% endfor %}
+        <li><a class="btn btn-secondary btn-sm" href="{{ u('quiz/') }}"{% if path == 'quiz/' %} aria-current="page"{% endif %}>Quiz</a></li>
+        <li><a class="btn btn-primary btn-sm" href="{{ tally() }}">Zamów</a></li>
+      </ul>
+    </nav>
+    <details class="nav-mob">
+      <summary aria-label="Menu"><span class="burger" aria-hidden="true"></span><span class="nav-mob__lbl">Menu</span></summary>
+      <nav aria-label="Menu mobilne">
+        <ul>
+          {% for href, label in NAV %}<li><a href="{{ u(href) }}"{% if path.startswith(href) %} aria-current="page"{% endif %}>{{ label }}</a></li>{% endfor %}
+          <li><a href="{{ u('quiz/') }}">Quiz: czy się kwalifikuję?</a></li>
+          <li><a href="{{ u('') }}#alerty">Alerty o naborach</a></li>
+          <li><a href="{{ u('kontakt/') }}">Kontakt</a></li>
+          <li><a class="btn btn-primary btn-block" href="{{ tally() }}">Zamów treści do wniosku</a></li>
+        </ul>
+      </nav>
+    </details>
+  </div>
+</header>
+
+{% if crumbs %}
+<nav class="crumbs wrap" aria-label="Okruszki">
+  <ol>
+  {% for name, href in crumbs %}
+    {% if loop.last %}<li><span aria-current="page">{{ name }}</span></li>
+    {% else %}<li><a href="{{ u(href) }}">{{ name }}</a></li>{% endif %}
+  {% endfor %}
+  </ol>
+</nav>
+{% endif %}
+
+<main id="tresc" tabindex="-1">
+{% block main %}{% endblock %}
+</main>
+
+<footer class="site-footer">
+  <div class="wrap site-footer__grid">
+    <div>
+      <p class="logo logo--foot"><span class="logo__znak" aria-hidden="true">{{ ikona('plik') }}</span> {{ site.NAZWA }}</p>
+      <p class="muted">Treści do wniosku o dofinansowanie podjęcia działalności gospodarczej z powiatowego urzędu pracy. Nie jesteśmy urzędem pracy ani podmiotem publicznych służb zatrudnienia. Nie gwarantujemy przyznania dotacji – decyzję podejmuje urząd.</p>
+      <p class="muted small">Stan informacji prawnych: {{ site.STAN_NA_TXT }}.</p>
+    </div>
+    <div>
+      <h2 class="foot-h">Usługa</h2>
+      <ul class="foot-list">
+        <li><a href="{{ u('jak-dziala/') }}">Jak to działa</a></li>
+        <li><a href="{{ u('cennik/') }}">Cennik i gwarancja</a></li>
+        <li><a href="{{ u('quiz/') }}">Quiz kwalifikacyjny</a></li>
+        <li><a href="{{ u('') }}#alerty">Alerty o naborach</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="foot-h">Branże i urzędy</h2>
+      <ul class="foot-list">
+        {% for b in branze[:5] %}<li><a href="{{ u('branze/' ~ b.slug ~ '/') }}">{{ b.nazwa }}</a></li>{% endfor %}
+        <li><a href="{{ u('branze/') }}">Wszystkie branże</a></li>
+        <li><a href="{{ u('urzedy/') }}">Baza urzędów pracy</a></li>
+      </ul>
+    </div>
+    <div>
+      <h2 class="foot-h">Kontakt</h2>
+      <ul class="foot-list">
+        <li><a href="mailto:{{ site.EMAIL }}">{{ ikona('mail', 'ik ik-s') }} {{ site.EMAIL }}</a></li>
+        <li><a href="{{ u('kontakt/') }}">Formularz kontaktowy</a></li>
+        <li><a href="{{ u('regulamin/') }}">Regulamin</a></li>
+        <li><a href="{{ u('polityka-prywatnosci/') }}">Polityka prywatności</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="wrap site-footer__bottom small muted">© {{ rok }} {{ site.NAZWA }} · {{ site.FIRMA_DANE }}</div>
+</footer>
+{% block scripts %}{% endblock %}
+</body>
+</html>

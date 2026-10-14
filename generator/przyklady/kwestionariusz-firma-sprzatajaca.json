@@ -1,0 +1,148 @@
+{
+  "id": "2026-10-sprzatanie-katarzyna",
+  "kontakt": {"email": "katarzyna.przyklad@example.com", "telefon": "601 200 300"},
+  "osoba": {"imie": "Katarzyna", "miejscowosc": "Zielonów"},
+  "nabor": {
+    "nazwa_pup": "Powiatowy Urząd Pracy w Zielonowie",
+    "pup_id": "zielonow",
+    "powiat": "zielonowski",
+    "url_ogloszenia": "https://zielonow.praca.gov.pl/-/nabor-dofinansowanie-2026-przyklad",
+    "kwota_max_zl": 30000,
+    "termin_zlozenia": "2026-10-30",
+    "zrodlo_finansowania": "FP"
+  },
+  "status": "bezrobotny",
+  "bezrobotny_od": "2026-06",
+  "powod_utraty_pracy": "hotel „Zielony Dwór” zmniejszył zatrudnienie po sezonie",
+  "grupy": ["kobieta"],
+  "kwota_wnioskowana": 24000,
+  "zabezpieczenie": {"formy": ["poręczenie"], "liczba_poreczycieli": 2},
+  "pomysl": {
+    "opis": "Założę firmę sprzątającą w Zielonowie. Będę sprzątać mieszkania i domy, małe biura i gabinety, klatki schodowe we wspólnotach oraz mieszkania po remontach i przed sprzedażą lub najmem. Pracuję z własnym sprzętem i środkami, dojeżdżam autem do Zielonowa, Borkowa i Lip (do 15 km). Biura i gabinety sprzątam po godzinach pracy, mieszkania w umówionych terminach.",
+    "pkd": [{"kod": "81.21.Z", "nazwa": "Niespecjalistyczne sprzątanie budynków i obiektów przemysłowych", "glowny": true},
+            {"kod": "81.22.Z", "nazwa": "Specjalistyczne sprzątanie budynków i obiektów przemysłowych", "glowny": false}],
+    "uprawnienia": "Działalność nie wymaga zezwoleń. Środki chemiczne z kartami charakterystyki.",
+    "sezonowosc": "częściowo",
+    "sezonowosc_opis": "Najwięcej pracy w marcu–kwietniu i listopadzie–grudniu (okna, porządki przedświąteczne), słabiej w lipcu i sierpniu w mieszkaniach (urlopy); biura stabilne przez cały rok.",
+    "data_startu": "2027-02-01",
+    "przejecie_od_rodziny": "nie",
+    "motywacja": "Przez 10 lat w hotelu nauczyłam się sprzątać szybko i według standardu. Znajomi z Osiedla Słonecznego coraz częściej prosili mnie o pomoc, bo nie mają czasu w tygodniu."
+  },
+  "uslugi": [
+    {"nazwa": "Sprzątanie mieszkania (do 60 m²)", "cena": 220, "liczba_mies": 14, "czas_h": 3.0, "glowna": true},
+    {"nazwa": "Sprzątanie biura lub gabinetu (wizyta)", "cena": 120, "liczba_mies": 22, "czas_h": 1.5},
+    {"nazwa": "Sprzątanie klatki schodowej (wizyta)", "cena": 90, "liczba_mies": 8, "czas_h": 1.0},
+    {"nazwa": "Sprzątanie po remoncie", "cena": 600, "liczba_mies": 2, "czas_h": 6.0},
+    {"nazwa": "Mycie okien w mieszkaniu", "cena": 180, "liczba_mies": 6, "czas_h": 2.0}
+  ],
+  "forma": {
+    "opodatkowanie": "ryczałt",
+    "stawka_ryczaltu": 0.085,
+    "vat": "zwolniony",
+    "stawka_vat_sprzedaz": 0.23,
+    "zus": "ulga na start + preferencyjny",
+    "chorobowe": true,
+    "ksiegowosc": "biuro rachunkowe „Bilans”, 250 zł miesięcznie"
+  },
+  "lokalizacja": {
+    "tryb": "mobilnie",
+    "miejscowosc": "Zielonów",
+    "obszar": ["Zielonów", "Osiedle Słoneczne", "Borków", "Lipy"],
+    "promien_km": 15,
+    "dojazd": "własny samochód kombi, dojazd do 20 minut",
+    "prawo_jazdy": "kat. B od 2009 r.",
+    "przechowywanie_sprzetu": "komórka lokatorska i garaż w Zielonowie",
+    "godziny_pracy": "pn–pt 7–19, soboty według zleceń",
+    "przyjmowanie_zlecen": "telefonicznie, przez formularz na stronie i przez Messenger"
+  },
+  "kwalifikacje": {
+    "wyksztalcenie": [{"poziom": "technikum", "szkola": "Zespół Szkół Ekonomicznych w Zielonowie", "kierunek": "technik hotelarstwa", "rok": 2011}],
+    "kursy": [{"nazwa": "Profesjonalne techniki sprzątania i dobór środków chemicznych", "organizator": "producent chemii profesjonalnej", "rok": 2019, "godziny": 16},
+              {"nazwa": "Obsługa maszyn czyszczących (szorowarka, odkurzacz piorący)", "rok": 2021, "godziny": 8}],
+    "doswiadczenie": [
+      {"pracodawca": "Clean-Pro sp. z o.o.", "miejscowosc": "miasto wojewódzkie", "stanowisko": "pracownica sprzątająca (umowa zlecenie)", "od": "2012", "do": "2015",
+       "obowiazki": "sprzątanie biur i klatek schodowych, sprzątanie po remontach"},
+      {"pracodawca": "Hotel „Zielony Dwór”", "miejscowosc": "Zielonów", "stanowisko": "pokojowa, od 2020 koordynatorka zespołu sprzątającego", "od": "2015", "do": "2026-05",
+       "obowiazki": "sprzątanie pokoi i części wspólnych; od 2020 grafik 4 osób, zamawianie środków czystości, kontrola jakości pokoi"}
+    ],
+    "dokumenty": ["dyplom technika hotelarstwa", "zaświadczenia z kursów", "świadectwa pracy", "listy intencyjne"],
+    "inne_umiejetnosci": "układanie grafiku, zamawianie środków czystości, obsługa maszyn czyszczących"
+  },
+  "klienci": {
+    "segmenty": [
+      {"nazwa": "mieszkańcy nowych osiedli", "opis": "pracujący rodzice i pary 30–45 lat z Osiedla Słonecznego, sprzątanie co 2 tygodnie", "liczba": "19 osób zainteresowanych w ankiecie"},
+      {"nazwa": "wspólnoty mieszkaniowe", "opis": "sprzątanie klatek schodowych; zarządca „Admin-Dom” obsługuje 38 wspólnot", "liczba": "38 wspólnot u jednego zarządcy"},
+      {"nazwa": "małe biura i gabinety", "opis": "sprzątanie po godzinach 2–3 razy w tygodniu", "liczba": "2 listy intencyjne"},
+      {"nazwa": "biura nieruchomości", "opis": "sprzątanie mieszkań przed sprzedażą lub najmem i po remontach", "liczba": "3 biura w Zielonowie"}
+    ],
+    "dane_o_terenie": [
+      {"opis": "Zielonów ma ok. 28 tys. mieszkańców", "zrodlo": "GUS BDL 2025"},
+      {"opis": "Na Osiedlu Słonecznym w latach 2023–2026 oddano ok. 420 mieszkań", "zrodlo": "informacja dewelopera"}
+    ],
+    "dowody_popytu": [
+      "ankieta w grupie FB mieszkańców Osiedla Słonecznego (09.2026): 46 odpowiedzi, 19 osób chce sprzątania co 2 tygodnie",
+      "2 listy intencyjne: gabinet „Fizjo-Ruch” i biuro rachunkowe „Bilans”",
+      "zarząd jednej wspólnoty skarżył się na nieregularność obecnej firmy sprzątającej klatki"
+    ],
+    "zainteresowani": "„Fizjo-Ruch”, „Bilans”, 19 osób z ankiety, 3 biura nieruchomości"
+  },
+  "konkurencja": {
+    "data_rozpoznania": "wrzesień 2026",
+    "konkurenci": [
+      {"nazwa": "Czysty Dom", "miejscowosc": "miasto wojewódzkie (45 km)", "oferta": "sprzątanie klatek dla „Admin-Dom”", "ceny": "ok. 100 zł za klatkę", "zrodlo_cen": "rozmowa z członkiem zarządu wspólnoty, 09.2026", "slabe_strony": "nieregularne terminy, brak ekipy na miejscu"},
+      {"nazwa": "Blask – usługi sprzątające", "miejscowosc": "Zielonów", "oferta": "sprzątanie biur, 2 osoby", "ceny": "35 zł za godzinę", "zrodlo_cen": "strona www, 09.2026", "slabe_strony": "nie sprzątają mieszkań prywatnych ani po remontach", "mocne_strony": "znani w mieście od 6 lat"},
+      {"nazwa": "Pani Halina – sprzątanie mieszkań", "miejscowosc": "Zielonów", "oferta": "sprzątanie mieszkań", "ceny": "180 zł za mieszkanie", "zrodlo_cen": "ogłoszenie na Facebooku, 09.2026", "slabe_strony": "bez własnego sprzętu i faktur, wolne terminy dopiero za 3 tygodnie"},
+      {"nazwa": "Clean-Pro sp. z o.o.", "miejscowosc": "miasto wojewódzkie", "oferta": "sprzątanie po remontach, duże obiekty", "ceny": "po remoncie od 900 zł", "zrodlo_cen": "strona www, 09.2026", "slabe_strony": "dojazd 45 km doliczany do ceny, minimalne zlecenie 600 zł"}
+    ],
+    "substytuty": ["sprzątanie we własnym zakresie w weekendy"],
+    "przewaga": "Jestem na miejscu w Zielonowie, mam własny sprzęt (odkurzacz piorący, parownica, szorowarka), wystawiam faktury i mam doświadczenie z hotelowym standardem sprzątania."
+  },
+  "marketing": {
+    "kanaly": ["grupa FB „Zielonów – Osiedle Słoneczne” (ok. 1 900 członków)", "wizytówka Google", "ulotki do skrzynek na Osiedlu Słonecznym (za zgodą zarządcy)", "osobista wizyta u zarządcy „Admin-Dom”", "e-mail i wizyta w 3 biurach nieruchomości", "magnes z numerem telefonu po każdym sprzątaniu"],
+    "pierwsze_dzialania": ["przed startem: wizytówka Google, strona, oklejenie auta, ulotki, wpis w grupie osiedlowej", "miesiąc 1: zlecenia dla „Fizjo-Ruch” i „Bilans”, pierwsze sprzątania u osób z ankiety", "miesiąc 2: spotkanie z „Admin-Dom” i oferta na klatki, wizyty w biurach nieruchomości"],
+    "cele": "po 3 miesiącach 12 stałych klientów domowych, 2 biura i 1 wspólnota",
+    "utrzymanie": ["rabat 50 zł dla klienta polecającego i poleconego", "pytanie każdego nowego klienta, skąd się dowiedział"]
+  },
+  "zakupy": [
+    {"nazwa": "Odkurzacz piorący profesjonalny", "kategoria": "sprzęt", "cena_brutto": 3690, "link": "https://example.com/oferta/odkurzacz-piorący", "uzasadnienie": "pranie wykładzin, tapicerki i dywanów u klientów"},
+    {"nazwa": "Odkurzacz przemysłowy na mokro i sucho", "kategoria": "sprzęt", "cena_brutto": 1845, "link": "https://example.com/oferta/odkurzacz-przemyslowy", "uzasadnienie": "pył po remontach – zwykły odkurzacz się psuje"},
+    {"nazwa": "Parownica profesjonalna", "kategoria": "sprzęt", "cena_brutto": 2952, "link": "https://example.com/oferta/parownica", "uzasadnienie": "łazienki i kuchnie bez silnej chemii, ważne w gabinecie fizjoterapii"},
+    {"nazwa": "Zestaw do mycia okien (teleskop, ściągaczki) i robot do szyb", "kategoria": "sprzęt", "cena_brutto": 1592, "link": "https://example.com/oferta/okna", "uzasadnienie": "mycie okien w sezonie wiosennym i przedświątecznym"},
+    {"nazwa": "Wózek serwisowy z wiadrami i mopami", "kategoria": "sprzęt", "ilosc": 2, "cena_brutto": 984, "link": "https://example.com/oferta/wozek", "uzasadnienie": "jeden wózek zostaje w gabinecie „Fizjo-Ruch”, drugi jeździ ze mną"},
+    {"nazwa": "Szorowarka jednotarczowa (używana, z fakturą)", "kategoria": "sprzęt", "stan": "używany", "cena_brutto": 4500, "sprzedawca": "firma handlująca maszynami czyszczącymi", "link": "https://example.com/oferta/szorowarka", "uzasadnienie": "doczyszczanie posadzek po remontach i na klatkach; nowa kosztuje ok. 9 000 zł"},
+    {"nazwa": "Drabina aluminiowa i akcesoria", "kategoria": "inne", "cena_brutto": 738, "link": "https://example.com/oferta/drabina", "uzasadnienie": "mycie okien i lamp na klatkach schodowych"},
+    {"nazwa": "Środki czystości i ściereczki na pierwsze 3 miesiące", "kategoria": "towar", "cena_brutto": 3000, "sprzedawca": "hurtownia chemii profesjonalnej", "link": "https://example.com/oferta/chemia", "uzasadnienie": "zapas na start w cenach hurtowych"},
+    {"nazwa": "Odzież robocza z logo (3 komplety)", "kategoria": "inne", "cena_brutto": 615, "link": "https://example.com/oferta/odziez", "uzasadnienie": "klient od razu widzi, kto przyszedł"},
+    {"nazwa": "Logo i ulotki", "kategoria": "reklama", "cena_brutto": 900, "link": "https://example.com/oferta/logo", "uzasadnienie": "ulotki do skrzynek na Osiedlu Słonecznym"},
+    {"nazwa": "Oklejenie samochodu", "kategoria": "reklama", "cena_brutto": 1200, "link": "https://example.com/oferta/oklejenie", "uzasadnienie": "auto parkuje pod blokami klientów – działa jak szyld"},
+    {"nazwa": "Strona-wizytówka z formularzem zamówienia", "kategoria": "reklama", "cena_brutto": 1000, "link": "https://example.com/oferta/strona", "uzasadnienie": "zamówienia o każdej porze"},
+    {"nazwa": "Telefon służbowy z aplikacją do grafiku", "kategoria": "sprzęt", "cena_brutto": 1200, "finansowanie": "wkład własny", "uzasadnienie": "grafik zleceń i kontakt z klientami"}
+  ],
+  "zakup_od_rodziny": false,
+  "zasoby_posiadane": [{"nazwa": "samochód kombi", "wartosc": 15000}],
+  "wklad_wlasny": {"kwota": 2500, "zrodlo": "oszczędności", "na_co": "telefon służbowy i rezerwa na pierwszy miesiąc"},
+  "listy_intencyjne": [
+    {"od_kogo": "gabinet fizjoterapii „Fizjo-Ruch”", "czego_dotyczy": "sprzątanie gabinetu", "czestotliwosc": "3 razy w tygodniu", "status": "podpisany"},
+    {"od_kogo": "biuro rachunkowe „Bilans”", "czego_dotyczy": "sprzątanie biura", "czestotliwosc": "2 razy w tygodniu", "status": "podpisany"}
+  ],
+  "zatrudnienie": "nie w 1. roku; w 2. roku możliwe zatrudnienie 1 osoby na pół etatu",
+  "prognoza": {
+    "klienci_m1": 20, "klienci_m6": 45, "klienci_m12": 50,
+    "sezonowosc": [1.0, 1.0, 1.15, 1.15, 1.0, 1.0, 0.85, 0.85, 1.0, 1.0, 1.15, 1.15],
+    "rozruch": [0.5, 0.7, 0.85, 1, 1, 1, 1, 1, 1, 1, 1, 1],
+    "dni_robocze": 22,
+    "godziny_dzien": 6.5,
+    "materialy_pct": 0.10,
+    "materialy_opis": "środki czystości i ściereczki – ok. 10% przychodu",
+    "koszty_stale": {"czynsz": 0, "media": 0, "telefon_internet": 80, "ksiegowosc": 250, "ubezpieczenie": 80, "paliwo": 450, "reklama": 200, "inne": 150}
+  },
+  "ryzyka": [
+    {"ryzyko": "choroba – pracuję sama", "zapobieganie": "ubezpieczenie chorobowe", "plan_b": "zastępstwo koleżanki z hotelu na umowę zlecenie przy stałych klientach biurowych"},
+    {"ryzyko": "mniej klientów domowych latem", "zapobieganie": "abonamenty dla biur", "plan_b": "więcej sprzątania klatek i zleceń od biur nieruchomości"},
+    {"ryzyko": "uszkodzenie mienia klienta", "zapobieganie": "ubezpieczenie OC działalności", "plan_b": "zgłoszenie szkody z OC"},
+    {"ryzyko": "awaria sprzętu", "zapobieganie": "przeglądy i gwarancja", "plan_b": "wypożyczenie maszyny w hurtowni chemii w Zielonowie"}
+  ],
+  "finanse_domowe": {"inne_dochody": "partner pracuje na etacie", "potrzeby_mies": 2500, "wytrzymalosc": "> 6 mies."},
+  "ton": "rzeczowy",
+  "notatka_wlasciciela": "Dane o terenie: Zielonów ok. 28 tys. mieszkańców (GUS BDL 2025), Osiedle Słoneczne ok. 420 mieszkań (deweloper), „Admin-Dom” – 38 wspólnot."
+}

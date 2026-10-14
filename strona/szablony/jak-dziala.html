@@ -1,0 +1,108 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, cta_box with context %}
+{% block main %}
+<div class="wrap page-head">
+  <h1>Jak to działa: od quizu do gotowego wniosku</h1>
+  <p class="lead">Wniosek podpisujesz i składasz sam. My przygotowujemy treści do jego pól – na podstawie Twoich danych, pod formularz i regulamin Twojego urzędu. Oto cały proces z Twojej perspektywy.</p>
+</div>
+
+<section class="sec sec--tight" aria-labelledby="h-przed">
+  <div class="wrap">
+    <h2 id="h-przed" class="sec__t">Zanim zamówisz: 4 rzeczy do sprawdzenia</h2>
+    <div class="grid-2">
+      <div class="card"><span class="card__ik">{{ ikona('czlowiek') }}</span><h3>Status w urzędzie pracy</h3><p>Wniosek złożysz jako osoba bezrobotna, absolwent CIS/KIS albo opiekun osoby niepełnosprawnej poszukujący pracy. Bez firmy w ostatnich 12 miesiącach i bez wcześniejszej dotacji na start. Część urzędów wymaga też, żeby dotacja była wpisana w Twój Indywidualny Plan Działania – zapytaj doradcę.</p></div>
+      <div class="card"><span class="card__ik">{{ ikona('tarcza') }}</span><h3>Zabezpieczenie</h3><p>Najczęściej 2 osoby poręczające z dochodem ok. 4–5 tys. zł netto (umowa na czas nieokreślony, emerytura). Małżonek we wspólności majątkowej nie może poręczyć. Alternatywy: blokada środków, gwarancja bankowa, zastaw, akt notarialny z drugą formą.</p></div>
+      <div class="card"><span class="card__ik">{{ ikona('plik') }}</span><h3>Regulamin i formularz urzędu</h3><p>Każdy PUP ma własny formularz i zasady. Znajdziesz je na stronie urzędu (zwykle [nazwa].praca.gov.pl) albo w <a href="{{ u('urzedy/') }}">naszej bazie</a>. Jeśli nabór nie jest ogłoszony, pracujemy na aktualnym regulaminie.</p></div>
+      <div class="card"><span class="card__ik">{{ ikona('kalendarz') }}</span><h3>Termin naboru</h3><p>Nabory trwają często 1–2 dni albo do wyczerpania środków. Najlepiej mieć gotowy wniosek przed otwarciem. <a href="{{ u('') }}#alerty">Zapisz się na alert</a>, żeby nie przegapić ogłoszenia.</p></div>
+    </div>
+    <p class="center"><a class="btn btn-secondary" href="{{ u('quiz/') }}">Sprawdź warunki w quizie (2–3 min)</a></p>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-proc">
+  <div class="wrap narrow">
+    <h2 id="h-proc" class="sec__t">Krok po kroku</h2>
+    <ol class="timeline">
+      <li><h3>Zamówienie i płatność</h3><p>Wybierasz pakiet, akceptujesz regulamin i płacisz BLIK-iem lub kartą. Możesz zażądać rozpoczęcia pracy przed upływem 14 dni na odstąpienie od umowy – inaczej zaczniemy po tym terminie.</p></li>
+      <li><h3>Kwestionariusz (40–60 min)</h3><p>Odpowiadasz na pytania o pomysł, lokal, kwalifikacje, klientów, konkurencję, zakupy i zabezpieczenie. Dołączasz regulamin, formularz urzędu i oferty. Możesz zapisać wersję roboczą i wrócić później.</p></li>
+      <li><h3>Weryfikacja kompletności (do 1 dnia roboczego)</h3><p>Sprawdzamy, czy niczego nie brakuje i czy nie ma ryzyk – np. braku poręczycieli albo działalności wykluczonej w regulaminie. Jeśli brakuje danych, piszemy do Ciebie, a zegar realizacji stoi do uzupełnienia. Jeśli działalność jest wykluczona, zwracamy 100% ceny.</p></li>
+      <li><h3>Przygotowanie treści (24–48 h robocze)</h3><p>Treści powstają z Twoich odpowiedzi według naszych szablonów i modelu finansowego, z pomocą modelu językowego (AI). Do AI trafiają tylko pola merytoryczne – bez imienia, kontaktu i plików.</p></li>
+      <li><h3>Kontrola człowieka</h3><p>Każdy dokument czytamy i redagujemy według checklisty: zgodność z regulaminem i limitami, spójność kosztorysu z prognozą, prawdziwość (nic nie dopisujemy), brak ogólników i podobieństwa do innych wniosków do tego samego urzędu.</p></li>
+      <li><h3>Odbiór dokumentów</h3><p>Dostajesz DOCX do przeklejenia w formularz, PDF do podglądu i arkusz z kosztorysem (i prognozą w Standard/Premium) oraz instrukcję: co wpisać samemu (PESEL, adres), co podpisać i co dołączyć.</p></li>
+      <li><h3>Poprawki</h3><p>Masz 7 dni na jedną zbiorczą listę uwag. Wprowadzamy ją w 48 h robocze (Premium: 24 h). <a href="{{ u('cennik/') }}#poprawki">Co obejmuje runda poprawek</a>.</p></li>
+      <li><h3>Złożenie wniosku i wezwanie z urzędu</h3><p>Składasz wniosek sam – papierowo albo elektronicznie. Jeśli urząd wezwie do uzupełnień, prześlij nam pismo w ciągu 3 dni. Poprawki do naszych treści odsyłamy w 24 h robocze, bez dopłaty.</p></li>
+      <li><h3>Po decyzji</h3><p>Zapytamy Cię o wynik – zbieramy statystykę skuteczności per urząd. W Premium dostajesz instrukcję „co po przyznaniu”, a w dopłacie pomoc w rozliczeniu dotacji.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-potrzebne">
+  <div class="wrap">
+    <h2 id="h-potrzebne" class="sec__t">Co przygotować</h2>
+    <div class="grid-3">
+      <div class="card"><h3>{{ ikona('urzad', 'ik ik-s') }} Z urzędu</h3><ul class="dots"><li>link do ogłoszenia o naborze (albo „nabór planowany”)</li><li>regulamin lub zasady przyznawania dofinansowania</li><li>formularz wniosku (DOC, DOCX lub PDF)</li><li>kartę oceny, jeśli urząd ją publikuje</li></ul></div>
+      <div class="card"><h3>{{ ikona('lista', 'ik ik-s') }} Oferty cenowe</h3><ul class="dots"><li>do każdej pozycji: nazwa, model, ilość, cena brutto, sprzedawca, link</li><li>zrzut ekranu lub PDF przy pozycjach powyżej 1 000 zł</li><li>przy sprzęcie używanym: oferta nowego dla porównania</li><li>bez zakupów od rodziny i poręczycieli – te są zakazane</li></ul></div>
+      <div class="card"><h3>{{ ikona('czlowiek', 'ik ik-s') }} O sobie</h3><ul class="dots"><li>wykształcenie, kursy i certyfikaty (nazwa, rok, liczba godzin)</li><li>doświadczenie: pracodawca, stanowisko, okres</li><li>dokumenty potwierdzające (dyplomy, świadectwa pracy, portfolio)</li><li>co już masz do firmy: sprzęt, lokal, oszczędności</li></ul></div>
+      <div class="card"><h3>{{ ikona('ludzie', 'ik ik-s') }} Poręczyciele</h3><ul class="dots"><li>ile osób może poręczyć i jaka to relacja</li><li>źródło dochodu i przedział dochodu netto</li><li>czy mają kredyty, wiek, zgoda małżonka</li><li><strong>bez danych osobowych</strong> – te wpiszesz w urzędzie</li></ul></div>
+      <div class="card"><h3>{{ ikona('domek', 'ik ik-s') }} Lokal i rynek</h3><ul class="dots"><li>opis lokalu: metraż, stan, media, dojazd; umowa lub list intencyjny wynajmującego</li><li>przy pracy mobilnej: obszar działania i miejsce przechowywania sprzętu</li><li>3–5 konkurentów z cenami</li><li>osoby lub firmy zainteresowane współpracą (listy intencyjne)</li></ul></div>
+      <div class="card card--warn"><h3>{{ ikona('x', 'ik ik-s') }} Czego nie potrzebujemy</h3><ul class="dots"><li>PESEL, numeru dowodu, daty urodzenia</li><li>adresu zamieszkania</li><li>danych osobowych poręczycieli i małżonka</li><li>numeru konta, skanów zaświadczeń z PUP, CV</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-terminy">
+  <div class="wrap">
+    <h2 id="h-terminy" class="sec__t">Terminy: u nas i w urzędzie</h2>
+    <div class="grid-2">
+      <div>
+        <h3>U nas</h3>
+        <div class="tbl-wrap"><table class="tbl">
+          <caption class="sr-only">Terminy realizacji</caption>
+          <thead><tr><th scope="col">Etap</th><th scope="col">Termin</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Podstawowy, Standard</th><td>48 h robocze od kompletu danych i płatności</td></tr>
+            <tr><th scope="row">Premium, ekspres (+99 zł)</th><td>24 h robocze</td></tr>
+            <tr><th scope="row">Runda poprawek</th><td>48 h robocze (Premium: 24 h)</td></tr>
+            <tr><th scope="row">Poprawki po wezwaniu urzędu</th><td>24 h robocze od otrzymania pisma</td></tr>
+            <tr><th scope="row">Odpowiedź na e-mail</th><td>do 1 dnia roboczego</td></tr>
+          </tbody>
+        </table></div>
+      </div>
+      <div>
+        <h3>W urzędzie (rozporządzenie z 21.11.2025)</h3>
+        <div class="tbl-wrap"><table class="tbl">
+          <caption class="sr-only">Terminy urzędowe</caption>
+          <thead><tr><th scope="col">Etap</th><th scope="col">Termin</th></tr></thead>
+          <tbody>
+            <tr><th scope="row">Uzupełnienie braków po wezwaniu</th><td>co najmniej 7 dni</td></tr>
+            <tr><th scope="row">Odpowiedź urzędu</th><td>30 dni od złożenia kompletnego wniosku</td></tr>
+            <tr><th scope="row">Wypłata środków</th><td>14 dni od podpisania umowy (po ustanowieniu zabezpieczenia)</td></tr>
+            <tr><th scope="row">Rejestracja firmy</th><td>do 30 dni od otrzymania środków, nie wcześniej niż po umowie</td></tr>
+            <tr><th scope="row">Rozliczenie zakupów</th><td>do 2 miesięcy od rozpoczęcia działalności</td></tr>
+            <tr><th scope="row">Prowadzenie firmy</th><td>min. 12 miesięcy (niektóre urzędy: więcej)</td></tr>
+          </tbody>
+        </table></div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-ai">
+  <div class="wrap two-col">
+    <div>
+      <h2 id="h-ai" class="sec__t">AI pod kontrolą człowieka</h2>
+      <p>Mówimy otwarcie: korzystamy z modelu językowego. Dzięki temu jesteśmy szybcy i tańsi. Ale wniosek „z czatu” komisja rozpozna od razu – ogólniki, brak lokalnych konkretów, liczby, które się nie zgadzają. Dlatego sprzedajemy dopasowanie i kontrolę, nie sam tekst.</p>
+    </div>
+    <ul class="checks">
+      <li>{{ ikona('check') }} treść powstaje z Twoich danych: Twoja ulica, Twoi konkurenci, Twoje ceny</li>
+      <li>{{ ikona('check') }} dane identyfikujące zastępujemy oznaczeniami przed wysłaniem do modelu</li>
+      <li>{{ ikona('check') }} dostawca AI nie trenuje modeli na tych danych</li>
+      <li>{{ ikona('check') }} każdy dokument czyta i poprawia człowiek według checklisty</li>
+      <li>{{ ikona('check') }} sprawdzamy podobieństwo do innych wniosków do tego samego urzędu</li>
+    </ul>
+  </div>
+</section>
+
+<div class="sec"><div class="wrap">{{ cta_box('Zacznij od zamówienia albo od quizu', 'Treści do wniosku pod Twój urząd w 24–48 h, od 299 zł.') }}
+<p class="center small">Zobacz: <a href="{{ u('cennik/') }}">cennik</a> · <a href="{{ u('branze/') }}">branże</a> · <a href="{{ u('urzedy/') }}">urzędy pracy</a></p></div></div>
+{% endblock %}

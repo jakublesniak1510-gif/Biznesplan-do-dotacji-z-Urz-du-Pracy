@@ -1,0 +1,713 @@
+[
+  {
+    "slug": "fryzjer",
+    "nazwa": "Salon fryzjerski",
+    "krotko": "fryzjer",
+    "ikona": "nozyczki",
+    "title": "Dotacja z urzędu pracy na salon fryzjerski – wniosek, kosztorys, pułapki",
+    "description": "Wniosek o dotację z PUP na salon fryzjerski: typowe zakupy, limity w kosztorysie, kasa fiskalna, lokal i sanepid, co punktuje komisja. Treści do wniosku w 48 h.",
+    "h1": "Dotacja z urzędu pracy na salon fryzjerski: treści do wniosku w 48 h",
+    "lead": "Salon fryzjerski to jeden z najczęstszych pomysłów we wnioskach do PUP. Komisje dobrze go znają, dlatego wygrywa wniosek konkretny: z prawdziwym lokalem, policzonym grafikiem i kosztorysem bez pozycji, których regulamin nie dopuszcza.",
+    "specyfika": [
+      "Komisja oceni przede wszystkim, czy po otwarciu będziesz mieć z czego żyć. W prognozie liczy się liczba stanowisk i realne obłożenie: ile usług dziennie wykonasz sama, w jakich godzinach, ile kosztuje Cię farba czy szampon na jedną klientkę. Cennik powinien wynikać z cen w okolicy, a nie z życzeń. Urzędnicy porównują go z salonami z tej samej miejscowości.",
+      "Druga kwestia to lokal. Wniosek wymaga jego opisu, a wiele urzędów przed oceną przeprowadza wizję lokalną. Salon musi spełniać wymagania sanitarne (bieżąca woda, umywalka, miejsce na środki dezynfekcyjne), więc lokal warto skonsultować z sanepidem przed podpisaniem najmu. Fryzjer mobilny też może dostać dotację. Wtedy we wniosku podajesz miejsce przechowywania sprzętu i obszar działania, a część kart oceny ma osobne kryterium przygotowania do pracy mobilnej.",
+      "Fakt, o którym mało kto pamięta: usługi fryzjerskie nie korzystają ze zwolnienia z kasy fiskalnej (rozporządzenie MF, Dz.U. 2024 poz. 1902). Kasa jest potrzebna od pierwszej usługi, a większość regulaminów PUP nie pozwala kupić jej z dotacji. Trzeba ją więc zaplanować w kalkulacji kosztów jako wydatek z własnych środków."
+    ],
+    "zakupy": [
+      "fotele fryzjerskie i myjnia – najlepiej z oferty sklepu z wyposażeniem salonów, z modelem i ceną brutto",
+      "lustra, konsole, recepcja, poczekalnia – meble bywają limitowane kwotowo, np. do 8 000 zł łącznie",
+      "suszarki, prostownice, maszynki, nożyczki, klimazon, sterylizator",
+      "oświetlenie stanowisk",
+      "pierwszy zapas farb i kosmetyków – jako materiały lub towar, zwykle w limicie 10–30% kwoty",
+      "laptop lub tablet z programem do rezerwacji – elektronika bywa ograniczona kwotowo (np. telefon lub tablet do 2 000 zł)",
+      "szyld i materiały reklamowe – w limicie reklamy (np. do 10% kwoty albo do 2 000 zł)"
+    ],
+    "pulapki": [
+      {
+        "t": "Remont lokalu",
+        "x": "Malowanie, płytki czy przeróbka instalacji to w wielu urzędach wydatek wykluczony albo ograniczony (np. do 20% i nigdy w mieszkaniu). Jeśli lokal wymaga adaptacji, sfinansuj ją sama i opisz jako wkład własny."
+      },
+      {
+        "t": "Sprzęt używany",
+        "x": "Używany fotel czy myjnia przechodzą zwykle tylko powyżej minimalnej wartości, z wyceną rzeczoznawcy albo od firmy handlującej używanym sprzętem. Przy tańszych pozycjach prościej kupić nowe."
+      },
+      {
+        "t": "Zakupy od rodziny",
+        "x": "Wyposażenie od mamy, która zamyka salon, odpada. Zakupy od członków rodziny i poręczycieli są zakazane praktycznie w każdym regulaminie."
+      },
+      {
+        "t": "Samochód",
+        "x": "W salonie stacjonarnym samochód trudno uzasadnić. Przy fryzjerstwie mobilnym bywa dozwolony w limicie 40–50% kwoty, ale część urzędów wyklucza samochody osobowe."
+      },
+      {
+        "t": "Kasa i koszty bieżące",
+        "x": "Kasa fiskalna, czynsz, media, ZUS i kaucja za lokal to koszty własne. Nie wpisuj ich do specyfikacji wydatków z dotacji."
+      }
+    ],
+    "punktuje": [
+      "udokumentowane kwalifikacje: świadectwo czeladnicze, dyplom mistrzowski, kursy koloryzacji lub strzyżenia męskiego – w kartach oceny to zwykle najwyżej punktowana część",
+      "lata pracy w salonie potwierdzone świadectwem pracy lub umową",
+      "posiadany lokal (umowa najmu albo list intencyjny wynajmującego) i sprzęt, który już masz",
+      "konkretna analiza konkurencji: 5–8 salonów z okolicy z cenami i Twoim wyróżnikiem (godziny pracy, barber, specjalistyczna koloryzacja)",
+      "listy intencyjne, np. od domu weselnego, hotelu albo domu opieki, jeśli planujesz tam usługi",
+      "wkład własny, jeśli Twój urząd go punktuje"
+    ],
+    "pytania": [
+      "Jakie masz udokumentowane kwalifikacje i od kiedy pracujesz w zawodzie?",
+      "Ile usług dziennie wykonasz sama i jak to przekłada się na przychód?",
+      "Dlaczego klientki przyjdą do Ciebie, a nie do salonu dwie ulice dalej?",
+      "Kto Cię zastąpi w chorobie lub na urlopie i jak to wpłynie na przychód?",
+      "Czy masz stałe klientki, które przejdą z Tobą do nowego salonu?"
+    ],
+    "faq": [
+      {
+        "q": "Czy mogę dostać dotację na salon w mieszkaniu?",
+        "a": "Tak, jeśli pomieszczenie spełnia wymagania sanitarne, a regulamin Twojego urzędu tego nie wyklucza. Remont mieszkania z dotacji zwykle nie przejdzie, a wizja lokalna sprawdzi, czy opis zgadza się z rzeczywistością."
+      },
+      {
+        "q": "Nie mam świadectwa czeladniczego, tylko kursy. Mam szansę?",
+        "a": "Tak. Kursy z certyfikatem i udokumentowane doświadczenie też są punktowane. Pracę bez umowy opisujemy uczciwie jako umiejętności, z portfolio zdjęć i opiniami klientek, a nie jako staż pracy."
+      },
+      {
+        "q": "Czy z dotacji kupię kosmetyki na sprzedaż?",
+        "a": "Zwykle tak, ale tylko do limitu na towar i materiały (często 10–30% kwoty). Resztę zapasów finansujesz z przychodów."
+      }
+    ],
+    "przyklad": {
+      "zle": "Na rynku jest duża konkurencja, ale wyróżnię się wysoką jakością usług i miłą atmosferą.",
+      "dobrze": "W promieniu 1 km działają 4 salony. Dwa z nich są czynne do 17:00, żaden nie przyjmuje w soboty po 14:00. Strzyżenie damskie kosztuje tam 60–80 zł. Będę pracować do 20:00 i w soboty do 16:00, z cennikiem 65–75 zł i rezerwacją online."
+    }
+  },
+  {
+    "slug": "kosmetyczka",
+    "nazwa": "Gabinet kosmetyczny i manicure",
+    "krotko": "kosmetyczka",
+    "ikona": "kwiat",
+    "title": "Dotacja z urzędu pracy na gabinet kosmetyczny – wniosek i kosztorys",
+    "description": "Wniosek o dotację z PUP na gabinet kosmetyczny lub stylizację paznokci: urządzenia, sprzęt używany, szkolenia, kasa fiskalna, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na gabinet kosmetyczny: treści do wniosku w 48 h",
+    "lead": "W kosmetyce konkurencja jest duża, więc komisja patrzy na specjalizację, kwalifikacje i to, czy drogie urządzenie z kosztorysu ma szansę na siebie zarobić.",
+    "specyfika": [
+      "„Kosmetyka ogólna” w miejscowości z kilkunastoma gabinetami wypada słabo. Konkretna nisza daje argument do analizy rynku i punkty za wyróżnik oferty: podologia, stylizacja paznokci z dojazdem do klientek, zabiegi dla mężczyzn, kosmetyka dla osób starszych w domach opieki.",
+      "Najdroższe pozycje to zwykle urządzenia: laser, IPL, urządzenie do mikrodermabrazji, fotel podologiczny. Każde trzeba uzasadnić: jakie zabiegi wykonasz, ile kosztują w okolicy, po ilu miesiącach urządzenie się zwróci. Przy zabiegach z naruszeniem ciągłości skóry potrzebny jest sprzęt do sterylizacji i lokal spełniający wymagania sanitarne. O to pytają przy wizji lokalnej.",
+      "Usługi kosmetyczne, tak jak fryzjerskie, nie korzystają ze zwolnienia z kasy fiskalnej (rozporządzenie MF, Dz.U. 2024 poz. 1902). Kasę zaplanuj od pierwszego dnia z własnych środków, bo większość regulaminów nie pozwala kupić jej z dotacji."
+    ],
+    "zakupy": [
+      "fotel lub łóżko kosmetyczne, taborety, lampa z lupą",
+      "urządzenia zabiegowe (np. do oczyszczania wodorowego, mikrodermabrazji, laser) – oferta z modelem i ceną brutto",
+      "frezarka, lampa UV/LED, pochłaniacz pyłu, stół do manicure",
+      "autoklaw lub sterylizator, myjka ultradźwiękowa",
+      "meble gabinetu i recepcja – sprawdź limity kwotowe na meble",
+      "preparaty i lakiery na start – w limicie towaru i materiałów",
+      "system rezerwacji i strona www – w limicie reklamy albo jako wartości niematerialne, zależnie od regulaminu"
+    ],
+    "pulapki": [
+      {
+        "t": "Drogie urządzenie używane",
+        "x": "Laser z drugiej ręki kusi ceną, ale urzędy stawiają warunki: minimalna wartość, wycena rzeczoznawcy, oświadczenie, że sprzęt nie był kupiony z dotacji, czasem zakup tylko od firmy. Bez tego pozycja zostanie skreślona."
+      },
+      {
+        "t": "Szkolenie z obsługi",
+        "x": "Kurs obsługi urządzenia często nie jest kosztem kwalifikowanym. Wiele urzędów wyklucza szkolenia albo ogranicza je do ok. 10% kwoty. Szkolenie wliczone w cenę urządzenia jest bezpieczniejsze."
+      },
+      {
+        "t": "Remont gabinetu",
+        "x": "Adaptacja pomieszczenia bywa wykluczona. Jeśli lokal wymaga prac, opisz je jako wkład własny."
+      },
+      {
+        "t": "Wszystko w jednym urządzeniu",
+        "x": "Gdy jedna pozycja zjada 70% kwoty, komisja pyta, co będzie, jeśli zabieg się nie przyjmie. Kosztorys z kilkoma źródłami przychodu wypada lepiej."
+      },
+      {
+        "t": "Kosmetyki do sprzedaży",
+        "x": "Sprzedaż detaliczna kosmetyków to towar handlowy. Licz się z limitem procentowym."
+      }
+    ],
+    "punktuje": [
+      "dyplomy i certyfikaty: technikum lub studia z kosmetologii, kursy konkretnych zabiegów",
+      "udokumentowane doświadczenie w gabinecie, a przy stylizacji paznokci portfolio prac",
+      "konkretna nisza i analiza 5–8 gabinetów z okolicy z cenami",
+      "posiadany lokal i sprzęt",
+      "listy intencyjne, np. od salonu fryzjerskiego, który podnajmie Ci stanowisko, albo od firmy zamawiającej vouchery dla pracowników",
+      "realistyczna prognoza: ile zabiegów tygodniowo i dlaczego"
+    ],
+    "pytania": [
+      "Jakie zabiegi wykonasz od pierwszego dnia, a do których potrzebujesz jeszcze szkolenia?",
+      "Ile kosztuje dany zabieg u konkurencji i dlaczego Twoja cena jest realna?",
+      "Po ilu miesiącach urządzenie zabiegowe się zwróci?",
+      "Jak spełnisz wymagania sanitarne przy zabiegach z naruszeniem ciągłości skóry?",
+      "Skąd weźmiesz klientki w pierwszych trzech miesiącach?"
+    ],
+    "faq": [
+      {
+        "q": "Czy mogę robić manicure w domu i dostać na to dotację?",
+        "a": "Tak, jeśli regulamin urzędu nie wymaga osobnego lokalu, a pomieszczenie spełnia wymagania sanitarne. Opisz je dokładnie, bo może być wizja lokalna. Remontu z dotacji raczej nie sfinansujesz."
+      },
+      {
+        "q": "Czy kurs stylizacji paznokci opłacę z dotacji?",
+        "a": "Rzadko. Wiele urzędów wyklucza szkolenia albo ogranicza je do ok. 10% kwoty. Lepiej zrobić kurs przed wnioskiem: certyfikat da Ci punkty za kwalifikacje."
+      },
+      {
+        "q": "Czy mobilna kosmetyczka kupi z dotacji samochód?",
+        "a": "Możliwe, ale zwykle w limicie 40–50% kwoty, a niektóre urzędy wykluczają samochody osobowe poza taxi i nauką jazdy. Sprawdzamy to w regulaminie Twojego PUP."
+      }
+    ],
+    "przyklad": {
+      "zle": "Oferuję szeroki wachlarz zabiegów na najwyższym poziomie dla wymagających klientek.",
+      "dobrze": "W mieście działa 11 gabinetów, ale tylko jeden ma podologa, z terminem oczekiwania 3 tygodnie. Zabieg podologiczny kosztuje tam 150 zł. Planuję 12 zabiegów tygodniowo w cenie 140–160 zł plus manicure jako usługę uzupełniającą."
+    }
+  },
+  {
+    "slug": "mechanik",
+    "nazwa": "Warsztat samochodowy",
+    "krotko": "mechanik",
+    "ikona": "klucz",
+    "title": "Dotacja z urzędu pracy na warsztat samochodowy – wniosek i kosztorys",
+    "description": "Wniosek o dotację z PUP na warsztat mechaniczny: podnośnik i UDT, sprzęt używany, laweta, odpady, kasa fiskalna, co punktuje komisja. Treści do wniosku w 48 h.",
+    "h1": "Dotacja z urzędu pracy na warsztat samochodowy: treści do wniosku w 48 h",
+    "lead": "Warsztat to działalność z drogim sprzętem i stałym popytem. Komisje oceniają ją dobrze, jeśli masz gdzie pracować i pokażesz, że znasz formalności, a nie tylko silniki.",
+    "specyfika": [
+      "Lokal musi nadawać się na warsztat: kanał albo miejsce pod podnośnik, wentylacja, dojazd, odpowiednie przeznaczenie budynku. Przy wizji lokalnej urzędnik zobaczy, czy garaż z opisu to naprawdę warsztat. Przy garażu przydomowym sprawdź w gminie, czy taka działalność jest tam dopuszczalna.",
+      "Formalności, które warto ująć we wniosku: podnośnik samochodowy podlega dozorowi technicznemu UDT, a odpady (zużyty olej, filtry, akumulatory) wymagają uporządkowanej gospodarki odpadami i zwykle wpisu do rejestru BDO. Pokazanie, że o tym wiesz, odróżnia przygotowanego wnioskodawcę od kogoś, kto „lubi dłubać przy autach”.",
+      "Naprawa pojazdów nie korzysta ze zwolnienia z kasy fiskalnej (rozporządzenie MF, Dz.U. 2024 poz. 1902). Kasa jest potrzebna od pierwszej naprawy dla klienta indywidualnego. Zaplanuj ją z własnych środków, bo regulaminy zwykle wykluczają jej zakup z dotacji."
+    ],
+    "zakupy": [
+      "podnośnik dwukolumnowy lub nożycowy",
+      "tester diagnostyczny z oprogramowaniem",
+      "montażownica i wyważarka, jeśli planujesz wulkanizację",
+      "kompresor, klucze pneumatyczne, zestawy kluczy, wózek narzędziowy",
+      "urządzenie do obsługi klimatyzacji",
+      "stoły warsztatowe, regały, pojemniki na odpady niebezpieczne",
+      "laptop z programem do kosztorysowania napraw – w limicie na sprzęt IT"
+    ],
+    "pulapki": [
+      {
+        "t": "Sprzęt używany",
+        "x": "Używany podnośnik czy wyważarka to w branży standard, ale urzędy stawiają warunki: minimalna wartość rzeczy (np. powyżej 8 000 zł), wycena rzeczoznawcy, deklaracja pochodzenia, czasem zakup tylko od firmy. Wpisz to do planu zakupów od razu."
+      },
+      {
+        "t": "Samochód lub laweta",
+        "x": "Pomoc drogowa wymaga lawety, ale pojazd ma zwykle limit 40–50% kwoty, a w niektórych urzędach bez limitu jest tylko transport. Laweta musi mieć uzasadnienie w przychodach."
+      },
+      {
+        "t": "Części do napraw",
+        "x": "Zapas części to towar z limitem procentowym (często 10–30%). Części pod konkretne zlecenia finansujesz z przychodów."
+      },
+      {
+        "t": "Adaptacja garażu",
+        "x": "Kanał, wylewka czy instalacja elektryczna to remont, często wykluczony. Jeśli są konieczne, pokaż je jako wkład własny."
+      },
+      {
+        "t": "Sprzęt od rodziny",
+        "x": "Narzędzia od wujka, który zamyka warsztat, odpadają. Zakupy od członków rodziny są zakazane."
+      }
+    ],
+    "punktuje": [
+      "szkoła zawodowa lub technikum samochodowe, świadectwo czeladnicze, uprawnienia (np. do obsługi klimatyzacji)",
+      "lata pracy w serwisie potwierdzone świadectwem pracy",
+      "lokal z umową najmu i opisem przystosowania",
+      "posiadane narzędzia jako wkład rzeczowy",
+      "listy intencyjne od firm z flotą, przewoźników, komisów, sąsiednich firm",
+      "analiza konkurencji: stawki za roboczogodzinę i terminy w warsztatach z okolicy",
+      "plan zatrudnienia, jeśli przewidujesz pracownika"
+    ],
+    "pytania": [
+      "Jakie masz uprawnienia i jak długo pracowałeś w serwisie?",
+      "Jaka będzie stawka za roboczogodzinę i ile godzin dziennie realnie sprzedasz?",
+      "Czy lokal ma odpowiednie przeznaczenie i jak rozwiążesz odbiór odpadów?",
+      "Z kim będziesz współpracować przy zakupie części?",
+      "Jak wyróżnisz się na tle ASO i warsztatów sieciowych?"
+    ],
+    "faq": [
+      {
+        "q": "Czy mogę otworzyć warsztat w przydomowym garażu?",
+        "a": "Bywa to możliwe, ale lokal musi nadawać się do tej działalności (przeznaczenie, bezpieczeństwo, odpady), a urząd może zrobić wizję lokalną. Sprawdź też w gminie plan zagospodarowania."
+      },
+      {
+        "q": "Czy z dotacji kupię samochód zastępczy dla klientów?",
+        "a": "Raczej nie. Samochód osobowy dla klientów trudno uzasadnić, a wiele urzędów ogranicza zakup pojazdów albo wyklucza samochody osobowe."
+      },
+      {
+        "q": "Mam doświadczenie, ale pracowałem bez umowy. Co z tym zrobić?",
+        "a": "Opisujemy to uczciwie jako umiejętności, a nie staż pracy. Pomagają referencje, zdjęcia napraw i kursy z certyfikatem. Nie dopisujemy doświadczenia, którego nie możesz potwierdzić."
+      }
+    ],
+    "przyklad": {
+      "zle": "Usługi mechaniczne są zawsze potrzebne, a ja mam duże doświadczenie.",
+      "dobrze": "W gminie są 3 warsztaty, a najbliższy serwis z diagnostyką komputerową jest 18 km dalej. Stawka za roboczogodzinę w okolicy to 120–150 zł. Przez 6 lat pracowałem w serwisie, mam świadectwo pracy i uprawnienia do obsługi klimatyzacji. Dwie firmy transportowe z gminy podpisały listy intencyjne na serwis floty (łącznie 14 aut)."
+    }
+  },
+  {
+    "slug": "fotograf",
+    "nazwa": "Fotograf i studio fotograficzne",
+    "krotko": "fotograf",
+    "ikona": "aparat",
+    "title": "Dotacja z urzędu pracy dla fotografa – wniosek, sprzęt, sezonowość",
+    "description": "Wniosek o dotację z PUP na działalność fotograficzną: specjalizacja, sezonowość ślubów, sprzęt używany, limity na elektronikę, dron i uprawnienia, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy dla fotografa: treści do wniosku w 48 h",
+    "lead": "Komisja często widzi w kosztorysie drogi aparat, a w analizie rynku zdanie „robię zdjęcia ślubne i rodzinne”. Wniosek obroni się, gdy pokażesz konkretną specjalizację i klientów, którzy już chcą płacić.",
+    "specyfika": [
+      "Najlepiej wypadają specjalizacje z popytem przez cały rok: fotografia produktowa dla sklepów internetowych, zdjęcia nieruchomości dla biur i deweloperów, reportaż firmowy, zdjęcia do dokumentów i CV. Fotografię ślubną warto mieć jako jedno ze źródeł przychodu, a nie jedyne.",
+      "Śluby są wyraźnie sezonowe, a część urzędów wyklucza działalność sezonową. Opisz, jak wypełnisz zimę: sesje świąteczne, studio, zdjęcia dla firm, fotografia produktowa. Prognoza miesięczna musi pokazywać tę sezonowość, a nie równe przychody przez 12 miesięcy.",
+      "Jeśli chcesz komercyjnie latać dronem, potrzebujesz rejestracji operatora i kompetencji pilota w Urzędzie Lotnictwa Cywilnego. Wpisz to w opis uprawnień, bo komisja o to zapyta."
+    ],
+    "zakupy": [
+      "korpus aparatu i 2–3 obiektywy dopasowane do specjalizacji, każdy z uzasadnieniem",
+      "lampy błyskowe, softboxy, statywy, tła – jeśli planujesz studio",
+      "komputer do obróbki i monitor z dobrym odwzorowaniem barw – sprawdź limit na sprzęt IT (np. 6 000 zł)",
+      "dyski i kopia zapasowa zdjęć",
+      "oprogramowanie do obróbki – tylko jeśli regulamin dopuszcza licencje i wartości niematerialne",
+      "dron, jeśli masz uprawnienia",
+      "stół bezcieniowy i namiot do fotografii produktowej"
+    ],
+    "pulapki": [
+      {
+        "t": "Używane obiektywy",
+        "x": "Rynek wtórny to w fotografii norma, ale urzędy mają warunki dla sprzętu używanego (minimalna wartość, rzeczoznawca, zakup od firmy). Obiektyw z ogłoszenia prywatnego zwykle nie przejdzie."
+      },
+      {
+        "t": "Limity na elektronikę",
+        "x": "Komputer, telefon czy tablet bywają limitowane kwotowo. Drogi laptop może zostać przycięty do limitu, a resztę dopłacasz sam."
+      },
+      {
+        "t": "Samochód",
+        "x": "Dojazdy na sesje to argument, ale pojazd ma zwykle limit 40–50% kwoty, a niektóre urzędy wykluczają samochody osobowe."
+      },
+      {
+        "t": "Reklama",
+        "x": "Pozycjonowanie i reklama w mediach bywają wykluczone, a reklama ma limit (np. 10% kwoty). Strona z portfolio zwykle się w nim mieści."
+      },
+      {
+        "t": "Abonamenty",
+        "x": "Miesięczne subskrypcje programów to koszt bieżący. Nie wpisuj ich do dotacji."
+      }
+    ],
+    "punktuje": [
+      "portfolio z prawdziwymi zleceniami i opiniami klientów",
+      "kursy fotograficzne z certyfikatem, wykształcenie kierunkowe",
+      "doświadczenie w studiu lub agencji (umowy, referencje)",
+      "posiadany sprzęt jako wkład rzeczowy",
+      "listy intencyjne od sklepów internetowych, biur nieruchomości, firm eventowych",
+      "plan na niski sezon pokazany w prognozie",
+      "analiza konkurencji z cenami pakietów"
+    ],
+    "pytania": [
+      "W czym się specjalizujesz i kto zapłaci za Twoje zdjęcia?",
+      "Skąd pochodzą zlecenia, które pokazujesz w portfolio?",
+      "Co robisz w miesiącach bez ślubów?",
+      "Dlaczego potrzebujesz właśnie tego obiektywu?",
+      "Czy masz uprawnienia do komercyjnych lotów dronem?"
+    ],
+    "faq": [
+      {
+        "q": "Czy fotografia ślubna to działalność sezonowa wykluczona z dotacji?",
+        "a": "Nie automatycznie, ale część urzędów wyklucza działalność sezonową. Dlatego pokazujemy przychody przez cały rok: studio, sesje okolicznościowe, zdjęcia dla firm."
+      },
+      {
+        "q": "Czy mogę kupić z dotacji sprzęt, skoro część już mam?",
+        "a": "Tak, możesz rozbudować zestaw. Sprzęt, który masz, opisujemy jako wkład własny rzeczowy. W części kart oceny to dodatkowe punkty."
+      },
+      {
+        "q": "Czy fotograf musi mieć lokal?",
+        "a": "Nie musi. Bez lokalu sesje odbywają się u klienta lub w plenerze, a we wniosku podajesz miejsce przechowywania sprzętu."
+      }
+    ],
+    "przyklad": {
+      "zle": "Fotografia to moja pasja, a ludzie zawsze potrzebują pięknych zdjęć.",
+      "dobrze": "W powiecie działa 6 fotografów ślubnych, ale tylko jeden oferuje zdjęcia produktowe. Trzy lokalne sklepy internetowe zlecają je dziś w studiu 60 km stąd. Dwa z nich podpisały listy intencyjne na ok. 40 zdjęć miesięcznie po 25 zł. Śluby (8–10 w sezonie) to drugie źródło przychodu, nie jedyne."
+    }
+  },
+  {
+    "slug": "firma-sprzatajaca",
+    "nazwa": "Firma sprzątająca",
+    "krotko": "firma sprzątająca",
+    "ikona": "iskry",
+    "title": "Dotacja z urzędu pracy na firmę sprzątającą – wniosek i kosztorys",
+    "description": "Wniosek o dotację z PUP na firmę sprzątającą: maszyny, chemia jako materiały, samochód dostawczy, listy intencyjne od wspólnot i biur, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na firmę sprzątającą: treści do wniosku w 48 h",
+    "lead": "Firma sprzątająca ma niski próg wejścia, więc komisja pyta głównie o jedno: kto będzie u Ciebie zamawiał? Odpowiedź z konkretnymi nazwami robi największą różnicę.",
+    "specyfika": [
+      "Największą siłą takiego wniosku są listy intencyjne od wspólnot mieszkaniowych, biur, gabinetów, firm deweloperskich (sprzątanie po budowie) czy właścicieli mieszkań na wynajem krótkoterminowy. W części kart oceny takie deklaracje są wprost punktowane.",
+      "To zwykle działalność mobilna. We wniosku podajesz miejsce przechowywania sprzętu i chemii, obszar działania i sposób dojazdu. Najlepiej wypadają wnioski z wyraźną specjalizacją: pranie tapicerki i dywanów, mycie okien i elewacji, sprzątanie po remontach, stała obsługa biur.",
+      "Prognoza powinna rozróżniać zlecenia stałe (umowy miesięczne) i jednorazowe. Pokaż stawkę za godzinę lub metr kwadratowy, czas dojazdu i koszt chemii na zlecenie. To przekonuje bardziej niż zdanie o „dużym popycie na usługi sprzątania”."
+    ],
+    "zakupy": [
+      "odkurzacz piorący, odkurzacze przemysłowe",
+      "szorowarka lub maszyna jednotarczowa do podłóg",
+      "myjka ciśnieniowa, parownica",
+      "zestaw do mycia okien z kijem teleskopowym, system wody demineralizowanej",
+      "wózek serwisowy, mopy, sprzęt drobny",
+      "ozonator, z opisem zasad bezpiecznego użycia",
+      "pierwszy zapas chemii – jako materiały, w limicie procentowym",
+      "odzież robocza z logo – w limicie reklamy albo wyposażenia, zależnie od regulaminu"
+    ],
+    "pulapki": [
+      {
+        "t": "Samochód dostawczy",
+        "x": "Bez auta trudno wozić sprzęt, ale pojazd ma zwykle limit 40–50% kwoty, a niektóre urzędy wykluczają samochody osobowe. Uzasadnij pojemność i liczbę zleceń, do których jest potrzebny."
+      },
+      {
+        "t": "Chemia jako materiały",
+        "x": "Środki czystości to materiały z limitem (często 10–30%). Większy zapas finansujesz z przychodów."
+      },
+      {
+        "t": "Leasing i raty",
+        "x": "Leasing auta i zakup na raty są praktycznie zawsze wykluczone. Z dotacji kupujesz za gotówkę, po podpisaniu umowy."
+      },
+      {
+        "t": "Sprzęt używany",
+        "x": "Używana szorowarka przejdzie tylko na warunkach regulaminu: wartość minimalna, wycena, czasem wyłącznie od firmy."
+      },
+      {
+        "t": "Ubezpieczenie OC",
+        "x": "OC działalności to rozsądny wydatek, ale koszt bieżący, a nie pozycja z dotacji."
+      }
+    ],
+    "punktuje": [
+      "listy intencyjne i umowy przedwstępne od stałych klientów",
+      "doświadczenie w firmie sprzątającej, hotelu lub obsłudze obiektów (świadectwa pracy)",
+      "szkolenia z obsługi maszyn i bezpiecznego stosowania chemii",
+      "konkretna oferta i cennik na tle 5–8 konkurentów",
+      "plan zatrudnienia przy wzroście zleceń",
+      "posiadany samochód lub sprzęt jako wkład rzeczowy"
+    ],
+    "pytania": [
+      "Kto już zadeklarował, że będzie u Ciebie zamawiać, i na jakich warunkach?",
+      "Ile zleceń dziennie obsłużysz sam, licząc dojazdy?",
+      "Gdzie przechowujesz sprzęt i chemię?",
+      "Jak poradzisz sobie z większym zleceniem: pomoc, podwykonawcy, zatrudnienie?",
+      "Jaką stawkę przyjmujesz i jak ma się ona do cen w okolicy?"
+    ],
+    "faq": [
+      {
+        "q": "Czy firma sprzątająca bez lokalu dostanie dotację?",
+        "a": "Tak, to typowa działalność mobilna. Podajesz miejsce przechowywania sprzętu i obszar działania. Część kart oceny ma osobne kryterium przygotowania do pracy mobilnej."
+      },
+      {
+        "q": "Ile listów intencyjnych warto zebrać?",
+        "a": "Liczy się jakość: konkretny zakres i częstotliwość zleceń. Deklaracje muszą być prawdziwe i podpisane przez realne osoby. Pomagamy w tym w dopłacie „listy intencyjne”."
+      },
+      {
+        "q": "Czy z dotacji kupię auto dostawcze?",
+        "a": "Często tak, w limicie z regulaminu (zwykle 40–50% kwoty). Sprawdzamy to przed przygotowaniem kosztorysu."
+      }
+    ],
+    "przyklad": {
+      "zle": "Usługi sprzątania cieszą się rosnącą popularnością, dlatego będę mieć wielu klientów.",
+      "dobrze": "W mieście zarejestrowanych jest 120 wspólnot mieszkaniowych. Zarządca obsługujący 9 z nich podpisał list intencyjny na sprzątanie klatek 2 razy w tygodniu (ok. 3 200 zł miesięcznie). Konkurencja to 3 firmy, z cenami 0,35–0,45 zł za m² powierzchni wspólnej."
+    }
+  },
+  {
+    "slug": "budowlanka",
+    "nazwa": "Remonty, wykończenia i instalacje",
+    "krotko": "budowlanka",
+    "ikona": "mlotek",
+    "title": "Dotacja z urzędu pracy na usługi remontowo-budowlane – wniosek",
+    "description": "Wniosek o dotację z PUP na remonty, wykończenia, glazurnictwo lub instalacje: elektronarzędzia, bus, uprawnienia SEP, materiały, zakupy od rodziny, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na remonty i wykończenia: treści do wniosku w 48 h",
+    "lead": "Usługi remontowe mają pewny popyt, ale wnioski z tej branży są do siebie podobne. Komisja szuka konkretu: jakie prace, dla kogo i za ile.",
+    "specyfika": [
+      "Opisz dokładnie, czym się zajmujesz: glazura, gładzie, zabudowy, podłogi, instalacje. Napisz, dla kogo pracujesz (klienci indywidualni, deweloperzy, podwykonawstwo dla firm) i ile wynosi realna stawka za metr kwadratowy albo punkt. Ogólne „usługi remontowe” niczego komisji nie mówią.",
+      "Przy instalacjach elektrycznych i gazowych potrzebne są świadectwa kwalifikacyjne (np. SEP w odpowiedniej grupie). Wpisz je w uprawnienia. To obowiązkowy element opisu działalności, a jednocześnie punkty za kwalifikacje.",
+      "To działalność mobilna: podajesz miejsce przechowywania narzędzi, obszar działania i dojazd. Prognoza powinna uwzględnić sezonowość prac zewnętrznych i to, że materiały na zlecenia klient zwykle opłaca osobno. Inaczej przychody wyglądają na zawyżone."
+    ],
+    "zakupy": [
+      "elektronarzędzia: wiertarko-wkrętarki, młotowiertarka, szlifierka do gładzi, przecinarka do płytek, pilarka",
+      "mieszadło, poziomica laserowa, dalmierz",
+      "odkurzacz budowlany z separatorem",
+      "rusztowanie przejezdne, drabiny",
+      "przy instalacjach: miernik do pomiarów elektrycznych, zaciskarka, narzędzia specjalistyczne",
+      "skrzynie, regały i zabezpieczenie narzędzi w miejscu przechowywania"
+    ],
+    "pulapki": [
+      {
+        "t": "Samochód dostawczy",
+        "x": "Bez busa trudno pracować, ale pojazd ma zwykle limit 40–50% kwoty. Czasem bez limitu jest tylko działalność transportowa. Sprawdzamy to w regulaminie."
+      },
+      {
+        "t": "Materiały budowlane",
+        "x": "Płytki, kleje czy farby to materiały lub towar z limitem procentowym. Materiałów pod konkretne zlecenia nie kupuje się z dotacji."
+      },
+      {
+        "t": "Narzędzia używane",
+        "x": "Używane elektronarzędzia rzadko spełniają warunek minimalnej wartości rzeczy. Prościej kupić nowe, z ofertą z hurtowni."
+      },
+      {
+        "t": "Zakupy od rodziny",
+        "x": "Narzędzia z firmy ojca czy brata odpadają. Zakupy od członków rodziny są zakazane."
+      },
+      {
+        "t": "Przejęcie firmy rodzinnej",
+        "x": "Część urzędów wyklucza przejęcie działalności po członku rodziny albo ten sam profil i miejsce co firma rodziny. Jeśli to Twoja sytuacja, omówmy ją przed wnioskiem."
+      }
+    ],
+    "punktuje": [
+      "udokumentowane doświadczenie na budowach (świadectwa pracy, umowy, referencje od firm)",
+      "uprawnienia SEP, kursy zawodowe, szkoła budowlana",
+      "listy intencyjne od deweloperów, firm wykonawczych, zarządców nieruchomości",
+      "posiadane narzędzia i samochód jako wkład rzeczowy",
+      "konkretne stawki na tle konkurencji i plan zdobycia klientów (portale ogłoszeniowe, polecenia, współpraca ze składem budowlanym)",
+      "plan zatrudnienia przy większych zleceniach"
+    ],
+    "pytania": [
+      "Jakie prace wykonujesz samodzielnie i czym możesz to udokumentować?",
+      "Jakie masz uprawnienia, np. SEP, i do jakich prac?",
+      "Jak liczysz stawkę i ile metrów lub punktów zrobisz w miesiącu?",
+      "Skąd weźmiesz zlecenia w pierwszym kwartale?",
+      "Co robisz zimą, gdy prac zewnętrznych jest mniej?"
+    ],
+    "faq": [
+      {
+        "q": "Pracowałem latami na budowie bez umowy. Czy to się liczy?",
+        "a": "Opisujemy to uczciwie jako umiejętności, a nie staż pracy. Pomagają referencje od firm, zdjęcia realizacji i kursy z certyfikatem. Nie wpisujemy doświadczenia, którego nie potwierdzisz."
+      },
+      {
+        "q": "Czy kupię z dotacji rusztowanie i busa?",
+        "a": "Rusztowanie zwykle tak. Busa – w limicie dla pojazdów z regulaminu Twojego urzędu (często 40–50% kwoty)."
+      },
+      {
+        "q": "Czy remonty to działalność sezonowa?",
+        "a": "Zwykle nie, ale pokaż w prognozie, że zimą wykonujesz prace wewnątrz. Dzięki temu komisja nie uzna planu za sezonowy."
+      }
+    ],
+    "przyklad": {
+      "zle": "Wykonuję kompleksowe usługi remontowe solidnie i terminowo.",
+      "dobrze": "Specjalizuję się w glazurze i łazienkach pod klucz. Przez 5 lat pracowałem jako glazurnik u dewelopera (świadectwo pracy, referencje). Stawka za układanie płytek w okolicy to 110–150 zł/m². Planuję 2 łazienki miesięcznie, a skład budowlany z miasta zgodził się polecać mnie swoim klientom (list intencyjny)."
+    }
+  },
+  {
+    "slug": "sklep-internetowy",
+    "nazwa": "Sklep internetowy",
+    "krotko": "sklep internetowy",
+    "ikona": "koszyk",
+    "title": "Dotacja z urzędu pracy na sklep internetowy – limit towaru i kosztorys",
+    "description": "Wniosek o dotację z PUP na sklep internetowy: limit na towar, własny sklep a marketplace, reklama i pozycjonowanie, magazyn, dropshipping, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na sklep internetowy: treści do wniosku w 48 h",
+    "lead": "W sklepie internetowym najtrudniejszy jest kosztorys: główną pozycją jest towar, a na towar regulaminy dają tylko część dotacji.",
+    "specyfika": [
+      "Towar ma w regulaminach limit, zwykle 10–30% kwoty dotacji. Wniosek trzeba więc oprzeć na tym, co buduje sklep: sprzęt, wyposażenie magazynu i stanowiska pakowania, sklep internetowy, zdjęcia produktowe. Towar finansujesz z dotacji tylko w dopuszczalnej części.",
+      "Część urzędów stawia warunki samej formie sprzedaży, np. tylko przez własny sklep (nie wyłącznie aukcje i marketplace’y) albo limit kwoty na sklep internetowy (w jednym z przejrzanych regulaminów 4 000 zł). Sprawdzamy to przed kosztorysem, bo od tego zależy cały wniosek.",
+      "Komisja zapyta, skąd będą klienci. Ogólne „reklama w internecie” nie wystarczy. Pokaż konkretne kanały, budżet i koszt pozyskania klienta. Reklama ma limit (np. 10% kwoty), a część urzędów wyklucza pozycjonowanie i reklamę w mediach."
+    ],
+    "zakupy": [
+      "wdrożenie sklepu internetowego (szablon, integracje) – w limicie z regulaminu",
+      "laptop, drukarka etykiet, czytnik kodów – w limitach na sprzęt IT",
+      "regały magazynowe, stół do pakowania, waga",
+      "sprzęt do zdjęć produktowych albo sesja produktowa, jeśli regulamin jej nie wyklucza",
+      "towar na start – do limitu procentowego",
+      "opakowania z logo – w limicie materiałów albo reklamy"
+    ],
+    "pulapki": [
+      {
+        "t": "Dropshipping",
+        "x": "Bez własnego towaru i magazynu trudno wskazać, co kupujesz z dotacji. Komisja może uznać model za nierealny. Uczciwie opisujemy, co będzie Twoim majątkiem firmy."
+      },
+      {
+        "t": "Magazyn w mieszkaniu",
+        "x": "Bywa akceptowany, ale remontu z dotacji raczej nie zrobisz. Opisz, gdzie fizycznie stoi towar."
+      },
+      {
+        "t": "Abonamenty",
+        "x": "Opłaty za platformę sklepową, domenę czy hosting to koszty bieżące, a nie wydatek z dotacji."
+      },
+      {
+        "t": "Licencje",
+        "x": "Licencje bywają wykluczone, choć rozporządzenie dopuszcza wartości niematerialne. Decyduje regulamin Twojego urzędu."
+      },
+      {
+        "t": "Asortyment wykluczony",
+        "x": "Alkohol lub tytoń jako jedyny asortyment, sprzedaż pojazdów czy MLM bywają wykluczone wprost."
+      }
+    ],
+    "punktuje": [
+      "doświadczenie w e-commerce, sprzedaży lub marketingu (umowy, referencje, wyniki)",
+      "konkretna nisza i analiza konkurencji z cenami i kosztami dostawy",
+      "listy intencyjne od dostawców (warunki hurtowe) albo odbiorców firmowych",
+      "realistyczna prognoza: ruch, konwersja, średni koszyk, koszt pozyskania klienta",
+      "plan obsługi zwrotów i reklamacji",
+      "posiadany sprzęt i towar jako wkład własny"
+    ],
+    "pytania": [
+      "Kim jest Twój klient i ile kosztuje Cię pozyskanie jednego zamówienia?",
+      "Skąd bierzesz towar i na jakich warunkach?",
+      "Gdzie przechowujesz towar i jak go wysyłasz?",
+      "Czym Twój sklep różni się od marketplace’ów z tym samym produktem?",
+      "Jakie obowiązki prawne sklepu znasz (regulamin, zwroty, RODO)?"
+    ],
+    "faq": [
+      {
+        "q": "Czy z dotacji mogę kupić sam towar?",
+        "a": "Nie. Towar ma zwykle limit 10–30% kwoty. Dotację opiera się na wyposażeniu i sprzęcie, a towar uzupełnia się z przychodów i środków własnych."
+      },
+      {
+        "q": "Czy wystarczy sprzedaż tylko na Allegro?",
+        "a": "W części urzędów nie: wymagany jest własny sklep internetowy, a nie wyłącznie aukcje. Sprawdzamy to w regulaminie Twojego PUP."
+      },
+      {
+        "q": "Czy w sklepie internetowym potrzebna jest kasa fiskalna?",
+        "a": "To zależy od sposobu płatności i rodzaju towaru. Sprzedaż wysyłkowa z zapłatą na rachunek bywa zwolniona, ale są wyjątki. Ustal to z księgowym – nie doradzamy w sprawach podatkowych."
+      }
+    ],
+    "przyklad": {
+      "zle": "Handel internetowy dynamicznie się rozwija, więc mój sklep odniesie sukces.",
+      "dobrze": "Sprzedaję akcesoria do akwarystyki morskiej. W Polsce działa ok. 10 wyspecjalizowanych sklepów, a ceny u nich są o 15–20% wyższe niż u hurtownika, z którym mam wstępne warunki (list intencyjny). Zakładam 2% konwersji, średni koszyk 180 zł i koszt pozyskania klienta 25 zł z reklam w wyszukiwarce."
+    }
+  },
+  {
+    "slug": "gastronomia",
+    "nazwa": "Gastronomia i food truck",
+    "krotko": "gastronomia",
+    "ikona": "kubek",
+    "title": "Dotacja z urzędu pracy na gastronomię i food truck – wniosek",
+    "description": "Wniosek o dotację z PUP na lokal gastronomiczny, catering lub food truck: wykluczenie gastronomii obwoźnej, sanepid, adaptacja lokalu, kasa fiskalna, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na gastronomię i food truck: treści do wniosku w 48 h",
+    "lead": "Gastronomia to najdroższa i najbardziej ryzykowna branża we wnioskach do PUP. Komisje wiedzą, ile lokali zamyka się w pierwszym roku, więc liczby muszą się bronić same.",
+    "specyfika": [
+      "Wniosek musi pokazać, że rozumiesz koszty: food cost, czynsz, media, sezonowość. Musi też pokazać, że lokal przejdzie zatwierdzenie przez sanepid. Zakład żywnościowy wymaga rejestracji lub zatwierdzenia przez państwową inspekcję sanitarną przed rozpoczęciem działalności.",
+      "Food truck ma dodatkową przeszkodę: część regulaminów wprost wyklucza gastronomię obwoźną albo działalność sezonową. Zanim poświęcisz czas na wniosek, sprawdź regulamin swojego urzędu. Jeśli wyklucza gastronomię obwoźną, rozważ punkt stacjonarny, catering albo kuchnię pudełkową.",
+      "W gastronomii stacjonarnej (także sezonowej) kasa fiskalna jest obowiązkowa od pierwszej sprzedaży (rozporządzenie MF, Dz.U. 2024 poz. 1902), a w food trucku w praktyce niezbędna. Większość regulaminów nie pozwala kupić jej z dotacji, więc zaplanuj ją w środkach własnych."
+    ],
+    "zakupy": [
+      "piec konwekcyjno-parowy, kuchnia, frytownica, grill – oferty z modelem i mocą",
+      "chłodziarki, zamrażarki, stoły chłodnicze",
+      "zmywarka gastronomiczna, stoły ze stali nierdzewnej, okap",
+      "drobne wyposażenie: pojemniki GN, garnki, noże",
+      "meble sali – sprawdź limity kwotowe",
+      "przyczepa gastronomiczna albo zabudowa food trucka – jako pojazd lub wyposażenie, zależnie od regulaminu",
+      "pierwszy zapas produktów – w limicie towaru i materiałów"
+    ],
+    "pulapki": [
+      {
+        "t": "Gastronomia obwoźna i sezonowa",
+        "x": "Wykluczona w części urzędów (np. w przejrzanych regulaminach z Opatowa i Piotrkowa Trybunalskiego). To pierwsza rzecz, którą sprawdzamy."
+      },
+      {
+        "t": "Adaptacja lokalu",
+        "x": "Wentylacja, płytki, instalacje to remont, często wykluczony albo ograniczony procentowo. Remont z własnych środków komisja może ocenić jako wkład własny."
+      },
+      {
+        "t": "Sprzęt używany",
+        "x": "Używany sprzęt gastronomiczny jest popularny, ale musi spełnić warunki regulaminu: wartość minimalna, wycena, pochodzenie."
+      },
+      {
+        "t": "Pojazd",
+        "x": "Samochód z zabudową może podlegać limitowi na pojazdy (40–50% kwoty). Przyczepa bez samochodu – zależnie od regulaminu."
+      },
+      {
+        "t": "Koszty bieżące",
+        "x": "Czynsz, media, kaucja, zezwolenie na alkohol i opłaty urzędowe nie wchodzą do dotacji."
+      }
+    ],
+    "punktuje": [
+      "kwalifikacje: szkoła gastronomiczna, kursy kucharskie, orzeczenie do celów sanitarno-epidemiologicznych",
+      "udokumentowane doświadczenie w kuchni lub w prowadzeniu lokalu",
+      "lokal z umową najmu i opisem zgodności z wymaganiami sanitarnymi",
+      "listy intencyjne: catering dla firm, szkół, organizatorów imprez",
+      "realistyczna prognoza z food costem i sezonowością",
+      "plan zatrudnienia"
+    ],
+    "pytania": [
+      "Jaki będzie Twój food cost i średni rachunek?",
+      "Ile dań dziennie wydasz w najsłabszym i w najlepszym miesiącu?",
+      "Czy lokal przejdzie odbiór sanepidu i co trzeba w nim zmienić?",
+      "Gdzie będzie stał food truck i czy masz zgody na te miejsca?",
+      "Jak przetrwasz pierwsze trzy miesiące, jeśli ruch będzie mniejszy?"
+    ],
+    "faq": [
+      {
+        "q": "Czy dostanę dotację na food truck?",
+        "a": "To zależy od regulaminu Twojego PUP. Część urzędów wyklucza gastronomię obwoźną albo sezonową. Sprawdzamy to przed rozpoczęciem pracy. Jeśli działalność jest wykluczona, nie przyjmujemy zlecenia i zwracamy 100% ceny."
+      },
+      {
+        "q": "Czy z dotacji opłacę adaptację kuchni?",
+        "a": "Często nie albo tylko w limicie procentowym. W wielu urzędach remont jest wykluczony."
+      },
+      {
+        "q": "Czy catering z domowej kuchni przejdzie?",
+        "a": "Kuchnia domowa rzadko spełnia wymagania sanitarne dla zakładu żywnościowego. Zwykle potrzebny jest lokal zatwierdzony przez sanepid."
+      }
+    ],
+    "przyklad": {
+      "zle": "Lokal będzie serwował smaczne jedzenie w przystępnych cenach i przyciągnie wielu klientów.",
+      "dobrze": "W promieniu 500 m od biurowców przy ul. [nazwa] pracuje ok. 1 500 osób, a w okolicy są tylko 2 punkty z obiadami na wynos. Średni rachunek u konkurencji to 32 zł. Zakładam 60 obiadów dziennie po 30 zł przy food coście 35%. Dwie firmy z biurowca zadeklarowały zamawianie cateringu na spotkania."
+    }
+  },
+  {
+    "slug": "korepetycje",
+    "nazwa": "Korepetycje i szkoła językowa",
+    "krotko": "korepetycje",
+    "ikona": "ksiazka",
+    "title": "Dotacja z urzędu pracy na korepetycje i szkołę językową – wniosek",
+    "description": "Wniosek o dotację z PUP na korepetycje, zajęcia online lub szkołę językową: sensowny kosztorys, sala, sprzęt, sezonowość, kwalifikacje, co punktuje komisja.",
+    "h1": "Dotacja z urzędu pracy na korepetycje i szkołę językową: treści do wniosku w 48 h",
+    "lead": "Korepetycje mają niskie koszty startu, więc komisja często pyta: na co właściwie potrzebna jest dotacja? Dobra odpowiedź to połowa sukcesu.",
+    "specyfika": [
+      "Wniosek broni się, gdy kosztorys buduje coś więcej niż lekcje przy kuchennym stole: wyposażoną salę do zajęć grupowych, sprzęt do lekcji online w dobrej jakości, pomoce dydaktyczne, materiały do kursów egzaminacyjnych.",
+      "Przychody w edukacji są sezonowe. Od września do czerwca grafik jest pełny, latem słabszy, chyba że prowadzisz półkolonie albo kursy przed poprawkami. Prognoza powinna to pokazywać. Opisz też, ile godzin tygodniowo realnie poprowadzisz i ilu uczniów masz już zapisanych.",
+      "Kwalifikacje to tutaj główny kapitał: dyplom, przygotowanie pedagogiczne, certyfikaty językowe (np. C1 lub C2), doświadczenie egzaminatora. W wielu kartach oceny to najwyżej punktowana część wniosku."
+    ],
+    "zakupy": [
+      "laptop i drugi monitor, kamera, mikrofon, oświetlenie do lekcji online – w limitach na sprzęt IT",
+      "monitor interaktywny albo projektor z ekranem",
+      "meble do sali: stoły, krzesła, regały – w limicie na meble",
+      "pomoce dydaktyczne, podręczniki, gry edukacyjne – jako materiały",
+      "drukarka",
+      "tablet graficzny do zajęć z matematyki lub rysunku"
+    ],
+    "pulapki": [
+      {
+        "t": "Kosztorys na siłę",
+        "x": "Wniosek na 15 tys. zł przy maksimum 40 tys. zł nie jest wadą. Zawyżanie pozycji, żeby dobić do limitu, komisja wychwyci. Lepiej mniej i rzetelnie."
+      },
+      {
+        "t": "Sala w mieszkaniu",
+        "x": "Zajęcia w mieszkaniu są możliwe, ale remontu pokoju z dotacji raczej nie sfinansujesz. Opisz warunki uczciwie, bo może być wizja lokalna."
+      },
+      {
+        "t": "Platformy i licencje",
+        "x": "Abonamenty platform do lekcji online to koszt bieżący. Licencje na oprogramowanie bywają wykluczone – sprawdzamy regulamin."
+      },
+      {
+        "t": "Szkolenia dla siebie",
+        "x": "Kurs metodyczny czy egzamin certyfikujący często nie jest kosztem kwalifikowanym, bo wiele urzędów wyklucza szkolenia. Zrób go przed wnioskiem – da punkty."
+      },
+      {
+        "t": "Elektronika z limitem",
+        "x": "Laptop, tablet i telefon bywają ograniczone kwotowo, np. telefon lub tablet do 2 000 zł."
+      }
+    ],
+    "punktuje": [
+      "dyplom i przygotowanie pedagogiczne, certyfikaty językowe, praca w szkole lub szkole językowej",
+      "lista uczniów lub rodziców deklarujących zajęcia (listy intencyjne)",
+      "współpraca z przedszkolem, szkołą lub firmą (zajęcia dla pracowników)",
+      "lokal z umową najmu lub użyczenia",
+      "konkretna analiza: ceny lekcji w okolicy i online, Twój wyróżnik (np. egzamin ósmoklasisty, matura rozszerzona)",
+      "realistyczny grafik i sezonowość w prognozie"
+    ],
+    "pytania": [
+      "Jakie masz kwalifikacje do nauczania tego przedmiotu?",
+      "Ilu uczniów masz dziś i ilu chcesz mieć po roku?",
+      "Jak wygląda Twój tydzień pracy i ile godzin realnie sprzedasz?",
+      "Co robisz w wakacje?",
+      "Czym różnisz się od korepetytorów z ogłoszeń i dużych platform online?"
+    ],
+    "faq": [
+      {
+        "q": "Czy dostanę dotację na korepetycje online?",
+        "a": "Tak, jeśli regulamin nie wyklucza tej formy. Kosztorys oprzyj na sprzęcie do zajęć w dobrej jakości i pokaż, skąd będą uczniowie."
+      },
+      {
+        "q": "Czy szkoła językowa potrzebuje wpisu do ewidencji?",
+        "a": "Niepubliczna placówka oświatowa wymaga wpisu do ewidencji prowadzonej przez samorząd. Zwykłe korepetycje i kursy prowadzone jako działalność gospodarcza takiego wpisu nie wymagają. Ustal to przed wnioskiem, bo wpływa na opis uprawnień."
+      },
+      {
+        "q": "Czy brak przygotowania pedagogicznego mnie przekreśla?",
+        "a": "Nie. Korepetycje nie wymagają formalnych uprawnień, ale udokumentowana wiedza (dyplom, certyfikat, wyniki uczniów) daje punkty. Opisujemy to, co możesz potwierdzić."
+      }
+    ],
+    "przyklad": {
+      "zle": "Mam doskonałe podejście do uczniów i pasję do nauczania.",
+      "dobrze": "Jestem anglistką z certyfikatem C2 i 4 latami pracy w szkole językowej (świadectwo pracy). W gminie nie ma szkoły językowej, a uczniowie dojeżdżają 25 km. Mam już 9 zapisanych uczniów (deklaracje rodziców) i porozumienie z przedszkolem na zajęcia dla 2 grup. Lekcja indywidualna kosztuje w okolicy 70–90 zł."
+    }
+  }
+]

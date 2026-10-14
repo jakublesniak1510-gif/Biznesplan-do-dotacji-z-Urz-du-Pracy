@@ -1,0 +1,58 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, placeholder_info with context %}
+{% block main %}
+<div class="wrap page-head narrow">
+  <h1>Kontakt</h1>
+  <p class="lead">Pytanie o pakiet, Twój urząd albo nabór? Napisz. Odpowiadamy w ciągu 1 dnia roboczego.</p>
+</div>
+<div class="sec sec--tight">
+  <div class="wrap two-col two-col--form">
+    <div>
+      <p class="contact-mail">{{ ikona('mail') }} <a href="mailto:{{ site.EMAIL }}">{{ site.EMAIL }}</a></p>
+      <p class="muted">W wiadomości nie podawaj PESEL, numeru dowodu ani adresu – nie są nam potrzebne.</p>
+      <ul class="checks checks--small">
+        <li>{{ ikona('check') }} <a href="{{ u('quiz/') }}">Quiz: czy się kwalifikuję?</a></li>
+        <li>{{ ikona('check') }} <a href="{{ u('cennik/') }}">Cennik, gwarancja i zwroty</a></li>
+        <li>{{ ikona('check') }} <a href="{{ u('jak-dziala/') }}">Co przygotować do zamówienia</a></li>
+      </ul>
+      <p class="small muted">{{ site.FIRMA_DANE }}</p>
+    </div>
+    <div class="panel">
+      <form class="form" id="kontakt-form" action="{{ site.KONTAKT_FORM_ACTION }}" method="post" data-form="kontakt" data-placeholder="{{ 'true' if placeholder(site.KONTAKT_FORM_ACTION) else 'false' }}">
+        <!-- PLACEHOLDER: action z dane/site.json → KONTAKT_FORM_ACTION (np. Tally, Formspree, Netlify Forms). -->
+        {{ placeholder_info(site.KONTAKT_FORM_ACTION) }}
+        <div class="field">
+          <label for="k-imie">Imię</label>
+          <input id="k-imie" name="imie" type="text" autocomplete="given-name" required>
+        </div>
+        <div class="field">
+          <label for="k-email">E-mail</label>
+          <input id="k-email" name="email" type="email" autocomplete="email" required>
+        </div>
+        <div class="field">
+          <label for="k-temat">Temat</label>
+          <select id="k-temat" name="temat">
+            <option>Pytanie o pakiet lub cenę</option>
+            <option>Mój urząd pracy / nabór</option>
+            <option>Moje zamówienie</option>
+            <option>Współpraca (np. biuro rachunkowe)</option>
+            <option>Inne</option>
+          </select>
+        </div>
+        <div class="field">
+          <label for="k-wiad">Wiadomość</label>
+          <textarea id="k-wiad" name="wiadomosc" rows="6" required></textarea>
+        </div>
+        <div class="field field--check">
+          <input id="k-rodo" name="polityka" type="checkbox" value="tak" required>
+          <label for="k-rodo">Zapoznałem(-am) się z <a href="{{ u('polityka-prywatnosci/') }}">polityką prywatności</a>. Dane z formularza wykorzystamy tylko do odpowiedzi. <span class="req">(wymagane)</span></label>
+        </div>
+        <div class="hp" aria-hidden="true"><label for="k-www">Nie wypełniaj</label><input id="k-www" name="www" type="text" tabindex="-1" autocomplete="off"></div>
+        <button class="btn btn-primary btn-lg" type="submit">{{ ikona('mail') }} Wyślij wiadomość</button>
+        <p class="form-status" role="status" aria-live="polite"></p>
+      </form>
+    </div>
+  </div>
+</div>
+{% endblock %}
+{% block scripts %}<script src="{{ u('assets/formularze.js') }}" defer></script>{% endblock %}

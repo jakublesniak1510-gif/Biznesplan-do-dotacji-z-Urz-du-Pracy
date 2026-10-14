@@ -1,0 +1,30 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "pup-gen"
+version = "0.1.0"
+description = "Silnik usługi: treści do wniosku o dofinansowanie z PUP (szablony + arkusz + kontrola jakości)"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "anthropic>=1.14",
+    "openpyxl>=3.1",
+    "python-docx>=1.1",
+    "pydantic>=2.7",
+]
+
+[project.optional-dependencies]
+# pypdf: odczyt pól AcroForm (/MaxLen) w `pup-gen mapuj`; bez niego działa tylko pdftotext/DOCX
+pdf = ["pypdf>=5"]
+test = ["pytest>=8"]
+
+[project.scripts]
+pup-gen = "pup_gen.cli:main"
+
+[tool.setuptools]
+packages = ["pup_gen"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]

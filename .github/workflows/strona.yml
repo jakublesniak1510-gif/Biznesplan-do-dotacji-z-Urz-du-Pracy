@@ -1,0 +1,75 @@
+# Buduje statyczną stronę (strona/build.py → strona/public/) i publikuje ją na GitHub Pages.
+# Wymaga jednorazowo: Settings → Pages → Source: „GitHub Actions”. Bez sekretów.
+name: Strona WWW
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "strona/**"
+      - "baza-pup/regulaminy-pup-2026.csv"
+      - "docs/faq-dla-klienta.md"
+      - "prawo/regulamin-uslugi-szkic.md"
+      - ".github/workflows/strona.yml"
+  pull_request:
+    paths:
+      - "strona/**"
+      - "baza-pup/regulaminy-pup-2026.csv"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.13"
+
+      - name: Zależności
+        run: pip install -r strona/requirements.txt html5lib
+
+      - name: Adres strony z ustawień Pages
+        id: pages
+        if: github.event_name != 'pull_request'
+        uses: actions/configure-pages@v5
+
+      - name: Budowa
+        env:
+          # Na Pages bierzemy adres i ścieżkę z configure-pages (własna domena albo user.github.io/repo/).
+          # Przy PR zostają wartości z strona/dane/site.json.
+          SITE_DOMENA: ${{ steps.pages.outputs.origin }}
+          SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: python3 strona/build.py
+
+      - name: Sprawdzenie linków i HTML
+        env:
+          SITE_DOMENA: ${{ steps.pages.outputs.origin }}
+          SITE_BASE_PATH: ${{ steps.pages.outputs.base_path }}
+        run: python3 strona/narzedzia/sprawdz.py
+
+      - uses: actions/upload-pages-artifact@v3
+        if: github.event_name != 'pull_request'
+        with:
+          path: strona/public
+
+  deploy:
+    if: github.event_name != 'pull_request'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4

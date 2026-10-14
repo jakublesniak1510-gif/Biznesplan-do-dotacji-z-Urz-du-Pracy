@@ -1,0 +1,122 @@
+{% extends 'baza.html' %}
+{% from 'makra.html' import ikona, karty_pakietow, tabela_pakietow, tabela_doplat, cta_box with context %}
+{% block main %}
+<div class="wrap page-head">
+  <h1>Cennik: treści do wniosku o dotację z PUP</h1>
+  <p class="lead">Trzy pakiety ze stałą ceną: <strong>299, 449 i 649 zł</strong>. W każdym poprawki po wezwaniu urzędu są gratis. Ceny końcowe, płatność BLIK lub kartą.</p>
+</div>
+
+<section class="sec sec--tight" aria-labelledby="h-pak">
+  <div class="wrap">
+    <h2 id="h-pak" class="sr-only">Pakiety</h2>
+    {{ karty_pakietow() }}
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-porown">
+  <div class="wrap">
+    <h2 id="h-porown" class="sec__t">Co jest w pakietach</h2>
+    {{ tabela_pakietow() }}
+    <p class="muted small">Czas liczymy w godzinach roboczych (pon.–pt. 9:00–17:00) od chwili, gdy mamy komplet danych i płatność. Zamówienie opłacone po 16:00 albo w dzień wolny liczymy od 9:00 najbliższego dnia roboczego.</p>
+  </div>
+</section>
+
+<section class="sec sec--alt" id="poprawki" aria-labelledby="h-rundy">
+  <div class="wrap">
+    <h2 id="h-rundy" class="sec__t">Rundy poprawek – co dokładnie obejmują</h2>
+    <dl class="defs">
+      {% for r in cennik.rundy %}
+      <div class="defs__row"><dt>{{ r.pojecie }}</dt><dd>{{ r.definicja }}</dd></div>
+      {% endfor %}
+      <div class="defs__row"><dt>Dodatkowa runda</dt><dd>69 zł</dd></div>
+    </dl>
+  </div>
+</section>
+
+<section class="sec" id="gwarancja" aria-labelledby="h-gw">
+  <div class="wrap two-col">
+    <div>
+      <h2 id="h-gw" class="sec__t">{{ ikona('tarcza') }} Gwarancja: poprawki po wezwaniu urzędu gratis</h2>
+      <p>Jeśli urząd wezwie Cię do uzupełnienia lub poprawienia treści, które przygotowaliśmy, poprawiamy je bez dopłaty – w każdym pakiecie. W Premium dodatkowo odpowiadamy na pytania wykraczające poza nasze treści.</p>
+    </div>
+    <ol class="numbered">
+      {% for g in cennik.gwarancja %}<li>{{ g }}</li>{% endfor %}
+    </ol>
+  </div>
+</section>
+
+<section class="sec sec--alt" aria-labelledby="h-dop">
+  <div class="wrap">
+    <h2 id="h-dop" class="sec__t">Dopłaty</h2>
+    {{ tabela_doplat() }}
+  </div>
+</section>
+
+<section class="sec" aria-labelledby="h-nie">
+  <div class="wrap narrow">
+    <h2 id="h-nie" class="sec__t">Czego nie ma w żadnym pakiecie</h2>
+    <ul class="nots">
+      <li>{{ ikona('x') }}<div>Nie składamy wniosku w Twoim imieniu i nie reprezentujemy Cię przed urzędem.</div></li>
+      <li>{{ ikona('x') }}<div>Nie doradzamy w sprawach prawnych ani podatkowych (np. wybór formy opodatkowania).</div></li>
+      <li>{{ ikona('x') }}<div>Nie gwarantujemy przyznania dotacji.</div></li>
+      <li>{{ ikona('x') }}<div>Nie pozyskujemy zaświadczeń ani ofert za Ciebie. W Premium sprawdzamy ceny rynkowe, ale oferty z podpisem zdobywasz sam.</div></li>
+    </ul>
+  </div>
+</section>
+
+<section class="sec sec--alt" id="zwroty" aria-labelledby="h-zw">
+  <div class="wrap">
+    <h2 id="h-zw" class="sec__t">Zwroty</h2>
+    <div class="tbl-wrap">
+      <table class="tbl">
+        <caption class="sr-only">Polityka zwrotów</caption>
+        <thead><tr><th scope="col">Sytuacja</th><th scope="col">Zwrot</th></tr></thead>
+        <tbody>
+        {% for z in cennik.zwroty %}<tr><th scope="row">{{ z.sytuacja }}</th><td>{{ z.zwrot }}</td></tr>{% endfor %}
+        </tbody>
+      </table>
+    </div>
+    <p class="muted small">Zwrot trafia tą samą metodą płatności. Wiążące zasady (w tym prawo odstąpienia od umowy) opisuje <a href="{{ u('regulamin/') }}">regulamin</a>.</p>
+  </div>
+</section>
+
+<section class="sec" id="porownanie" aria-labelledby="h-alt">
+  <div class="wrap">
+    <h2 id="h-alt" class="sec__t">Jak wypadamy na tle innych rozwiązań</h2>
+    <p class="sec__lead">Uczciwie: każda opcja ma sens dla kogoś innego. Ceny to typowe stawki rynkowe z publicznych ofert (stan na {{ site.STAN_NA_TXT }}).</p>
+    <ul class="alt-cards">
+      {% for a in cennik.alternatywy %}
+      <li class="alt-card{% if a.nasze is defined %} alt-card--nasze{% endif %}">
+        <h3>{{ a.nazwa }}</h3>
+        <dl>
+          <div><dt>Cena</dt><dd>{{ a.cena }}</dd></div>
+          <div><dt>Czas</dt><dd>{{ a.czas }}</dd></div>
+          <div><dt>Kto pisze</dt><dd>{{ a.kto_pisze }}</dd></div>
+          <div><dt>Pod formularz Twojego PUP</dt><dd>{{ a.dopasowanie }}</dd></div>
+          <div><dt>Poprawki po wezwaniu</dt><dd>{{ a.poprawki }}</dd></div>
+          <div><dt>Kiedy ma sens</dt><dd>{{ a.plus }}</dd></div>
+        </dl>
+      </li>
+      {% endfor %}
+    </ul>
+    <div class="tbl-wrap alt-table">
+      <table class="tbl tbl-alt">
+        <caption class="sr-only">Porównanie z alternatywami</caption>
+        <thead><tr><th scope="col">Rozwiązanie</th><th scope="col">Cena</th><th scope="col">Czas</th><th scope="col">Kto pisze</th><th scope="col">Pod formularz Twojego PUP</th><th scope="col">Poprawki po wezwaniu</th><th scope="col">Kiedy ma sens</th></tr></thead>
+        <tbody>
+        {% for a in cennik.alternatywy %}
+          <tr{% if a.nasze is defined %} class="is-nasze"{% endif %}><th scope="row">{{ a.nazwa }}</th><td class="nowrap">{{ a.cena }}</td><td>{{ a.czas }}</td><td>{{ a.kto_pisze }}</td><td>{{ a.dopasowanie }}</td><td>{{ a.poprawki }}</td><td>{{ a.plus }}</td></tr>
+        {% endfor %}
+        </tbody>
+      </table>
+    </div>
+  </div>
+</section>
+
+<div class="sec">
+  <div class="wrap">
+    {{ cta_box('Wybierz pakiet i zamów', 'Po płatności wypełniasz kwestionariusz. Treści dostajesz w 24–48 h roboczych od kompletu danych.', 'standard') }}
+    <p class="center small">Nie wiesz, czy spełniasz warunki? <a href="{{ u('quiz/') }}">Zrób quiz</a> · Sprawdź <a href="{{ u('urzedy/') }}">regulamin swojego urzędu</a> · Zobacz <a href="{{ u('branze/') }}">wskazówki dla branż</a></p>
+  </div>
+</div>
+{% endblock %}

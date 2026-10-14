@@ -1,0 +1,66 @@
+{
+  "_opis": "Cennik v2 (operacje/cennik-v2.md, stan 14.10.2026). Ceny końcowe dla konsumenta.",
+  "pakiety": [
+    {"id": "podstawowy", "nazwa": "Podstawowy", "cena": 299, "czas": "48 h robocze", "polecany": false,
+     "dla_kogo": "Masz gotowy pomysł i własne liczby, potrzebujesz dobrze napisanych treści pod formularz urzędu i kosztorysu."},
+    {"id": "standard", "nazwa": "Standard", "cena": 449, "czas": "48 h robocze", "polecany": true,
+     "dla_kogo": "Najczęstszy wybór: pełny wniosek z prognozą finansową i analizą lokalnej konkurencji."},
+    {"id": "premium", "nazwa": "Premium", "cena": 649, "czas": "24 h robocze", "polecany": false,
+     "dla_kogo": "Chcesz mieć sprawdzony kosztorys, priorytet przy wezwaniu urzędu, rozmowę i instrukcję na czas po przyznaniu."}
+  ],
+  "cechy": [
+    {"nazwa": "Treści do wszystkich opisowych pól wniosku, w układzie formularza Twojego PUP", "w": ["tak", "tak", "tak"]},
+    {"nazwa": "Kosztorys (specyfikacja wydatków) z uzasadnieniem każdej pozycji", "w": ["tak", "tak", "tak"]},
+    {"nazwa": "Sprawdzenie listy wydatków z katalogiem wykluczeń z regulaminu PUP", "w": ["tak", "tak", "tak"]},
+    {"nazwa": "Prognoza finansowa (przychody, koszty, wynik na 12–24 mies.) w arkuszu + opis", "w": ["nie", "tak", "tak"]},
+    {"nazwa": "Analiza lokalnej konkurencji (5–8 firm z okolicy, ceny, wyróżnik)", "w": ["nie", "tak", "tak"]},
+    {"nazwa": "Opis kwalifikacji i doświadczenia pod kryteria oceny urzędu", "w": ["skrócony", "pełny", "pełny"]},
+    {"nazwa": "Weryfikacja kosztorysu z ofertami: realne ceny do 10 kluczowych pozycji, z linkami", "w": ["nie", "nie", "tak"]},
+    {"nazwa": "Wsparcie przy wezwaniu do uzupełnień", "w": ["gwarancja", "gwarancja", "gwarancja + priorytet 24 h + odpowiedzi także na pytania spoza naszych treści"]},
+    {"nazwa": "Instrukcja „co po przyznaniu” pod regulamin Twojego PUP (umowa, zabezpieczenie, zakupy, rozliczenie)", "w": ["nie", "nie", "tak"]},
+    {"nazwa": "Konsultacja telefoniczna 30 min (jeśli PUP ma komisję: lista pytań i próba prezentacji)", "w": ["nie", "nie", "tak"]},
+    {"nazwa": "Rundy poprawek", "w": ["1 runda korekt", "1 runda merytoryczna", "2 rundy merytoryczne"]},
+    {"nazwa": "Czas realizacji od kompletu danych", "w": ["48 h robocze", "48 h robocze", "24 h robocze"]},
+    {"nazwa": "Gwarancja: poprawki po wezwaniu urzędu gratis", "w": ["tak", "tak", "tak"]}
+  ],
+  "doplaty": [
+    {"nazwa": "Ekspres 24 h", "cena": "+99 zł", "zakres": "Realizacja w 24 h robocze od kompletu danych (Podstawowy i Standard). Premium ma 24 h w cenie.", "uwagi": "Limit 2 ekspresy dziennie."},
+    {"nazwa": "Ponowne złożenie w kolejnym naborze", "cena": "149 zł", "zakres": "Aktualizacja do nowego formularza lub regulaminu, nowe kwoty, poprawki po uzasadnieniu odmowy.", "uwagi": "Ten sam pomysł, do 12 mies. od pierwszego zamówienia."},
+    {"nazwa": "Inny urząd lub inny program", "cena": "199 zł", "zakres": "Adaptacja treści do innego formularza, np. PFRON, LGD, pożyczka „Wsparcie w starcie”, projekt EFS+.", "uwagi": "Wniosek do PUP składasz w urzędzie właściwym dla miejsca zamieszkania."},
+    {"nazwa": "Listy intencyjne", "cena": "79 zł", "zakres": "Szablon, instrukcja „jak poprosić” i do 3 spersonalizowanych listów od potencjalnych klientów lub kontrahentów.", "uwagi": "Część urzędów przyznaje za nie punkty."},
+    {"nazwa": "Rozliczenie dotacji po przyznaniu", "cena": "249 zł", "zakres": "Zestawienie wydatków zgodne z umową, checklista dokumentów, opis zmian w harmonogramie, przypomnienia terminów.", "uwagi": "To nie usługa księgowa ani doradztwo podatkowe."},
+    {"nazwa": "Konsultacja telefoniczna 30 min", "cena": "99 zł", "zakres": "Omówienie wniosku. Jeśli urząd ma komisję: lista pytań i próba prezentacji.", "uwagi": "Dla pakietów Podstawowy i Standard."},
+    {"nazwa": "Dodatkowa runda poprawek", "cena": "69 zł", "zakres": "Kolejna zbiorcza lista uwag ponad rundy z pakietu.", "uwagi": "Definicja rundy niżej."}
+  ],
+  "rundy": [
+    {"pojecie": "Runda poprawek", "definicja": "Jedna zbiorcza lista uwag przesłana w ciągu 7 dni od dostarczenia dokumentu. Wprowadzamy ją w ciągu 48 h roboczych (Premium: 24 h)."},
+    {"pojecie": "Runda korekt (Podstawowy)", "definicja": "Poprawiamy błędy faktyczne (dane niezgodne z kwestionariuszem), językowe, kwotowe i niezgodność z formularzem urzędu. Bez przebudowy treści."},
+    {"pojecie": "Runda merytoryczna (Standard, Premium)", "definicja": "To samo co korekta, plus zmiany treści w ramach tego samego pomysłu: inne akcenty, dopisanie informacji, zmiana do 30% pozycji kosztorysu, korekta prognozy."},
+    {"pojecie": "Co nie jest poprawką", "definicja": "Zmiana branży lub pomysłu, zmiana urzędu albo programu, nowy formularz po zmianie regulaminu (to „ponowne złożenie”), zmiana ponad 30% kosztorysu, uwagi przesyłane „na raty” po zamknięciu rundy."},
+    {"pojecie": "Błąd po naszej stronie", "definicja": "Zawsze poprawiamy bez limitu i bez dopłaty, np. pomyłkę w kwocie albo pominięte pole formularza."}
+  ],
+  "gwarancja": [
+    "Prześlij skan lub zdjęcie wezwania w ciągu 3 dni od jego otrzymania. Urząd daje na uzupełnienie co najmniej 7 dni.",
+    "Poprawione treści dostajesz w ciągu 24 h roboczych od przesłania wezwania.",
+    "Gwarancja obejmuje treści opisowe, kosztorys i prognozę (jeśli była w pakiecie). Nie obejmuje dokumentów, które dostarczasz sam (zaświadczenia, oferty, zgody, poręczenia), ani skutków podania nieprawdziwych danych.",
+    "Działa w tym samym naborze, do 90 dni od dostarczenia dokumentu.",
+    "Nie obejmuje odmowy przyznania dotacji. Na to jest dopłata „ponowne złożenie” (149 zł)."
+  ],
+  "zwroty": [
+    {"sytuacja": "Rezygnacja przed rozpoczęciem prac", "zwrot": "100% w ciągu 14 dni (ustawowe prawo odstąpienia)."},
+    {"sytuacja": "Rezygnacja po rozpoczęciu prac na Twoje żądanie, przed dostarczeniem", "zwrot": "Zwrot pomniejszony o proporcjonalną część wykonanej pracy: przed weryfikacją kwestionariusza 100%, po wersji roboczej 50%, w trakcie redakcji końcowej 20%."},
+    {"sytuacja": "Dokument dostarczony (usługa wykonana w pełni)", "zwrot": "Prawo odstąpienia wygasa. Zwrot tylko przy uzasadnionej reklamacji."},
+    {"sytuacja": "Przekroczenie terminu z naszej winy", "zwrot": "Do wyboru: zwrot dopłaty za ekspres albo 30% ceny. Przy opóźnieniu ponad 48 h ponad termin: odstąpienie i 100% zwrotu."},
+    {"sytuacja": "Nie możemy przyjąć zlecenia (np. działalność wykluczona w regulaminie PUP, brak formularza, pełne moce)", "zwrot": "100% od razu."},
+    {"sytuacja": "Brak danych od Ciebie przez 30 dni", "zwrot": "Zamówienie zawieszone. Po 60 dniach zamknięte ze zwrotem 50% (100%, jeśli prace nie ruszyły)."},
+    {"sytuacja": "Urząd odmówił dotacji", "zwrot": "Brak zwrotu – nie sprzedajemy gwarancji dotacji. Ponowne złożenie za 149 zł."},
+    {"sytuacja": "Nabór zamknięty lub odwołany przed złożeniem wniosku", "zwrot": "Brak zwrotu za wykonaną pracę, ale bezpłatna aktualizacja do kolejnego naboru w tym samym PUP w ciągu 6 mies."}
+  ],
+  "alternatywy": [
+    {"nazwa": "Gotowy wzór (PDF/DOCX)", "cena": "29–120 zł", "czas": "od ręki", "kto_pisze": "Ty – przepisujesz i dopasowujesz wzór z innej branży lub innego urzędu", "dopasowanie": "nie", "poprawki": "nie", "plus": "najtańsza opcja, dobra, jeśli dobrze piszesz i znasz regulamin swojego urzędu"},
+    {"nazwa": "Weryfikacja wniosku napisanego samodzielnie", "cena": "ok. 169 zł", "czas": "zwykle kilka dni", "kto_pisze": "Ty – dostajesz uwagi formalne i merytoryczne", "dopasowanie": "częściowo (uwagi)", "poprawki": "nie", "plus": "tanio, jeśli masz już gotowy tekst"},
+    {"nazwa": "Usługa „pod klucz” u doradcy", "cena": "1 350–1 450 zł, często wycena indywidualna", "czas": "7–14 dni", "kto_pisze": "doradca – wniosek, biznesplan, załączniki, czasem konsultacje", "dopasowanie": "tak", "poprawki": "u części firm", "plus": "najszerszy zakres i kontakt z doradcą przez cały proces"},
+    {"nazwa": "Bezpłatna pomoc w PUP", "cena": "0 zł", "czas": "wg terminów urzędu", "kto_pisze": "Ty – urząd informuje o zasadach, nie pisze wniosku", "dopasowanie": "informacja o zasadach", "poprawki": "nie dotyczy", "plus": "warto pójść zawsze: spotkania dla przyszłych przedsiębiorców bywają punktowane"},
+    {"nazwa": "Nasze treści do wniosku", "cena": "299–649 zł, stała cena", "czas": "24–48 h od kompletu danych", "kto_pisze": "my – na podstawie Twoich danych, Ty sprawdzasz, podpisujesz i składasz", "dopasowanie": "tak – pod formularz i kartę oceny Twojego PUP", "poprawki": "tak, gratis w każdym pakiecie", "plus": "szybko, przejrzyście, każdy dokument sprawdza człowiek", "nasze": true}
+  ]
+}
