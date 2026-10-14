@@ -43,6 +43,52 @@ które zdecydują o tym, czy klienci dostaną dotację. Poniżej: co poprawić, 
 
 Zasady dla wszystkich: po polsku, konkretnie, każdy fakt o przepisach i kwotach ze źródłem, czego nie da się potwierdzić – oznaczyć „[do weryfikacji]". Nic nie zmyślamy, bo klient podpisuje wniosek pod rygorem zwrotu dotacji.
 
-## 4. Odbiór pracy (uzupełnię po przeglądzie)
+## 4. Odbiór pracy (14.10.2026, po sprawdzeniu plików)
 
-_Sekcja wypełniana po sprawdzeniu plików pracowników._
+Wszystkie trzy zlecenia przyjęte. Łącznie 31 plików, w tym arkusz XLSX (1 929 formuł, 0 błędów po przeliczeniu w LibreOffice).
+
+### Co pracownicy ustalili ponad moją ocenę (korekty także moich założeń)
+
+| Temat | Ustalenie | Źródło w repo |
+|---|---|---|
+| Limit ustawowy | 6 × przeciętne wynagrodzenie = 55 398,78 zł od 1.09.2026. Urzędy dają zwykle 28–49 tys. zł. Kwoty Kolbuszowa 40 tys. i Brodnica 32 tys. potwierdzone w ogłoszeniach z lipca 2026. | `docs/jak-dziala-dotacja-2026.md` |
+| Terminy naborów | Styczeń jest **cichy** (urzędy czekają na podział Funduszu Pracy). Szczyt: luty–kwiecień, potem czerwiec–lipiec i wrzesień–październik. Nabory trwają też teraz. Hasło „ruszaj przed styczniem" zostaje, ale cel to luty. | `docs/`, `marketing/alerty-naborow.md` |
+| Zawieszenie firmy | Nie ma „zakazu zawieszenia": można zawiesić łącznie do 6 mies., ten czas nie liczy się do obowiązkowych 12. | `docs/jak-dziala-dotacja-2026.md` |
+| Moje błędy w briefie | Wykluczenie pojazdów w de minimis jest nieaktualne (rozp. 2023/2831); FEnIKS nie finansuje dotacji PUP (robią to programy regionalne EFS+); w projektach EFS+ grupa to zwykle 55+, nie 50+. | tamże, tabela weryfikacji |
+| Naszej usługi nie da się opłacić z dotacji | Rozliczane są tylko wydatki od dnia umowy. Nie obiecywać tego klientom. | tamże |
+| Działalność nierejestrowana | Od 2026 limit kwartalny 10 813,50 zł. JDG konieczna od startu. | `prawo/forma-prawna-i-obowiazki.md` |
+| VAT | Limit zwolnienia 240 tys. zł, ale „doradztwo" jest wyłączone ze zwolnienia. Interpretacja indywidualna (40 zł) do złożenia w październiku, zanim ruszy sprzedaż. | tamże |
+| Kasa fiskalna | Zwolnienie przy płatnościach wyłącznie na rachunek (poz. 42 rozporządzenia). Zero gotówki. | tamże |
+| Płatność BLIK | Tally sam nie obsługuje BLIK. Rozwiązanie: Tally → przekierowanie na Stripe Payment Link (BLIK dostępny, 1,6 % + 1 zł) z numerem zgłoszenia. | `operacje/proces-realizacji.md` |
+| Konkurencja | „Pod klucz" 1 350–1 450 zł, 7–14 dni; wzory 29–120 zł; weryfikacja wniosku 169 zł. Luka: 24–48 h, 300–650 zł, pod formularz konkretnego PUP, alerty. | `operacje/konkurencja.md` |
+| Cennik v2 | 299 / 449 / 649 zł, gwarancja poprawek po wezwaniu w każdym pakiecie, dopłaty (ekspres 99, ponowne złożenie 149, inny program 199, listy intencyjne 79, rozliczenie 249). Czas właściciela 1,75 / 2,9 / 4,8 h; przy 40 planach to ok. 140 h/mies. – sufit dla jednej osoby. | `operacje/cennik-v2.md` |
+| Alerty naborów | Zielona Linia publikuje nabory (ok. 135 wpisów w 2026, otwarte API, RSS nie działa). Wszystkie PUP mają wspólny szablon stron `[pup].praca.gov.pl`, więc wystarczy jeden skrypt monitorujący. | `marketing/alerty-naborow.md` |
+| Model finansowy | Stałe 2026 ze źródłami pierwotnymi (płaca min. 4 806 zł, pełny ZUS 1 926,76 zł, preferencyjny 456,18 zł, zdrowotna min. 432,54 zł). Przy starcie firmy w grudniu 11 miesięcy przypada na 2027 r. – po ogłoszeniu stałych 2027 dodać arkusz `Stale-2027`. | `model-finansowy/INSTRUKCJA.md` |
+
+Dwie kwoty przeciętnego wynagrodzenia za II kw. 2026 w repo (9 233,13 zł i 9 396,33 zł) to dwie różne miary GUS: pierwsza (gospodarka narodowa) liczy limit dotacji, druga (sektor przedsiębiorstw) jest w arkuszu tylko informacyjnie. Nie ma sprzeczności.
+
+### Decyzje, które zostają po stronie właściciela
+
+1. **Ceny:** README podaje v1 (249/399/599), `operacje/cennik-v2.md` proponuje 299/449/649. Rekomenduję v2 – przy VAT 23 % w cenie stawka godzinowa i tak spada o ok. 20 zł/h.
+2. **VAT:** złożyć wniosek o interpretację indywidualną teraz. Do czasu odpowiedzi kalkulować ceny tak, jakby VAT był należny.
+3. **Zakres Premium:** przebudowany (uzupełnienia, weryfikacja kosztorysu z ofertami, instrukcja „co po przyznaniu"). Przygotowanie do komisji tylko tam, gdzie urząd ją prowadzi (np. Nowa Sól – obowiązkowa).
+4. **Regulamin i RODO:** szkice w `prawo/` wymagają konsultacji z prawnikiem przed startem sprzedaży.
+
+### Otwarte punkty „[do weryfikacji]" (zebrane)
+
+- Limit dotacji od 1.12.2026 (komunikat GUS za III kw. ok. 10.11.2026).
+- Rola FERS i PFRON jako osobnych ścieżek; dostępność gwarancji bankowych dla bezrobotnych.
+- Czy pisanie biznesplanów to „doradztwo" dla VAT i kasy fiskalnej; czy BLIK przez Stripe spełnia warunek zwolnienia z kasy.
+- Tally: przekazywanie pól w adresie przekierowania, prowizja w planie darmowym. Alternatywy Tpay/P24/Autopay dla linku płatniczego.
+- Kody PKD 2025 w przykładach branżowych (źródła wtórne).
+- Warunki Małego ZUS plus i zwolnienie dotacji z PIT w modelu finansowym.
+- Ceny WROSKO, biznesnagotowo.pl, oferty z OLX/Useme (nie udało się pobrać).
+- Udział wezwań do uzupełnień (założono 25–30 %) i koszt API na plan (założono ok. 6 zł) – do zmierzenia na pierwszych zamówieniach.
+
+### Następne zlecenia (kolejność)
+
+1. Baza regulaminów 20–30 PUP w arkuszu (kwota, limity %, wykluczenia, zabezpieczenie, karta oceny, komisja/wizja) – fundament pod mapowanie pól.
+2. Trzy plany testowe przez cały proces (fryzjerka mobilna, mechanik, firma sprzątająca) z pomiarem czasu – kalibracja cennika i szablonów.
+3. Strona + quiz kwalifikacyjny + zapis na alerty + formularz Tally z płatnością Stripe.
+4. Skrypt monitorujący nabory (API Zielonej Linii + strony PUP) i pierwszy mailing w grudniu.
+5. Wzór listu intencyjnego i instrukcja dla klienta.
