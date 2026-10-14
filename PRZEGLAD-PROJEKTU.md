@@ -120,6 +120,22 @@ Właściciel przekazał pełne pełnomocnictwo: decyzje podejmuję sam, bez pyta
 | D | Monitor naborów: Zielona Linia + strony PUP, klasyfikator, alerty, eksport do mailingu, workflow cron | `alerty/`, `.github/workflows/alerty.yml` | `pytest` zielony, prawdziwy skan z dzisiejszymi naborami |
 | E | Trzy wzorcowe wnioski pod prawdziwe urzędy + materiały klienta (list intencyjny, co po przyznaniu, odpowiedzi na wezwania, pytania komisji) | `przyklady/` | liczby zgodne z arkuszem, zero zakazanych zwrotów, trzy różne tony |
 
-### Odbiór etapu 2
+### Odbiór etapu 2 (14.10.2026)
 
-_Uzupełnię po sprawdzeniu._
+Wszystkie pięć pakietów przyjęte po własnej weryfikacji (testy uruchomione przeze mnie, budowa strony powtórzona, CSV zwalidowany, przykłady przepuszczone przez skrypt kontrolny).
+
+| Pakiet | Wynik odbioru |
+|---|---|
+| A – Baza PUP | 30 urzędów, 36 kolumn, CSV poprawny. 19 kompletnych, 11 częściowych, 4 bez regulaminu 2026 (Katowice, Brodnica, Wrocław, Bartoszyce). 25 formularzy pobranych, 8 przeanalizowanych pole po polu. Kalendarz: 150 naborów 2026, 81 trwało 1–7 dni. Odkrycia: Kielce i Słupsk zakazują towaru handlowego z dotacji, Opole zakazuje wszystkich pojazdów, Zielona Góra wymaga zabezpieczenia na 200 % kwoty, Gorlice wymagają 25 % wkładu własnego. Żaden formularz nie podaje limitów znaków, ogranicza tylko rozmiar ramki. |
+| B – Generator | 62 testy zaliczone (z prawdziwym LibreOffice). Walidacja odrzuca PESEL i numer dowodu. Test regresji: arkusz daje dokładnie liczby z szablonu 08. Koszt API: 0,5–1 USD na plan (Opus 5.5 z cache), ok. 2–4 zł. Brak: jakość tekstów z prawdziwym modelem nie sprawdzona (brak klucza), `mapuj` nie rozpoznaje tabel wielokolumnowych. |
+| C – Strona | 49 stron HTML, 2 158 linków sprawdzonych, 0 błędów, walidator W3C 0 błędów, brak przewijania poziomego na 390 px, quiz przetestowany w Playwright w 3 scenariuszach. Podstrony urzędów same ostrzegają o kwocie wyższej niż limit ustawowy (Rzeszów 57 377 zł) i o braku regulaminu. Placeholdery zebrane w jednym pliku. |
+| D – Monitor | 85 testów zaliczonych. Prawdziwy skan 14.10: 15 aktywnych naborów (m.in. Legnica 19–28.10 do 28 000 zł, Tuchola 19–20.10, Turek 12–16.10 do 38 822 zł). Endpoint Zielonej Linii potwierdzony (WordPress REST, kategoria 235, Crawl-delay 30 s). 341 z 341 subdomen PUP potwierdzonych. Brak: kwotę ma tylko 46 % wpisów, przedłużenia terminów bez nowego wpisu nie są wykrywane. |
+| E – Przykłady | 3 wnioski pod prawdziwe karty oceny (Turek, Grodzisk Maz., Kolbuszowa), 3 tony, 0 zakazanych zwrotów, 0 liczb spoza arkusza, sekcje 1 700–2 300 znaków. Przykład uczciwości: w Turku pracownik znalazł konkurentkę z dojazdem, więc wyróżnik klientki zmienił z „jedyna z dojazdem" na obsługę osób leżących. Materiały klienta kompletne. |
+
+### Co zostaje do zrobienia po stronie właściciela
+
+1. Rejestracja JDG, konto firmowe, Stripe z BLIK, domena, nazwa marki.
+2. Interpretacja indywidualna ws. VAT (teraz), prawnik do regulaminu i polityki prywatności.
+3. Włączenie GitHub Pages i sekretu Brevo; podmiana placeholderów w `strona/dane/site.json`.
+4. Pierwsze 3–5 zleceń z prawdziwym modelem i pomiar czasu na pakiet; kalibracja promptów na podstawie `przyklady/`.
+5. W listopadzie: nowy limit ustawowy (GUS za III kw.), stałe ZUS/PIT 2027 do arkusza, uzupełnienie 11 częściowych urzędów w bazie.

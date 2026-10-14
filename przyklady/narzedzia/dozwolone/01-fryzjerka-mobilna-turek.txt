@@ -1,0 +1,26 @@
+# Liczby z kwestionariusza i źródeł zewnętrznych, które mogą wystąpić w tekście wniosku (poza arkuszem).
+# Ceny usług i dopłaty za dojazd (kwestionariusz 3.2)
+70 zł
+40 zł
+45 zł
+180 zł
+10 zł
+20 zł
+# Ceny konkurencji (Booksy 10.2026, kb.pl 29.04.2026)
+400 zł
+60 zł
+77,60 zł
+228 zł
+# Koszty z kwestionariusza 13.3 i 10.2
+650 zł
+200 zł
+150 zł
+4 000 zł
+# GUS (polskawliczbach.pl / BDL)
+24,4%
+# ogłoszenie naboru PUP Turek
+38 822 zł
+90 zł
+110 zł
+220 zł
+# Booksy: zabiegi pielęgnacyjne NEW LOOK od 200 zł; barberzy 60–70 zł

@@ -1,0 +1,48 @@
+# Lista zakazana z szablony/00-system-prompt.md jako wyrażenia regularne (bez rozróżniania wielkości liter).
+# Jedna reguła w wierszu. Komentarze zaczynają się od #. Rdzenie łapią odmiany.
+dynamicznie rozwij
+innowacyj
+kompleksow
+w dzisiejszych czasach
+w obecnych czasach
+\bw dobie\b
+szerok\w* wachlarz
+szerok\w* gam
+najwyższ\w* jakoś
+na najwyższym poziomie
+profesjonalizm
+rzetelnoś
+indywidualn\w* podejści
+konkurencyjn\w* cen
+wychodząc naprzeciw
+odpowiadając na potrzeby
+nisz\w* rynkow
+rosnąc\w* zapotrzebowani
+rosnąc\w* popyt
+stale rosn
+wieloletni\w* doświadcz
+\bpasj
+zadowoleni\w* klient
+\bpriorytet
+elastyczn
+dopasowan\w* do potrzeb
+szyt\w* na miarę
+unikaln
+propozycj\w* wartości
+przewag\w* konkurencyjn
+\bkluczow
+strategiczn
+holistyczn
+synergi
+optymaliz
+warto podkreślić
+należy zaznaczyć
+nie ulega wątpliwości
+na pewno
+gwarantuj
+z całą pewnością
+bez wątpienia
+sukces jest pewny
+\bzawsze\b
+\bnigdy\b
+\b100 ?%

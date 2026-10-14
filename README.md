@@ -1,83 +1,90 @@
-# Biznesplan do dotacji z Urzędu Pracy – wersja 2
+# Biznesplan do dotacji z Urzędu Pracy
 
-Usługa dla osób bezrobotnych, które chcą złożyć w powiatowym urzędzie pracy (PUP) wniosek o **dofinansowanie podjęcia działalności gospodarczej**. Klient wypełnia kwestionariusz o swoim pomyśle. W 24–48 h dostaje gotowe treści do pól wniosku **swojego** urzędu:
-- opis działalności i kwalifikacji,
-- analizę rynku i konkurencji,
-- specyfikację zakupów z uzasadnieniem,
-- prognozę finansową na 12 miesięcy.
+Usługa dla osób bezrobotnych, które składają w powiatowym urzędzie pracy (PUP) wniosek o **dofinansowanie podjęcia działalności gospodarczej**. Klient wypełnia kwestionariusz o swoim pomyśle. W 24–48 h dostaje gotowe treści do pól wniosku **swojego** urzędu: opis działalności i kwalifikacji, analizę rynku i konkurencji, specyfikację zakupów z uzasadnieniem i prognozę finansową na 12 miesięcy. Treści powstają z pomocą AI według szablonów, liczby liczy arkusz, a każdy plan właściciel sprawdza według checklisty.
 
-Treści przygotowujemy z pomocą AI. Każdy plan właściciel sprawdza ręcznie według checklisty, zanim trafi do klienta.
+**Czego nie robimy:** nie gwarantujemy dotacji, nie składamy wniosku za klienta, nie wymyślamy danych.
 
-## Dla kogo
+## Czym różnimy się od istniejących usług
 
-- Osoby zarejestrowane jako bezrobotne, absolwenci CIS/KIS, opiekunowie osób niepełnosprawnych poszukujący pracy. To krąg uprawnionych z art. 147 ustawy z 20.03.2025 o rynku pracy i służbach zatrudnienia.
-- Osoby, które mają pomysł i poręczycieli lub inne zabezpieczenie, ale nie wiedzą, jak napisać wniosek pod regulamin i kartę oceny urzędu.
-- Klient chce taniej i szybciej niż u doradcy „pod klucz” (ok. 1 350–1 450 zł wg `operacje/konkurencja.md`), ale z treścią pisaną pod konkretny PUP, a nie z szablonu.
+| | Wzory z sieci | Firmy „pod klucz" | Ta usługa |
+|---|---|---|---|
+| Cena | 29–120 zł | 1 350–1 450 zł | **299 / 449 / 649 zł** |
+| Czas | od ręki | 7–14 dni | **24–48 h** |
+| Dopasowanie do urzędu | brak | ogólne | **regulamin, limity, karta oceny i formularz konkretnego PUP** (baza 30 urzędów) |
+| Poprawki po wezwaniu urzędu | brak | zwykle płatne | **gratis w każdym pakiecie** |
+| Alerty o naborach | brak | brak | **automatyczny monitor 341 urzędów, e-mail w dniu ogłoszenia** |
+| Kontrola jakości | brak | ręczna | **automatyczna: zakazane zwroty, spójność liczb z arkuszem, limity regulaminu, podobieństwo planów do tego samego PUP** |
 
-**Czego nie robimy:** nie gwarantujemy dotacji, nie składamy wniosku za klienta, nie reprezentujemy go przed urzędem, nie wymyślamy danych.
-
-## Kluczowe fakty 2026 (szczegóły i źródła: `docs/jak-dziala-dotacja-2026.md`)
+## Kluczowe fakty 2026 (źródła: `docs/jak-dziala-dotacja-2026.md`)
 
 | Fakt | Stan na 14.10.2026 |
 |---|---|
-| Podstawa prawna | ustawa z 20.03.2025 (Dz.U. 2025 poz. 620, w mocy od 1.06.2025), art. 147–153, oraz rozporządzenie MRPiPS z 21.11.2025 (Dz.U. 2025 poz. 1645) |
-| Limit ustawowy | 6 × przeciętne wynagrodzenie = **55 398,78 zł** (od 1.09.2026) |
-| Limity urzędów w praktyce | zwykle **28–49 tys. zł** (Brodnica 32 tys., Kolbuszowa 40 tys., Łódź 49 tys.) |
-| Obowiązki | min. 12 mies. działalności, zawieszenie łącznie ≤ 6 mies. (nie liczy się do 12), zakaz etatu, rozliczenie w 2 mies. od startu |
-| Zabezpieczenie | obowiązkowe, najczęściej 2 poręczycieli. Główny powód rezygnacji klientów |
-| Nabory | przez cały rok (luty–marzec, czerwiec–lipiec, wrzesień–październik), a nie „głównie w styczniu”. W 2026 r. środki FP mocno obcięte |
+| Podstawa prawna | ustawa z 20.03.2025 o rynku pracy i służbach zatrudnienia (art. 147–153), rozporządzenie MRPiPS z 21.11.2025 |
+| Limit ustawowy | 6 × przeciętne wynagrodzenie = **55 398,78 zł** (od 1.09.2026; aktualizacja 1.12.2026) |
+| Limity urzędów | zwykle **30–49 tys. zł**, mediana w bazie 35 tys. zł |
+| Obowiązki | min. 12 mies. działalności (Piotrków: 15), zawieszenie łącznie ≤ 6 mies., zakaz etatu |
+| Zabezpieczenie | obowiązkowe, najczęściej 2 poręczycieli (mediana dochodu ok. 5 050 zł) lub blokada rachunku |
+| Nabory | przez cały rok, szczyt luty–kwiecień i wrzesień; 81 ze 150 naborów 2026 trwało 1–7 dni |
 
-## Jak to działa – krok po kroku
+## Jak to działa
 
-1. **Kwalifikacja** (bezpłatny quiz na stronie): warunki z art. 148, zabezpieczenie, nabór w PUP.
-2. **Zamówienie i płatność**: pakiet Podstawowy / Standard / Premium.
-3. **Kwestionariusz** (`docs/kwestionariusz-klienta.md`): klient wgrywa regulamin naboru i formularz urzędu, linki do ofert zakupowych, dokumenty kwalifikacji.
-4. **Weryfikacja kompletności** (właściciel, do 4 h): braki, ryzyka (np. brak poręczycieli, wykluczona branża), kontakt z klientem.
-5. **Generowanie treści** według szablonów (`szablony/`) i modelu finansowego (`model-finansowy/`), pod pola formularza danego PUP.
-6. **Kontrola jakości** według `docs/checklista-weryfikacji.md`: regulamin, limity, spójność liczb, prawdziwość, brak generycznego AI, test podobieństwa do innych planów do tego samego PUP.
-7. **Wysyłka**: DOCX, PDF i arkusz plus instrukcja „co wpisać i podpisać samemu”.
-8. **Poprawki**: runda poprawek, wsparcie przy wezwaniu do uzupełnień (min. 7 dni urzędowego terminu).
-9. **Po decyzji urzędu**: ankieta o wyniku, opcjonalnie instrukcja „co po przyznaniu” lub pomoc w rozliczeniu.
-
-Pakiety: w koncepcji v1 249 / 399 / 599 zł. Propozycja v2 z nowym zakresem i gwarancją poprawek po wezwaniu: `operacje/cennik-v2.md` (do decyzji właściciela).
+1. **Quiz kwalifikacyjny** na stronie (warunki z art. 148, zabezpieczenie, nabór).
+2. **Zamówienie i płatność** (Tally → Stripe Payment Link z BLIK).
+3. **Kwestionariusz** z uploadem regulaminu i formularza urzędu, linkami do ofert zakupowych.
+4. **Generator** (`generator/`): mapowanie pól formularza, arkusz finansowy, treści sekcji, automatyczna kontrola jakości, DOCX + raport dla właściciela.
+5. **Kontrola właściciela** według `docs/checklista-weryfikacji.md`, wysyłka DOCX/PDF/XLSX z instrukcją „co wpisać samemu".
+6. **Poprawki i wezwania** z urzędu w ramach gwarancji; po decyzji ankieta i rejestr wyników per PUP.
 
 ## Struktura repozytorium
 
-Katalogi powstają równolegle (stan na 14.10.2026).
+| Ścieżka | Co zawiera |
+|---|---|
+| `PRZEGLAD-PROJEKTU.md` | ocena koncepcji, decyzje, podział pracy, odbiór etapów |
+| `docs/` | ściągawka prawna 2026 ze źródłami, kwestionariusz klienta, checklista weryfikacji, FAQ |
+| `baza-pup/` | **baza regulaminów 30 PUP** (CSV, 36 kolumn), 25 formularzy wniosków, analiza wspólnych sekcji 8 formularzy, kalendarz 150 naborów 2026 |
+| `szablony/` | prompt systemowy z zasadami anty-generyczności, 9 szablonów sekcji, mapowanie pól, obsługa wezwań |
+| `model-finansowy/` | arkusz XLSX (1 929 formuł): ZUS i podatki 2026, kosztorys z limitami, prognoza 12 mies., tabele do wniosku |
+| `generator/` | **silnik produktu** w Pythonie: schemat danych, arkusz, prompty, Claude API z atrapą offline, 7 kontroli jakości, DOCX, CLI `pup-gen`; 62 testy |
+| `przyklady/` | **3 wzorcowe wnioski** pod prawdziwe urzędy (Turek, Grodzisk Maz., Kolbuszowa) z arkuszami i DOCX; materiały klienta: list intencyjny, co po przyznaniu, odpowiedzi na wezwania, co wpisać samemu, 20 pytań komisji |
+| `alerty/` | **monitor naborów**: API Zielonej Linii + 341 stron PUP, klasyfikator, treść alertu, eksport do mailingu; 85 testów; workflow cron |
+| `strona/` | **statyczna strona WWW** (49 podstron): landing, quiz, cennik, 9 branż, 30 urzędów, regulamin, RODO; workflow GitHub Pages |
+| `operacje/` | konkurencja z cenami, cennik v2, proces realizacji i stos narzędzi |
+| `prawo/` | forma prawna i obowiązki (JDG, VAT, kasa), szkic regulaminu usługi, RODO i AI |
+| `marketing/` | plan startu do stycznia 2027, alerty, SEO i treści |
 
-| Ścieżka | Zawartość | Odpowiedzialny |
-|---|---|---|
-| `README.md` | ten plik | pracownik 1 |
-| `PRZEGLAD-PROJEKTU.md` | ocena koncepcji, decyzje, podział pracy | właściciel |
-| `docs/jak-dziala-dotacja-2026.md` | ściągawka prawna i praktyczna ze źródłami: uprawnieni, kwoty, de minimis, zabezpieczenia, nabory, wykluczenia, limity, karty oceny, komisja, rozliczenie | pracownik 1 |
-| `docs/kwestionariusz-klienta.md` | pełny kwestionariusz z oznaczeniem pól obowiązkowych, wskazówkami „po co pytamy” i mapą pól wniosku | pracownik 1 |
-| `docs/checklista-weryfikacji.md` | lista kontrolna przed wysyłką | pracownik 1 |
-| `docs/faq-dla-klienta.md` | 25 pytań i odpowiedzi dla klientów | pracownik 1 |
-| `szablony/` | prompt systemowy (zasady anty-generyczności), szablony sekcji wniosku, mapowanie pól | pracownik 2 |
-| `model-finansowy/` | arkusz XLSX z prognozą 12 mies., ZUS i podatki 2026, instrukcja | pracownik 2 |
-| `marketing/` | strategia, plan startu, SEO, alerty naborów | pracownik 3 |
-| `prawo/` | forma prawna, regulamin usługi, RODO i AI | pracownik 3 |
-| `operacje/` | cennik v2, konkurencja, proces realizacji, stos narzędzi | pracownik 3 |
+## Uruchomienie
 
-## Status prac (14.10.2026)
+```bash
+# generator (offline, atrapa modelu; prawdziwe API po ustawieniu ANTHROPIC_API_KEY)
+cd generator && pip install -e . && python -m pytest -q
+pup-gen generuj --kwestionariusz przyklady/fryzjerka-mobilna.json --mapa przyklady/mapa-dluga.json --dry-run --out /tmp/wynik
+
+# monitor naborów
+cd alerty && pip install -r requirements.txt && python -m pytest -q && python -m monitor.cli skanuj
+
+# strona
+cd strona && pip install -r requirements.txt && python3 build.py && python3 narzedzia/sprawdz.py
+```
+
+## Co podmienić przed startem sprzedaży
+
+1. `strona/dane/site.json`: domena, nazwa marki, link do formularza Tally, adres formularza alertów (Brevo), e-mail, dane firmy.
+2. Włączyć GitHub Pages (Settings → Pages → GitHub Actions); workflow `strona.yml` publikuje stronę.
+3. Dodać sekret `BREVO_API_KEY`, żeby workflow `alerty.yml` wysyłał alerty (bez niego tworzy Issue z treścią).
+4. Ustawić `ANTHROPIC_API_KEY` tam, gdzie uruchamiany jest generator.
+5. Konsultacja prawnika: `prawo/regulamin-uslugi-szkic.md`, polityka prywatności, interpretacja indywidualna ws. VAT.
+6. Zarejestrować JDG (PKD 70.20.Z), konto firmowe, Stripe z BLIK.
+
+## Status (14.10.2026)
 
 | Obszar | Status |
 |---|---|
-| Weryfikacja faktów 2026 ze źródłami | ✅ gotowe (`docs/`). Otwarte punkty oznaczone „[do weryfikacji]” |
-| Kwestionariusz, checklista, FAQ | ✅ wersja 1 do przeglądu |
-| Szablony AI, model finansowy | 🔄 w toku (pracownik 2) |
-| Marketing, prawo, operacje | 🔄 w toku (pracownik 3) |
-| Strona, formularz, płatności | ⏳ nie rozpoczęte |
-| Plany testowe (3 branże × 2 urzędy) | ⏳ nie rozpoczęte |
-
-## Następne kroki
-
-1. **Przegląd `docs/` przez właściciela.** Decyzja o korektach komunikacji: „nabory przez cały rok”, „55+ w EFS+”, brak „zakazu zawieszenia”, brak zakazu pojazdów w de minimis.
-2. **Zaktualizować limit ustawowy w listopadzie 2026** (komunikat GUS za III kw., obowiązuje od 1.12.2026) w `docs/`, FAQ i na stronie.
-3. **Zbudować formularz** z kwestionariusza: logika warunkowa (mobilnie, poręczyciele, sprzęt używany), upload plików, zapis wersji roboczej, bez pól PESEL i adresu.
-4. **Baza regulaminów PUP**: arkusz z kolumnami: kwota maks., limity %, wykluczenia, zabezpieczenie, karta oceny, rozmowa/wizja. Start od 20–30 powiatów z największym ruchem.
-5. **3 plany testowe** przez pełny proces z checklistą. Pomiar czasu realizacji, kalibracja cennika.
-6. **Wzór listu intencyjnego** i instrukcja dla klienta (punkty w kartach oceny).
-7. **Alerty naborów**: monitoring stron PUP i zielonalinia.gov.pl, mailing do bazy z quizu.
-8. **Ankieta po decyzji urzędu** i rejestr wyników per PUP jako argument sprzedażowy na 2027.
-9. Zamknąć punkty „[do weryfikacji]”: rola FERS w dotacjach PUP, PFRON jako druga ścieżka, dostępność gwarancji bankowych, aktualna PKD w formularzach.
+| Wiedza o dotacji 2026, kwestionariusz, checklista, FAQ | ✅ |
+| Szablony AI, model finansowy | ✅ |
+| Baza 30 urzędów, formularze, kalendarz naborów | ✅ (11 urzędów z danymi częściowymi, 4 bez regulaminu 2026) |
+| Generator wniosków | ✅ offline; do sprawdzenia jakość tekstów z prawdziwym modelem |
+| Monitor naborów | ✅ działa, skan z 14.10: 15 aktywnych naborów |
+| Strona WWW | ✅ zbudowana, placeholdery do podmiany |
+| Wzorcowe wnioski i materiały klienta | ✅ |
+| Rejestracja firmy, płatności, prawnik, domena | ⏳ po stronie właściciela |
+| Pierwsze zlecenia z prawdziwym modelem, pomiar czasu | ⏳ |
