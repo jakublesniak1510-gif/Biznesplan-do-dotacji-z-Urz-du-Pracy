@@ -1,0 +1,7 @@
+User-agent: *
+Crawl-delay: 30
+Disallow: /tmp/
+Disallow: /private/
+Disallow: /admin/
+Disallow: /wp-admin/
+Disallow: /wp-includes/

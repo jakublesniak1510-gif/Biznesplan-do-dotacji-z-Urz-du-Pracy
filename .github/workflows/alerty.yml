@@ -1,0 +1,141 @@
+# Monitor naborów PUP (alerty/): skan 2x dziennie o 7:10 i 15:10 czasu polskiego.
+#
+# GitHub liczy cron w UTC i nie zna czasu letniego, więc uruchamiamy o obu możliwych godzinach UTC
+# (zima: UTC+1, lato: UTC+2), a pierwszy krok przepuszcza tylko przebieg, który wypada o 7 albo 15 w Warszawie.
+# Sekrety (opcjonalne, ustawiane w Settings → Secrets and variables → Actions):
+#   BREVO_API_KEY, BREVO_NADAWCA_EMAIL, BREVO_LISTY  – kampania Brevo (domyślnie szkic, BREVO_WYSYLAJ=1 wysyła od razu)
+#   SMTP_HOST, SMTP_PORT, SMTP_USER, SMTP_PASSWORD, SMTP_FROM, ALERTY_EMAIL_WLASCICIELA – e-mail do właściciela
+#   ALERTY_KONTAKT – adres kontaktowy w User-Agent (zalecany)
+name: Alerty naborów PUP
+
+on:
+  schedule:
+    - cron: "10 5 * * *"   # 7:10 latem (CEST)
+    - cron: "10 6 * * *"   # 7:10 zimą (CET)
+    - cron: "10 13 * * *"  # 15:10 latem
+    - cron: "10 14 * * *"  # 15:10 zimą
+  workflow_dispatch:
+    inputs:
+      wojewodztwo:
+        description: "Tylko jedno województwo (puste = cała Polska)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: alerty-naborow
+  cancel-in-progress: false
+
+jobs:
+  skan:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      ALERTY_KONTAKT: ${{ secrets.ALERTY_KONTAKT }}
+      BREVO_API_KEY: ${{ secrets.BREVO_API_KEY }}
+      SMTP_HOST: ${{ secrets.SMTP_HOST }}
+    steps:
+      - name: Czy to właściwa godzina w Polsce?
+        id: godzina
+        run: |
+          H=$(TZ=Europe/Warsaw date +%H)
+          echo "Godzina w Warszawie: $H"
+          if [ "${{ github.event_name }}" != "schedule" ] || [ "$H" = "07" ] || [ "$H" = "15" ]; then
+            echo "uruchom=1" >> "$GITHUB_OUTPUT"
+          else
+            echo "uruchom=0" >> "$GITHUB_OUTPUT"
+            echo "Pomijam: to przebieg dla drugiej strefy (czas letni/zimowy)."
+          fi
+
+      - uses: actions/checkout@v4
+        if: steps.godzina.outputs.uruchom == '1'
+
+      - uses: actions/setup-python@v5
+        if: steps.godzina.outputs.uruchom == '1'
+        with:
+          python-version: "3.13"
+          cache: pip
+          cache-dependency-path: alerty/requirements.txt
+
+      - name: Instalacja zależności
+        if: steps.godzina.outputs.uruchom == '1'
+        run: pip install -r alerty/requirements.txt
+
+      - name: Cache HTTP (ETag, robots.txt)
+        if: steps.godzina.outputs.uruchom == '1'
+        uses: actions/cache@v4
+        with:
+          path: alerty/dane/cache
+          key: alerty-http-${{ github.run_id }}
+          restore-keys: alerty-http-
+
+      - name: Testy
+        if: steps.godzina.outputs.uruchom == '1'
+        working-directory: alerty
+        run: python -m pytest -q
+
+      - name: Skan
+        id: skan
+        if: steps.godzina.outputs.uruchom == '1'
+        working-directory: alerty
+        run: |
+          ARGS=""
+          if [ -n "${{ github.event.inputs.wojewodztwo }}" ]; then ARGS="--wojewodztwo ${{ github.event.inputs.wojewodztwo }}"; fi
+          python -m monitor skanuj $ARGS
+          python -m monitor raport > /dev/null
+          python -m monitor eksport --tylko-nowe --format wszystko
+          if [ -s dane/nowe-alert.md ]; then echo "nowe=1" >> "$GITHUB_OUTPUT"; else echo "nowe=0" >> "$GITHUB_OUTPUT"; fi
+
+      - name: Zapis stanu do repozytorium
+        if: steps.godzina.outputs.uruchom == '1'
+        run: |
+          git config user.name "alerty-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add alerty/dane/stan.json alerty/dane/nabory-2026.json alerty/dane/raport-skanu.md alerty/dane/nowe.json alerty/dane/nowe-alert.md
+          if git diff --cached --quiet; then
+            echo "Brak zmian w stanie."
+          else
+            git commit -m "alerty: stan po skanie $(TZ=Europe/Warsaw date '+%Y-%m-%d %H:%M')"
+            for i in 1 2 3; do git pull --rebase --autostash && git push && break; sleep 5; done
+          fi
+
+      - name: Issue z nowymi naborami
+        if: steps.godzina.outputs.uruchom == '1' && steps.skan.outputs.nowe == '1'
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          gh label create alert-naborow --color 0b7a4b --description "Nowe nabory PUP do weryfikacji" 2>/dev/null || true
+          gh issue create \
+            --title "Nowe nabory PUP – $(TZ=Europe/Warsaw date '+%d.%m.%Y %H:%M')" \
+            --body-file alerty/dane/nowe-alert.md \
+            --label alert-naborow
+
+      - name: Wysyłka (Brevo / SMTP) – tylko gdy ustawiono sekrety
+        if: steps.godzina.outputs.uruchom == '1' && steps.skan.outputs.nowe == '1' && (env.BREVO_API_KEY != '' || env.SMTP_HOST != '')
+        working-directory: alerty
+        env:
+          BREVO_NADAWCA_EMAIL: ${{ secrets.BREVO_NADAWCA_EMAIL }}
+          BREVO_NADAWCA_NAZWA: ${{ secrets.BREVO_NADAWCA_NAZWA }}
+          BREVO_LISTY: ${{ secrets.BREVO_LISTY }}
+          BREVO_WYSYLAJ: ${{ secrets.BREVO_WYSYLAJ }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          ALERTY_EMAIL_WLASCICIELA: ${{ secrets.ALERTY_EMAIL_WLASCICIELA }}
+        run: python -m monitor wyslij --tylko-nowe
+
+      - name: Artefakt (raport, eksport)
+        if: steps.godzina.outputs.uruchom == '1'
+        uses: actions/upload-artifact@v4
+        with:
+          name: alerty-${{ github.run_id }}
+          path: |
+            alerty/dane/raport-skanu.md
+            alerty/dane/nabory-2026.json
+            alerty/dane/eksport/
+          retention-days: 14
+          if-no-files-found: ignore

@@ -1,0 +1,26 @@
+User-Agent: *
+Allow: /
+Disallow: /*/be/be/*
+Disallow: /*/en/en/*
+Disallow: /*/ru/ru/*
+Disallow: /*/uk/uk/*
+
+Disallow: /*/be/en/*
+Disallow: /*/be/ru/*
+Disallow: /*/be/uk/*
+
+Disallow: /*/en/be/*
+Disallow: /*/en/ru/*
+Disallow: /*/en/uk/*
+
+Disallow: /*/ru/be/*
+Disallow: /*/ru/en/*
+Disallow: /*/ru/uk/*
+
+Disallow: /*/uk/be/*
+Disallow: /*/uk/en/*
+Disallow: /*/uk/ru/*
+
+Disallow: /*?*backUrl=*
+
+Sitemap: https://tuchola.praca.gov.pl/sitemap.xml
