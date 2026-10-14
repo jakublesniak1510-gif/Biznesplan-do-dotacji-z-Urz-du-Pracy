@@ -92,3 +92,34 @@ Dwie kwoty przeciętnego wynagrodzenia za II kw. 2026 w repo (9 233,13 zł i 9 3
 3. Strona + quiz kwalifikacyjny + zapis na alerty + formularz Tally z płatnością Stripe.
 4. Skrypt monitorujący nabory (API Zielonej Linii + strony PUP) i pierwszy mailing w grudniu.
 5. Wzór listu intencyjnego i instrukcja dla klienta.
+
+## 5. Etap 2 – z dokumentacji w produkt lepszy od konkurencji (start 14.10.2026)
+
+Właściciel przekazał pełne pełnomocnictwo: decyzje podejmuję sam, bez pytań.
+
+### Decyzje podjęte
+
+| Decyzja | Uzasadnienie |
+|---|---|
+| Cennik v2 obowiązuje: 299 / 449 / 649 zł, gwarancja poprawek po wezwaniu w każdym pakiecie, dopłaty wg `operacje/cennik-v2.md` | Konkurencja „pod klucz" bierze 1 350–1 450 zł; zostajemy 2–5× tańsi i jedyni z gwarancją w cenie bazowej |
+| Ceny traktujemy jako brutto z VAT 23 % do czasu interpretacji indywidualnej | Ryzyko wyłączenia „doradztwa" ze zwolnienia; lepiej nie podnosić cen po starcie |
+| Przewaga nr 1 to **baza regulaminów 30 PUP** i podstrony per urząd | Żaden konkurent nie pokazuje publicznie limitów, wykluczeń i kart oceny konkretnych urzędów. To jednocześnie najlepszy SEO i dowód kompetencji |
+| Przewaga nr 2 to **monitor naborów** z alertami e-mail działający automatycznie (GitHub Actions, koszt 0 zł) | Nabory trwają 1–5 dni; kto pierwszy powiadomi, ten sprzedaje |
+| Przewaga nr 3 to **automatyczna kontrola jakości** w generatorze: zakazane zwroty, spójność liczb z arkuszem, limity regulaminu, test podobieństwa planów do tego samego PUP | Komisje odrzucają szablonowe wnioski; konkurencja nie ma takiej kontroli |
+| Generator działa offline z atrapą modelu, prawdziwe API włącza klucz | W tym środowisku nie ma klucza; produkt musi być testowalny bez kosztów |
+| Strona statyczna, bez frameworka, publikowana z GitHub Pages | Zero kosztów utrzymania, szybkość, SEO; właściciel podmienia tylko domenę i linki do Tally/Brevo |
+| Trzy wzorcowe wnioski pisane ręcznie przez pracownika, pod prawdziwe karty oceny | Służą jako few-shot dla modelu i jako materiał pokazowy; jakość wzorca wyznacza jakość produktu |
+
+### Pakiety pracy etapu 2 (równolegle, Opus 5.5)
+
+| # | Pakiet | Katalog | Kryterium odbioru |
+|---|---|---|---|
+| A | Baza regulaminów 30 PUP + formularze + wspólne sekcje + kalendarz naborów 2026 | `baza-pup/` | CSV zgodny ze schematem, każda wartość ze źródłem, ≥ 40 naborów w kalendarzu |
+| B | Generator wniosków (Python): schemat, arkusz, prompty, Claude API z atrapą, kontrola jakości, DOCX, CLI | `generator/` | `pytest` zielony, 3 przykłady przechodzą `--dry-run` do DOCX |
+| C | Strona WWW: landing, quiz kwalifikacyjny, cennik, 9 branż, podstrony urzędów z CSV, regulamin, RODO, workflow Pages | `strona/`, `.github/workflows/strona.yml` | build bez błędów, linki wewnętrzne sprawdzone, zrzuty 390/1280 px |
+| D | Monitor naborów: Zielona Linia + strony PUP, klasyfikator, alerty, eksport do mailingu, workflow cron | `alerty/`, `.github/workflows/alerty.yml` | `pytest` zielony, prawdziwy skan z dzisiejszymi naborami |
+| E | Trzy wzorcowe wnioski pod prawdziwe urzędy + materiały klienta (list intencyjny, co po przyznaniu, odpowiedzi na wezwania, pytania komisji) | `przyklady/` | liczby zgodne z arkuszem, zero zakazanych zwrotów, trzy różne tony |
+
+### Odbiór etapu 2
+
+_Uzupełnię po sprawdzeniu._
