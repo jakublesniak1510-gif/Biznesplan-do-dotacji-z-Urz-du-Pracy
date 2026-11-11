@@ -1,16 +1,16 @@
-# Raport skanu naborów PUP – 10.11.2026
+# Raport skanu naborów PUP – 11.11.2026
 
-Ostatni skan: 2026-11-10T14:46:54+00:00. Plik danych: `dane/nabory-2026.json`.
+Ostatni skan: 2026-11-11T14:08:15+00:00. Plik danych: `dane/nabory-2026.json`.
 
 ## Podsumowanie
 
-- **Aktywne nabory dziś (trwają, zapowiedziane albo do weryfikacji): 41**
+- **Aktywne nabory dziś (trwają, zapowiedziane albo do weryfikacji): 34**
 - Wszystkie wykryte wpisy o naborach na działalność w 2026 r. (w stanie monitora): 534
-- Statusy: zakończony: 243, prawdopodobnie nieaktualny: 159, zakończenie/wyniki: 91, trwa: 21, zapowiedziany: 8, do weryfikacji (brak dat): 8, trwa (do wyczerpania środków): 4
+- Statusy: zakończony: 250, prawdopodobnie nieaktualny: 159, zakończenie/wyniki: 91, trwa: 15, zapowiedziany: 8, do weryfikacji (brak dat): 7, trwa (do wyczerpania środków): 4
 - Zielona Linia: 0 wpisów z kategorii „Informacje z regionów” od 2026-11-03
-- Strony PUP: sprawdzono 341, poprawnie 341, wpisów na listach 4514; dociągnięte ogłoszenia: 37/40
-- Nowe wpisy w tym skanie: 192, w tym do alertu: 12
-- Zapytania HTTP: 725, błędy: 1, zablokowane przez robots.txt: 0
+- Strony PUP: sprawdzono 341, poprawnie 341, wpisów na listach 4514; dociągnięte ogłoszenia: 34/40
+- Nowe wpisy w tym skanie: 2, w tym do alertu: 0
+- Zapytania HTTP: 383, błędy: 1, zablokowane przez robots.txt: 0
 
 ## Aktywne nabory dziś
 
@@ -18,64 +18,54 @@ Ostatni skan: 2026-11-10T14:46:54+00:00. Plik danych: `dane/nabory-2026.json`.
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Dzierżoniowie | [Dotacje na usługi rozwojowe dla dolnośląskich firm](https://dzierzoniow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/dotacje-na-uslugi-rozwojowe-dla-dolnoslaskich-firm-1?p_r_p_assetEntryId=70184020) | do 07.04.2027 | zostało 148 dni | – | EFS+ | trwa | 2026-10-19 (pup) |
-| Powiatowy Urząd Pracy w Miliczu | [Informacja o projekcie „Dotacje na usługi rozwojowe dla dolnośląskich firm”](https://milicz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-o-projekcie-dotacje-na-uslugi-rozwojowe-dla-dolnoslaskich-firm?p_r_p_assetEntryId=69898561) | do 07.04.2027 | zostało 148 dni | – | EFS+ | trwa | 2026-10-09 (pup) |
+| Powiatowy Urząd Pracy w Dzierżoniowie | [Dotacje na usługi rozwojowe dla dolnośląskich firm](https://dzierzoniow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/dotacje-na-uslugi-rozwojowe-dla-dolnoslaskich-firm-1?p_r_p_assetEntryId=70184020) | do 07.04.2027 | zostało 147 dni | – | EFS+ | trwa | 2026-10-19 (pup) |
+| Powiatowy Urząd Pracy w Miliczu | [Informacja o projekcie „Dotacje na usługi rozwojowe dla dolnośląskich firm”](https://milicz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-o-projekcie-dotacje-na-uslugi-rozwojowe-dla-dolnoslaskich-firm?p_r_p_assetEntryId=69898561) | do 07.04.2027 | zostało 147 dni | – | EFS+ | trwa | 2026-10-09 (pup) |
 
 ### kujawsko-pomorskie (4)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Bydgoszczy | [Środki na własną działalność gospodarczą](https://bydgoszcz.praca.gov.pl/-/srodki-na-wlasna-dzialalnosc-gospodarcza-45) | do 13.11.2026 | zostały 3 dni | do 30 000 zł | EFS+, FP | trwa | 2026-11-04 (pup) |
-| Powiatowy Urząd Pracy w Radziejowie | [Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pra](https://radziejow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-ze-srodkow-funduszu-pracy.?p_r_p_assetEntryId=70671683) | 09.11.2026 – 13.11.2026 | zostały 3 dni | do 22 000 zł | FP | trwa | 2026-11-04 (pup) |
-| Powiatowy Urząd Pracy w Golubiu-Dobrzyniu | [16-22 listopada 2026 roku zapraszamy na Światowy Tydzień Przedsiębiorczości](https://golub-dobrzyn.praca.gov.pl/-/16-22-listopada-2026-roku-zapraszamy-na-swiatowy-tydzien-przedsiebiorczosci) | 16.11.2026 – 22.11.2026 | start za 6 dni | – | – | zapowiedziany | 2026-11-10 (pup) |
+| Powiatowy Urząd Pracy w Bydgoszczy | [Środki na własną działalność gospodarczą](https://bydgoszcz.praca.gov.pl/-/srodki-na-wlasna-dzialalnosc-gospodarcza-45) | do 13.11.2026 | zostały 2 dni | do 30 000 zł | EFS+, FP | trwa | 2026-11-04 (pup) |
+| Powiatowy Urząd Pracy w Radziejowie | [Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pra](https://radziejow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-ze-srodkow-funduszu-pracy.?p_r_p_assetEntryId=70671683) | 09.11.2026 – 13.11.2026 | zostały 2 dni | do 22 000 zł | FP | trwa | 2026-11-04 (pup) |
+| Powiatowy Urząd Pracy w Golubiu-Dobrzyniu | [16-22 listopada 2026 roku zapraszamy na Światowy Tydzień Przedsiębiorczości](https://golub-dobrzyn.praca.gov.pl/-/16-22-listopada-2026-roku-zapraszamy-na-swiatowy-tydzien-przedsiebiorczosci) | 16.11.2026 – 22.11.2026 | start za 5 dni | – | – | zapowiedziany | 2026-11-10 (pup) |
 | Powiatowy Urząd Pracy w Radziejowie | [Planujesz założyć firmę? Zrób to online!](https://radziejow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/planujesz-zalozyc-firme-zrob-to-online-?p_r_p_assetEntryId=70627763) | od 01.11.2026 | termin do sprawdzenia w ogłoszeniu | – | – | do weryfikacji (brak dat) | 2026-11-03 (pup) |
 
 ### lubelskie (3)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Miejski Urząd Pracy w Lublinie | [KOMUNIKAT - dotacje](https://muplublin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/komunikat-dotacje-4?p_r_p_assetEntryId=70834683) | 12.11.2026 – 13.11.2026 | start za 2 dni | – | – | zapowiedziany | 2026-11-10 (pup) |
-| Powiatowy Urząd Pracy w Radzyniu Podlaskim | [Nabór wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej (Fundusz Pra](https://radzynpodlaski.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-fundusz-pracy-oraz-rezerwa-funduszu-pracy-bedaca-w-dyspozycji-ministra-rodziny-pracy-i-polityki-spolecznej-1?p_r_p_assetEntryId=70589415) | 16.11.2026 – 17.11.2026 | start za 6 dni | pula naboru: 50 000 zł (limit na osobę w ogłoszeniu) | FP | zapowiedziany | 2026-11-02 (pup) |
+| Miejski Urząd Pracy w Lublinie | [KOMUNIKAT - dotacje](https://muplublin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/komunikat-dotacje-4?p_r_p_assetEntryId=70834683) | 12.11.2026 – 13.11.2026 | start jutro | – | – | zapowiedziany | 2026-11-10 (pup) |
+| Powiatowy Urząd Pracy w Radzyniu Podlaskim | [Nabór wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej (Fundusz Pra](https://radzynpodlaski.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-fundusz-pracy-oraz-rezerwa-funduszu-pracy-bedaca-w-dyspozycji-ministra-rodziny-pracy-i-polityki-spolecznej-1?p_r_p_assetEntryId=70589415) | 16.11.2026 – 17.11.2026 | start za 5 dni | pula naboru: 50 000 zł (limit na osobę w ogłoszeniu) | FP | zapowiedziany | 2026-11-02 (pup) |
 | Powiatowy Urząd Pracy w Krasnymstawie | [Nabór wniosków na dotację na podjęcie własnej działalności gospodarczej dla osób bezrobotn](https://krasnystaw.praca.gov.pl/strona-glowna/-/asset_publisher/Qat7ebECUfDp/content/nabor-wnioskow-na-dotacje-na-podjecie-wlasnej-dzialalnosci-gospodarczej-dla-osob-bezrobotnych-efs-1?p_r_p_assetEntryId=69783131) | od 07.10.2026 do wyczerpania środków | do wyczerpania środków: liczy się kolejność | do 35 000 zł | EFS+, FP | trwa (do wyczerpania środków) | 2026-10-14 (pup) |
 
-### lubuskie (2)
+### lubuskie (1)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Strzelcach Krajeńskich | [Nabór wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej.](https://strzelcekrajenskie.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej.?p_r_p_assetEntryId=70527163) | 03.11.2026 – 10.11.2026 | dziś ostatni dzień | do 150 000 zł | EFS+ | trwa | 2026-10-30 (pup) |
-| Powiatowy Urząd Pracy w Żaganiu | [Nabór wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej w ramach śro](https://zagan.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-w-ramach-srodkow-efs-?p_r_p_assetEntryId=70840168) | 18.11.2026 – 20.11.2026 | start za 8 dni | do 32 000 zł | EFS+, FP | zapowiedziany | 2026-11-10 (pup) |
+| Powiatowy Urząd Pracy w Żaganiu | [Nabór wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej w ramach śro](https://zagan.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-w-ramach-srodkow-efs-?p_r_p_assetEntryId=70840168) | 18.11.2026 – 20.11.2026 | start za 7 dni | do 32 000 zł | EFS+, FP | zapowiedziany | 2026-11-10 (pup) |
 
-### mazowieckie (5)
+### mazowieckie (3)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Łosicach | [Nabór Wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej w ra](https://losice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-ramach-realizacji-projektu-pt.-aktywizacja-zawodowa-osob-bezrobotnych-w-powiecie-losickim-iii-2?p_r_p_assetEntryId=70665327) | tylko 10.11.2026 | dziś ostatni dzień | do 48 000 zł | EFS+, FP | trwa | 2026-11-04 (pup) |
-| Powiatowy Urząd Pracy w Grójcu | [Konkurs nr 17/ALG/2026 - nabór wniosków o udzielenie dofinasowania na podjęcie działalnośc](https://grojec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/konkurs-nr-17-alg-2026-nabor-wnioskow-o-udzielenie-dofinasowania-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70707144) | tylko 12.11.2026 | start za 2 dni | – | EFS+, FP | zapowiedziany | 2026-11-05 (pup) |
-| Powiatowy Urząd Pracy w Wołominie | [Informacja w sprawie przyznania jednorazowo dofinansowania na podjęcie działalności gospod](https://wolomin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-w-sprawie-przyznania-jednorazowo-dofinansowania-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70668575) | 12.11.2026 – 18.11.2026 | start za 2 dni | – | EFS+ | zapowiedziany | 2026-11-04 (pup) |
-| Urząd Pracy m. st. Warszawy | [Informacja o przedłużeniu terminu rozpatrywania wniosków](https://warszawa.praca.gov.pl/-/informacja-o-przedluzeniu-terminu-rozpatrywania-wnioskow) | do 20.11.2026 | zostało 10 dni | – | – | trwa | 2026-10-26 (pup) |
-| Powiatowy Urząd Pracy w Łosicach | [Nabór Wniosków o przyznanie jednorazowo środków rezerwy Funduszu Pracy na podjęcie działal](https://losice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowo-srodkow-rezerwy-funduszu-pracy-na-podjecie-dzialalnosci-gospodarczej-w-ramach-programu-pn.-program-aktywizacji-zawodowej-bezrobotnych-zamieszkujacych-na-wsi-w-tym-rolnikow-1?p_r_p_assetEntryId=70665311) | sprawdź w ogłoszeniu | termin do sprawdzenia w ogłoszeniu | – | FP | do weryfikacji (brak dat) | 2026-11-04 (pup) |
+| Powiatowy Urząd Pracy w Grójcu | [Konkurs nr 17/ALG/2026 - nabór wniosków o udzielenie dofinasowania na podjęcie działalnośc](https://grojec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/konkurs-nr-17-alg-2026-nabor-wnioskow-o-udzielenie-dofinasowania-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70707144) | tylko 12.11.2026 | start jutro | – | EFS+, FP | zapowiedziany | 2026-11-05 (pup) |
+| Powiatowy Urząd Pracy w Wołominie | [Informacja w sprawie przyznania jednorazowo dofinansowania na podjęcie działalności gospod](https://wolomin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-w-sprawie-przyznania-jednorazowo-dofinansowania-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70668575) | 12.11.2026 – 18.11.2026 | start jutro | – | EFS+ | zapowiedziany | 2026-11-04 (pup) |
+| Urząd Pracy m. st. Warszawy | [Informacja o przedłużeniu terminu rozpatrywania wniosków](https://warszawa.praca.gov.pl/-/informacja-o-przedluzeniu-terminu-rozpatrywania-wnioskow) | do 20.11.2026 | zostało 9 dni | – | – | trwa | 2026-10-26 (pup) |
 
 ### małopolskie (3)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Oświęcimiu | [Ostatni w 2026r. nabór wniosków na działalność gospodarczą!](https://oswiecim.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ostatni-w-2026r.-nabor-wnioskow-na-dzialalnosc-gospodarcza-?p_r_p_assetEntryId=70648590) | 09.11.2026 – 13.11.2026 | zostały 3 dni | do 30 000 zł | – | trwa | 2026-11-04 (pup) |
-| Powiatowy Urząd Pracy w Proszowicach | [Nabór wniosków o przyznanie środków na rozpoczęcie działalności gospodarczej](https://proszowice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-na-rozpoczecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70790069) | 09.11.2026 – 13.11.2026 | zostały 3 dni | – | EFS+ | trwa | 2026-11-09 (pup) |
-| Powiatowy Urząd Pracy w Tarnowie | [Przedłużenie naboru wniosków o dofinansowanie podjęcia działalności gospodarczej](https://tarnow.praca.gov.pl/-/przedluzenie-naboru-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej) | do 13.11.2026 | zostały 3 dni | – | – | trwa | 2026-11-06 (pup) |
+| Powiatowy Urząd Pracy w Oświęcimiu | [Ostatni w 2026r. nabór wniosków na działalność gospodarczą!](https://oswiecim.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ostatni-w-2026r.-nabor-wnioskow-na-dzialalnosc-gospodarcza-?p_r_p_assetEntryId=70648590) | 09.11.2026 – 13.11.2026 | zostały 2 dni | do 30 000 zł | – | trwa | 2026-11-04 (pup) |
+| Powiatowy Urząd Pracy w Proszowicach | [Nabór wniosków o przyznanie środków na rozpoczęcie działalności gospodarczej](https://proszowice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-na-rozpoczecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70790069) | 09.11.2026 – 13.11.2026 | zostały 2 dni | – | EFS+ | trwa | 2026-11-09 (pup) |
+| Powiatowy Urząd Pracy w Tarnowie | [Przedłużenie naboru wniosków o dofinansowanie podjęcia działalności gospodarczej](https://tarnow.praca.gov.pl/-/przedluzenie-naboru-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej) | do 13.11.2026 | zostały 2 dni | – | – | trwa | 2026-11-06 (pup) |
 
-### opolskie (1)
-
-| Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
-|---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Oleśnie | [Nabór wniosków](https://olesno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow?p_r_p_assetEntryId=70708381) | 06.11.2026 – 10.11.2026 | dziś ostatni dzień | – | – | trwa | 2026-11-05 (pup) |
-
-### podkarpackie (5)
+### podkarpackie (4)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Dębicy | [Nabór wniosków na dotacje ze środków Rezerwy Funduszu Pracy - Program aktywizacji zawodowe](https://debica.praca.gov.pl/-/nabor-wnioskow-na-dotacje-ze-srodkow-rezerwy-funduszu-pracy-program-aktywizacji-zawodowej-osob-do-30-roku-zycia) | 09.11.2026 – 10.11.2026 | dziś ostatni dzień | – | FP | trwa | 2026-10-29 (pup) |
-| Powiatowy Urząd Pracy w Kolbuszowej | [Dofinansowanie podjęcia działalności gospodarczej – Nabór wniosków EFS+](https://kolbuszowa.praca.gov.pl/-/dofinansowanie-podjecia-dzialalnosci-gospodarczej-nabor-wnioskow-efs-) | 04.11.2026 – 19.11.2026 | zostało 9 dni | do 40 000 zł | EFS+ | trwa | 2026-11-03 (pup) |
-| Powiatowy Urząd Pracy w Strzyżowie | [Nabór wniosków na dofinansowanie podjęcia działalności gospodarczej](https://strzyzow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-na-dofinansowanie-podjecia-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70803329) | tylko 20.11.2026 | start za 10 dni | do 30 000 zł | FP, EFS+ | zapowiedziany | 2026-11-09 (pup) |
+| Powiatowy Urząd Pracy w Kolbuszowej | [Dofinansowanie podjęcia działalności gospodarczej – Nabór wniosków EFS+](https://kolbuszowa.praca.gov.pl/-/dofinansowanie-podjecia-dzialalnosci-gospodarczej-nabor-wnioskow-efs-) | 04.11.2026 – 19.11.2026 | zostało 8 dni | do 40 000 zł | EFS+ | trwa | 2026-11-03 (pup) |
+| Powiatowy Urząd Pracy w Strzyżowie | [Nabór wniosków na dofinansowanie podjęcia działalności gospodarczej](https://strzyzow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-na-dofinansowanie-podjecia-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70803329) | tylko 20.11.2026 | start za 9 dni | do 30 000 zł | EFS+, FP | zapowiedziany | 2026-11-09 (pup) |
 | Powiatowy Urząd Pracy w Krośnie | [Dodatkowe środki finansowe na podjęcie działalności gospodarczej](https://krosno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/dodatkowe-srodki-finansowe-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70620427) | sprawdź w ogłoszeniu | termin do sprawdzenia w ogłoszeniu | do 120 000 zł | – | do weryfikacji (brak dat) | 2026-11-03 (pup) |
 | Powiatowy Urząd Pracy w Sanoku | [Informacja o wznowieniu przyjmowania wniosków o dofinansowanie podjęcia działalności gospo](https://sanok.praca.gov.pl/-/informacja-o-wznowieniu-przyjmowania-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej.-1) | od 04.11.2026 | termin do sprawdzenia w ogłoszeniu | – | FP | do weryfikacji (brak dat) | 2026-11-03 (pup) |
 
@@ -83,36 +73,34 @@ Ostatni skan: 2026-11-10T14:46:54+00:00. Plik danych: `dane/nabory-2026.json`.
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Nidzicy | [Dofinansowanie podjęcia działalności gospodarczej](https://nidzica.praca.gov.pl/-/dofinansowanie-podjecia-dzialalnosci-gospodarczej-1) | 04.11.2026 – 12.11.2026 | zostały 2 dni | do 6-krotności przeciętnego wynagrodzenia | EFS+, FP | trwa | 2026-11-04 (pup, zielonalinia) |
-| Powiatowy Urząd Pracy w Szczytnie | [NABÓR WNIOSKÓW O PRZYZNANIE ŚRODKÓW NA PODJĘCIE DZIAŁALNOŚCI GOSPODARCZEJ W POWIATOWYM URZ](https://szczytno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-powiatowym-urzedzie-pracy-w-szczytnie?p_r_p_assetEntryId=70532917) | 30.10.2026 – 12.11.2026 | zostały 2 dni | – | – | trwa | 2026-10-30 (pup) |
+| Powiatowy Urząd Pracy w Nidzicy | [Dofinansowanie podjęcia działalności gospodarczej](https://nidzica.praca.gov.pl/-/dofinansowanie-podjecia-dzialalnosci-gospodarczej-1) | 04.11.2026 – 12.11.2026 | został 1 dzień (jutro ostatni dzień) | do 6-krotności przeciętnego wynagrodzenia | EFS+, FP | trwa | 2026-11-04 (pup, zielonalinia) |
+| Powiatowy Urząd Pracy w Szczytnie | [NABÓR WNIOSKÓW O PRZYZNANIE ŚRODKÓW NA PODJĘCIE DZIAŁALNOŚCI GOSPODARCZEJ W POWIATOWYM URZ](https://szczytno.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-powiatowym-urzedzie-pracy-w-szczytnie?p_r_p_assetEntryId=70532917) | 30.10.2026 – 12.11.2026 | został 1 dzień (jutro ostatni dzień) | – | – | trwa | 2026-10-30 (pup) |
 | Powiatowy Urząd Pracy w Olecku | [Informacja o możliwości otrzymania dotacji na usługi sprzątające](https://olecko.praca.gov.pl/-/informacja-o-mozliwosci-otrzymania-dotacji-na-uslugi-sprzatajace) | sprawdź w ogłoszeniu | termin do sprawdzenia w ogłoszeniu | – | EFS+ | do weryfikacji (brak dat) | 2026-11-09 (pup) |
 
-### wielkopolskie (2)
+### wielkopolskie (1)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Kościanie | [Nabór wniosków o przyznanie środków na podjęcie działalności gospodarczej](https://koscian.praca.gov.pl/-/ogloszenie-w-sprawie-naboru-wnioskow-dla-bezrobotnych-ubiegajacych-sie-o-przyznanie-srodkow-na-podjecie-dzialalnosci-gospodarczej-3) | tylko 10.11.2026 | dziś ostatni dzień | – | – | trwa | 2026-11-04 (zielonalinia) |
-| Powiatowy Urząd Pracy w Wągrowcu | [Harmonogram naboru wniosków na formy pomocy - listopad 2026 roku](https://wagrowiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/harmonogram-naboru-wnioskow-na-formy-pomocy-pazdziernik-2026-roku?p_r_p_assetEntryId=70620656) | 16.11.2026 – 17.11.2026 | start za 6 dni | – | FP | zapowiedziany | 2026-11-03 (pup) |
+| Powiatowy Urząd Pracy w Wągrowcu | [Harmonogram naboru wniosków na formy pomocy - listopad 2026 roku](https://wagrowiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/harmonogram-naboru-wnioskow-na-formy-pomocy-pazdziernik-2026-roku?p_r_p_assetEntryId=70620656) | 16.11.2026 – 17.11.2026 | start za 5 dni | – | FP | zapowiedziany | 2026-11-03 (pup) |
 
 ### zachodniopomorskie (2)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Gryfinie | [II konkurs wniosków: Środki na podjęcie działalności gospodarczej dla osób bezrobotnych - ](https://gryfino.praca.gov.pl/-/i-konkurs-wnioskow-srodki-na-podjecie-dzialalnosci-gospodarczej-dla-osob-bezrobotnych-w-wieku-30-lat-i-wiecej-fp-2026-skopiuj-) | 10.11.2026 – 18.11.2026 | zostało 8 dni | – | FP | trwa | 2026-11-10 (pup) |
-| Powiatowy Urząd Pracy w Sławnie | [Nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej](https://slawno.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-1) | 09.11.2026 – 19.11.2026 | zostało 9 dni | – | – | trwa | 2026-11-09 (pup) |
+| Powiatowy Urząd Pracy w Gryfinie | [II konkurs wniosków: Środki na podjęcie działalności gospodarczej dla osób bezrobotnych - ](https://gryfino.praca.gov.pl/-/i-konkurs-wnioskow-srodki-na-podjecie-dzialalnosci-gospodarczej-dla-osob-bezrobotnych-w-wieku-30-lat-i-wiecej-fp-2026-skopiuj-) | 10.11.2026 – 18.11.2026 | zostało 7 dni | – | FP | trwa | 2026-11-10 (pup) |
+| Powiatowy Urząd Pracy w Sławnie | [Nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej](https://slawno.praca.gov.pl/-/nabor-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-1) | 09.11.2026 – 19.11.2026 | zostało 8 dni | – | – | trwa | 2026-11-09 (pup) |
 
 ### łódzkie (2)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Sieradzu | [Informacja o naborze wniosków o przyznanie jednorazowych środków na podjęcie działalności ](https://sieradz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-o-naborze-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-5?p_r_p_assetEntryId=70740953) | 09.11.2026 – 12.11.2026 | zostały 2 dni | do 30 000 zł | FP, EFS+ | trwa | 2026-11-09 (pup) |
-| Powiatowy Urząd Pracy w Łasku | [Nabory wniosków na Dotacje dla bezrobotnych zamieszkujących na wsi - Rezerwa Funduszu Prac](https://lask.praca.gov.pl/-/nabory-wnioskow-na-dotacje-dla-bezrobotnych-zamieszkujacych-na-wsi-rezerwa-funduszu-pracy-skopiuj-1-) | 10.11.2026 – 13.11.2026 | zostały 3 dni | – | FP | trwa | 2026-11-06 (pup) |
+| Powiatowy Urząd Pracy w Sieradzu | [Informacja o naborze wniosków o przyznanie jednorazowych środków na podjęcie działalności ](https://sieradz.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-o-naborze-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-5?p_r_p_assetEntryId=70740953) | 09.11.2026 – 12.11.2026 | został 1 dzień (jutro ostatni dzień) | do 30 000 zł | EFS+, FP | trwa | 2026-11-09 (pup) |
+| Powiatowy Urząd Pracy w Łasku | [Nabory wniosków na Dotacje dla bezrobotnych zamieszkujących na wsi - Rezerwa Funduszu Prac](https://lask.praca.gov.pl/-/nabory-wnioskow-na-dotacje-dla-bezrobotnych-zamieszkujacych-na-wsi-rezerwa-funduszu-pracy-skopiuj-1-) | 10.11.2026 – 13.11.2026 | zostały 2 dni | – | FP | trwa | 2026-11-06 (pup) |
 
-### śląskie (6)
+### śląskie (5)
 
 | Urząd | Ogłoszenie | Termin | Ile zostało | Kwota | Źródło | Status | Opublikowano |
 |---|---|---|---|---|---|---|---|
-| Powiatowy Urząd Pracy w Zawierciu | [Kolejna szansa na dotacje z EFS+](https://zawiercie.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/kolejna-szansa-na-dotacje-z-efs-?p_r_p_assetEntryId=70627705) | 09.11.2026 – 10.11.2026 | dziś ostatni dzień | do 30 000 zł | EFS+ | trwa | 2026-11-03 (pup, zielonalinia) |
 | Powiatowy Urząd Pracy w Częstochowie | [Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej, rolniczej albo na wnie](https://czestochowa.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-rolniczej-albo-na-wniesienie-wkladu-do-spoldzielni-socjalnej-ze-srodkow-pfron-dla-osob-niepelnosprawnych-zamieszkalych-na-terenie-powiatu-czestochowskiego.) | do wyczerpania środków | do wyczerpania środków: liczy się kolejność | – | PFRON | trwa (do wyczerpania środków) | 2026-10-21 (pup) |
 | Powiatowy Urząd Pracy w Katowicach | [Fundusze Europejskie dla osób fizycznych – rozwój kompetencji i wsparcie na start własnego](https://katowice.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/fundusze-europejskie-dla-osob-fizycznych-rozwoj-kompetencji-i-wsparcie-na-start-wlasnego-biznesu?p_r_p_assetEntryId=70736998) | sprawdź w ogłoszeniu | termin do sprawdzenia w ogłoszeniu | – | EFS+ | do weryfikacji (brak dat) | 2026-11-06 (pup) |
 | Powiatowy Urząd Pracy w Myszkowie | [Młode Talenty - pożyczka z dotacją na własny biznes](https://myszkow.praca.gov.pl/-/mlode-talenty-pozyczka-z-dotacja-na-wlasny-biznes) | ciągły | termin do sprawdzenia w ogłoszeniu | do 85 500 zł | – | trwa (do wyczerpania środków) | 2026-10-16 (pup) |
@@ -142,9 +130,9 @@ Ostatni skan: 2026-11-10T14:46:54+00:00. Plik danych: `dane/nabory-2026.json`.
 
 | Kategoria | Liczba |
 |---|---|
-| inne | 2647 |
-| inne_formy_wsparcia | 1494 |
-| dotacja_dzialalnosc | 236 |
+| inne | 2651 |
+| inne_formy_wsparcia | 1492 |
+| dotacja_dzialalnosc | 234 |
 | zakonczenie_naboru | 74 |
 | spotkanie_informacyjne | 34 |
 | dotacja_dzialalnosc_pfron | 28 |
