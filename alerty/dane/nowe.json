@@ -1,1 +1,366 @@
-[]
+[
+ {
+  "zrodlo": "zielonalinia",
+  "tytul": "PUP Bydgoszcz –  Środki na własną działalność gospodarczą",
+  "url": "https://zielonalinia.gov.pl/pup-bydgoszcz-srodki-na-wlasna-dzialalnosc-gospodarcza-2/",
+  "data_publikacji": "2026-11-13",
+  "pup_id": "bydgoszcz",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Bydgoszczy",
+  "wojewodztwo": "kujawsko-pomorskie",
+  "tresc": "Powiatowy Urząd Pracy w Bydgoszczy informuje o przedłużeniu naboru uzupełniającego o dofinansowanie podjęcia działalności gospodarczej do 20 listopada 2026 r. Wnioski będą przyjmowane po wcześniejszym telefonicznym umówieniu terminu spotkania: (52) 36 04 368, (52) 36 04 370, (52) 36 04 371, (52) 36 04 376. Więcej informacji znajduje się na stronie Urzędu. Źródło: Powiatowy Urząd Pracy w Bydgoszczy",
+  "url_urzedu": "https://bydgoszcz.praca.gov.pl/-/srodki-na-wlasna-dzialalnosc-gospodarcza-45",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "2026-11-20",
+  "tryb": "terminowy",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "zl#pup-bydgoszcz-srodki-na-wlasna-dzialalnosc-gospodarcza-2",
+  "zrodla": [
+   "zielonalinia"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "trwa",
+  "dni_do_konca": 7
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków dla osób posiadających orzeczenie o stopniu niepełnosprawności,",
+  "url": "https://klodzko.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/otwarcie-naboru-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej.-2?p_r_p_assetEntryId=70878666",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "klodzko",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Kłodzku",
+  "wojewodztwo": "dolnośląskie",
+  "tresc": "Otwarcie naboru wniosków o dofinansowanie podjęcia działalności gospodarczej. Informuje o otwarciu naboru wniosków o dofinansowanie podjęcia działalności gospodarczej w ramach środków Funduszu Pracy. Planujemy objąć wsparciem 2 osoby bezrobotne posiadające orzeczenie o stopniu niepełnosprawności, które otrzymają dotacje w 2026 roku z możliwością realizacji umów w 2027 roku. Kwota dotacji: do 30 000 zł. Kwota do rozdysponowania w ramach naboru: 60 000 zł. Nabór prowadzony będzie w trybie ciągłym od dnia 16.11.2026 r. do wyczerpania środków finansowych. Złożony wniosek podlegać będzie rejestracji poprzez opatrzenie go pieczęcią wpływu zawierającą datę oraz godzinę przyjęcia dokumentu. Powiatowy Urząd Pracy w Kłodzku zastrzega sobie możliwość wstrzymania naboru w sytuacji złożenia wniosków na kwotę przekraczającą środki przewidziane na finansowanie w/w formy wsparcia poprzez zamieszczenie ogłoszenia na stronie internetowej i profilu facebook. WAŻNE !!! Z uwagi na ograniczone środki finansowe oraz duże zainteresowanie tą formą wsparcia, złożenie kompletnego wniosku nie gwarantuje przyznania dofinansowania. O przyznaniu wsparcia decydować będzie kolejność złożenia wniosku. Wnioski złożone przed jak i poza terminem naboru zostaną rozpatrzone negatywnie. Wsparciem zostaną objęte wyłącznie osoby bezrobotne z niepełnosprawnościami. Ogólne zasady przygotowania wniosku oraz wniosek i załączniki dostępne są na stronie internetowej Urzędu -klodzko.praca.gov.pl, w zakładce: ” Dla bezrobotnych i poszukujących pracy”, „Dokumenty do pobrania ”, „Dotacje na podjęcie działalności gospodarczej”. Wnioski wraz z załącznikami można składać : w formie papierowej w siedzibie Powiatowego Urzędu Pracy w Kłodzku ul. Wyspiańskiego 2J, 57-300 Kłodzko piętro, pokój nr 1, w godzinach pracy Urzędu tj. 7.30-15.30, za pomocą środków komunikacji elektronicznej (na adres e-Doręczeń albo przez portal praca.gov.pl, w przypadku posiadania przez wnioskodawcę podpisu kwalifikowanego lub podpisu zaufanego). Wnioskodawca przed złożeniem wniosku musi: zaktualizować dane adresowe oraz inne dane, które mogły ulec zmianie, posiadać Indywidualny Plan Działania (IPD), w tym celu należy skontaktować się ze swoim doradcą do spraw zatrudnienia. Osoby w wieku 18-29 lat podlegają obowiązkowej ocenie umiejętności cyfrowych. W razie pytań informację można uzyskać pod numerem telefonu: 74 865 74 06.",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc_pfron",
+  "pewnosc": "średnia",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "",
+  "tryb": "do wyczerpania środków",
+  "kwota_max_zl": 30000,
+  "kwota_opis": "do 30 000 zł",
+  "zrodla_finansowania": [
+   "FP",
+   "PFRON"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "do 30 lat",
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "klodzko.praca.gov.pl#70878666",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Otwarcie naboru wniosków PFRON",
+  "url": "https://klodzko.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/otwarcie-naboru-wnioskow-pfron?p_r_p_assetEntryId=70881802",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "klodzko",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Kłodzku",
+  "wojewodztwo": "dolnośląskie",
+  "tresc": "Dyrektor Powiatowego Urzędu Pracy w Kłodzku ogłasza nabór wniosków o przyznanie osobie niepełnosprawnej środków Państwowego Funduszu Rehabilitacji Osobowych i Niepełnosprawnych (PFRON) na podjęcie działalności gospodarczej, rolniczej albo działalności w formie spółdzielni socjalnej. KLUCZOWE PARAMETRY NABORU Termin naboru: od dnia 16.11.2026 r. do dnia 18.11.2026 r. (godz. 15:00) lub do wyczerpania limitu przyznanych środków. Liczba dostępnych miejsc: 2 Maksymalna kwota dofinansowania: do 30 000,00 zł na jedną osobę. Przeznaczenie środków: pokrycie uzasadnionych i bezpośrednio związanych z profilem planowanej działalności kosztów (np. zakup wyłącznie nowych maszyn, urządzeń, narzędzi, sprzętu komputerowego, oprogramowania, towaru/surowców). PUP w Kłodzku informuje, że wnioski będą rozpatrywane sukcesywnie zgodnie z kolejnością ich wpływu (o złożeniu wniosku decyduje data i godzina wpływu wniosku do urzędu). Wnioski złożone po wyczerpaniu limitu określonego w naborze oraz złożone po zakończeniu naboru będą pozostawione bez rozpatrzenia. KTO MOŻE ZŁOŻYĆ WNIOSEK? O przyznanie środków może ubiegać się osoba niepełnosprawna, która spełnia łącznie następujące warunki: Posiada aktualne orzeczenie o stopniu niepełnosprawności (lub orzeczenie równoważne). Jest zarejestrowana w Powiatowym Urzędzie Pracy w Kłodzku, jako: osoba bezrobotna, osoba poszukująca pracy niepozostająca w zatrudnieniu. Nie otrzymała dotychczas bezzwrotnych środków publicznych w tym z PFRON lub z Funduszu Pracy na podjęcie działalności gospodarczej lub rolniczej, albo od wniesienia wkładu do spółdzielni socjalnej upłynęło co najmniej 12 miesięcy. Nie prowadziła działalności gospodarczej w okresie 12 miesięcy przed dniem złożenia wniosku. SPOSÓB I MIEJSCE SKŁADANIA WNIOSKÓW Wnioski wraz załącznikami można składać w następujący sposób: W formie elektronicznej (ZALECANA FORMA): Za pośrednictwem darmowego systemu SOW (System Obsługi Wsparcia finansowanego ze środków PFRON) dostępnego pod adresem: sow.pfron.org.pl . Do złożenia wniosku przez SOW wymagane jest posiadanie Profilu Zaufanego lub podpisu kwalifikowanego. W formie papierowej (osobiście lub pocztą): Powiatowy Urząd Pracy w Kłodzku: ul. Wyspiańskiego 2J, 57-300 Kłodzko , pokój nr 8, WAŻNE INFORMACJE I ZASADY OCENY Uzupełnienie braków: Wnioski niekompletne lub sporządzone błędnie zostaną wezwane do uzupełnienia w terminie 14 dni od dnia doręczenia wezwania. Brak uzupełnienia w wyznaczonym terminie skutkuje pozostawieniem wniosku bez rozpatrzenia. Rejestracja firmy: Rozpoczęcie prowadzenia działalności gospodarczej (wpis do CEIDG/KRS) może nastąpić wyłącznie po zawarciu umowy z PUP Kłodzko. Wydatki poniesione przed dniem zawarcia umowy nie podlegają refundacji. Kryteria oceny: Przy rozpatrywaniu wniosków ocenie podlega m.in.: spójność biznesplanu, popyt i konkurencja na rynku, posiadane kwalifikacje, wysokość wkładu własnego oraz proponowana forma zabezpieczenia umowy. KONTAKT I POMOC Wsparcie techniczne dotyczące systemu SOW: Bezpłatna infolinia PFRON pod numerem 800 889 777 (w dni robocze w godz. 8:00 – 16:00). Pytania dotyczące naboru w PUP Kłodzko: Telefon: 74 865 74 20 lub osobiście w siedzibie Urzędu przy ul. Wyspiańskiego 2J w Kłodzku (pokój nr 8). Formularze wniosków (dla osób składających w wersji papierowej) dostępne są poniżej w załącznikach. Załączniki wniosek-PFRON.pdf 1069 KB PEFRON OSWIADCZENIA2026.docx 280 KB formularz-informacji-pomoc-de-minimis_2024.pdf 1239 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc_pfron",
+  "pewnosc": "średnia",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "2026-11-18",
+  "tryb": "do wyczerpania środków",
+  "kwota_max_zl": 30000,
+  "kwota_opis": "do 30 000 zł",
+  "zrodla_finansowania": [
+   "FP",
+   "PFRON"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "klodzko.praca.gov.pl#70881802",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 5
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Przedłużenie naboru wniosków o dofinansowanie podjęcia działalności gospodarczej",
+  "url": "https://tarnow.praca.gov.pl/-/przedluzenie-naboru-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-1",
+  "data_publikacji": "2026-11-13",
+  "pup_id": "tarnow",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Tarnowie",
+  "wojewodztwo": "małopolskie",
+  "tresc": "Powiatowy Urząd Pracy w Tarnowie informuje, że nabór wniosków o dofinansowanie podjęcia działalności gospodarczej został przedłużony do 20 listopada 2026 r. do godz. 15.30. Ważne informacje: Wnioski należy składać wyłącznie w terminie trwania naboru. Wnioski złożone przed rozpoczęciem lub po zakończeniu naboru pozostaną bez rozpatrzenia. Szczegółowe zasady ubiegania się o dofinansowanie oraz wymagane formularze dostępne są w siedzibie Powiatowego Urzędu Pracy w Tarnowie oraz na stronie internetowej Urzędu",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "2026-11-20",
+  "tryb": "terminowy",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "https://tarnow.praca.gov.pl/-/przedluzenie-naboru-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-1",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "trwa",
+  "dni_do_konca": 7
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Własna firma – od pomysłu do realizacji. Skorzystaj z porad ekspertów!",
+  "url": "https://tarnow.praca.gov.pl/-/wlasna-firma-od-pomyslu-do-realizacji.-skorzystaj-z-porad-ekspertow-",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "tarnow",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Tarnowie",
+  "wojewodztwo": "małopolskie",
+  "tresc": "Powiatowy Urząd Pracy w Tarnowie zaprasza osoby planujące rozpoczęcie własnej działalności gospodarczej do udziału w Ośrodku Doradczym, który odbędzie się w dniu 18 listopada 2026 r. Podczas spotkania osoby zainteresowane założeniem firmy będą mogły uzyskać kompleksowe informacje i porady dotyczące m.in.: zasad zakładania i prowadzenia działalności gospodarczej przez osoby fizyczne, wyboru formy opodatkowania, obowiązków wynikających z przepisów prawa podatkowego, ubezpieczeń społecznych i ubezpieczenia zdrowotnego, dostępnych ulg i uprawnień dla osób rozpoczynających działalność gospodarczą, aktualnych przepisów i najnowszych zmian dotyczących prowadzenia własnej firmy. Informacji i porad udzielać będą eksperci reprezentujący: Urząd Miasta Tarnowa, Pierwszy i Drugi Urząd Skarbowy w Tarnowie, Zakład Ubezpieczeń Społecznych Oddział w Tarnowie, Urząd Statystyczny Oddział w Tarnowie oraz Powiatowy Urząd Pracy w Tarnowie. Osoby zainteresowane udziałem prosimy o wcześniejszy kontakt: • telefoniczny: 14 688 23 84, 14 688 23 85, • osobisty: Powiatowy Urząd Pracy w Tarnowie, pok. 9 i 10. Ośrodek Doradczy odbędzie się w Strefie Przedsiębiorcy DESK w Tarnowie, ul. Wałowa 10. Serdecznie zapraszamy wszystkie osoby, które planują rozpoczęcie własnej działalności gospodarczej i chcą zdobyć praktyczną wiedzę niezbędną do założenia oraz prowadzenia firmy.",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "",
+  "tryb": "",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "https://tarnow.praca.gov.pl/-/wlasna-firma-od-pomyslu-do-realizacji.-skorzystaj-z-porad-ekspertow-",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "do weryfikacji (brak dat)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "NABÓR WNIOSKÓW ZE ŚRODKÓW PFRON",
+  "url": "https://tarnow.praca.gov.pl/-/nabor-wnioskow-ze-srodkow-pfron-2",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "tarnow",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Tarnowie",
+  "wojewodztwo": "małopolskie",
+  "tresc": "Powiatowy Urząd Pracy w Tarnowie informuje, że od dnia 16.11.2026 r. będzie prowadzony nabór wniosków osób niepełnosprawnych dotyczących środków na podjęcie działalności gospodarczej, rolniczej albo działalności w formie spółdzielni socjalnej. Nabór prowadzony będzie ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych. Szczegółowe zasady oraz druki wniosków dostępne są: w siedzibie PUP w Tarnowie na stronie internetowej Urzędu: dotacje na podjęcie działalności gospodarczej oraz pod nr telefonów: 14 688-23-42, 14 688-23-43, 14 688-23-72. Zapraszamy do składania wniosków.",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc_pfron",
+  "pewnosc": "średnia",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "",
+  "tryb": "",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "PFRON"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "https://tarnow.praca.gov.pl/-/nabor-wnioskow-ze-srodkow-pfron-2",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Rezerwa Ministra - nabór wniosków na udzielenie wsparcia w postaci dofinansowania podjęcia działalności gospodarczej",
+  "url": "https://ndm.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/rezerwa-ministra-nabor-wnioskowna-udzielenie-wsparcia-w-postacidofinansowania-podjecia-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70912433",
+  "data_publikacji": "2026-11-13",
+  "pup_id": "ndm",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Nowym Dworze Mazowieckim",
+  "wojewodztwo": "mazowieckie",
+  "tresc": "Powiatowy Urząd Pracy w Nowym Dworze Mazowieckim ogłasza w terminie od 16.11.2026 od godz. 8:00:00 do 27.11.2026 do godziny 14:00:00 nabór wniosków na udzielenie wsparcia w postaci dofinansowania podjęcia działalności gospodarczej dla: - 3 mężczyzn w wieku 18-29 lat, które nie uczestniczą w kształceniu lub szkoleniu (tzw. młodzież NEET) - zgodnie z definicją z kat. NEET przyjętą w Planie realizacji Gwarancji dla Młodzieży Informujemy, że pozostały ostatnie wolne miejsca Powiatowy Urząd Pracy w Nowym Dworze Mazowieckim zastrzega sobie prawo do wcześniejszego zakończenia naboru wniosków w przypadku dużego zainteresowania daną formą wsparcia, w szczególności w sytuacji, gdy liczba złożonych wniosków będzie znacząca w stosunku do dostępnych środków finansowych. Zapraszamy do składania wniosków. Formularze wniosków dostępne są na stronie internetowej urzędu w zakładce DOKUMENTY DO POBRANIA lub poniżej WAŻNA INFORMACJA Wnioski o przyznanie środków będą rozpatrywane z uwzględnieniem zasady DNSH (Do No Significant Harm), zgodnie z którą realizowane przedsięwzięcia oraz finansowane w ich ramach wydatki nie mogą powodować znaczących szkód dla żadnego z sześciu celów środowiskowych określonych w art. 9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2020/852. W związku z powyższym przy planowaniu zakupów należy uwzględnić ich wpływ na środowisko, w szczególności energochłonność, emisję zanieczyszczeń, zużycie zasobów oraz sposób eksploatacji i utylizacji urządzeń. Zaleca się wybieranie rozwiązań energooszczędnych i niskoemisyjnych, w szczególności urządzeń elektrycznych i akumulatorowych zamiast spalinowych (zasilanych paliwami kopalnymi) . Wsparcie udzielane w ramach projektu pn. „Aktywizacja zawodowa osób bezrobotnych w powiecie nowodworskim (III)\" współfinansowanego przez Unię Europejską ze środków Europejskiego Funduszu Społecznego Plus, w ramach Działania 6.1 Aktywizacja zawodowa osób bezrobotnych w ramach Funduszy Europejskich dla Mazowsza 2021-2027 Szczegółowe informacje na temat realizowanego projektu oraz zasad realizacji form wsparcia a także dot. składania wniosków można uzyskać w siedzibie tut. Urzędu pok. 11 oraz filii Urzędu w Nasielsku lub w trakcie kontaktu telefonicznego bądź mailowego z pracownikami tut. Urzędu: - tel.: 22 775-92-42 (do 44) - e-mail: wano@praca.gov.pl #FunduszeEuropejskie #FunduszeUE Załączniki Dofinansowanie działalności gospodarczej.pdf 664 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "2026-11-27",
+  "tryb": "terminowy",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "EFS+",
+   "FP"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "do 30 lat"
+  ],
+  "wstrzymany": "",
+  "klucz": "ndm.praca.gov.pl#70912433",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 14
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej",
+  "url": "https://przasnysz.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "przasnysz",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Przasnyszu",
+  "wojewodztwo": "mazowieckie",
+  "tresc": "Powiatowy Urząd Pracy w Przasnyszu ogłasza nabór wniosków o dofinansowanie podjęcia działalności gospodarczej w dniach 24-27.11.2026 r. Srodki są dostępne dla 2 osób. Dofinansowanie nie obejmuje zakupu samochodu.",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-24",
+  "nabor_do": "2026-11-27",
+  "tryb": "terminowy",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [],
+  "liczba_miejsc": 2,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "https://przasnysz.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 14
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej",
+  "url": "https://kartuzy.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-2?p_r_p_assetEntryId=70886637",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "kartuzy",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Kartuzach",
+  "wojewodztwo": "pomorskie",
+  "tresc": "Od dnia 16.11.2026 r. uruchomiony zostanie dodatkowy nabór wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej Wnioski przyjmowane będą od dnia 16.11.2026 r. w sposób ciągły do zamknięcia naboru. Informacja o zamknięciu naboru zostanie zamieszczona na stronie internetowej Urzędu. N abór realizowany będzie w ramach środków (powstałe oszczędności): projektu pn.: „Rozwój i praca II\" realizowanego w ramach Programu Regionalnego Fundusze Europejskie dla Pomorza 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus Funduszu Pracy Przewidywana ilość dostępnych dotacji 4. SPOSÓB SKŁADANIA WNIOSKÓW Wniosek można złożyć: za pośrednictwem praca.gov.pl, posługując się indywidualnym kontem (wnioski o usługi i świadczenia z urzędu pismo do urzędu), wniosek wraz z załącznikami należy opatrzyć podpisem kwalifikowanym, podpisem zaufanym (profil zaufany) lub podpisem osobistym. W przypadku niewywiązania się z tego wymogu wniosek nie zostanie rozpatrzony; na adres e-Doręczeń, adres skrzynki: AE:PL-99199-12541-WBFIR-14; w siedzibie Urzędu w godz. 8.00-15.00. W przypadku składania wniosku w formie elektronicznej i wyboru formy zabezpieczenia dofinansowania w postaci poręczenia osób fizycznych lub prawnych, oświadczenia o osiąganych dochodach muszą zostać podpisane elektronicznie przez poręczyciela/poręczycieli podpisem kwalifikowalnym, podpisem zaufanym (profil zaufany) lub podpisem osobistym. Na stronie internetowej www.kartuzy.praca.gov.pl (zakładka Dokumenty do pobrania/Bezrobotni i poszukujący pracy ) udostępniony jest aktualny druk wniosku oraz zasady przyznawania jednorazowo środków na podjęcie działalności gospodarczej. Do wniosku należy dołączyć wszystkie wymagane załączniki wymienione we wniosku. Oceniane będą tylko wnioski kompletne złożone w terminie prowadzonego naboru, w oparciu o Formularz oceny merytorycznej stanowiący Załącznik nr 1 do Zasad przyznawania jednorazowo środków na podjęcie działalności gospodarczej. Urząd, po ocenie wniosków, będzie decydował w ramach jakiego limitu środków wniosek będzie realizowany. Kartuzy, 12.11.2026 r. Załączniki Wniosek o przyznanie jednorazowo środków na podjęcie działalności gospodarczej 2026.doc 460 KB Wniosek o przyznanie jednorazowo środków na podjęcie działalności gospodarczej 2026.pdf 1032 KB Zasady przyznawania jednorazowych środków na podjęcie działalności gospodarcze 2026.pdf 446 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "",
+  "tryb": "",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "FP",
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "kartuzy.praca.gov.pl#70886637",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej",
+  "url": "https://bedzin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70887193",
+  "data_publikacji": "2026-11-12",
+  "pup_id": "bedzin",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Będzinie",
+  "wojewodztwo": "śląskie",
+  "tresc": "Powiatowu Urząd Pracy w Będzinie ogłasza Nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej finansowany ze środków Funduszu Pracy oraz w ramach projektu",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "",
+  "tryb": "",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "FP",
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "bedzin.praca.gov.pl#70887193",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "do weryfikacji (brak dat)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Dotacje dla osób 30+",
+  "url": "https://zawiercie.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/dotacje-dla-osob-30-?p_r_p_assetEntryId=70903263",
+  "data_publikacji": "2026-11-13",
+  "pup_id": "zawiercie",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Zawierciu",
+  "wojewodztwo": "śląskie",
+  "tresc": "Powiatowy Urząd Pracy w Zawierciu informuje, że w dniach 16-17.11.2026 r . prowadzony będzie nabór wniosków dotyczących: - dotacji na uruchomienie działalności gospodarczej przyznawanych ramach projektu „Aktywizacja osób bezrobotnych zarejestrowanych w Powiatowym Urzędzie Pracy w Zawierciu II” współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus, w ramach programu regionalnego: Fundusze Europejskie dla Śląskiego 2021-2027. W ramach przedmiotowego naboru planuje się udzielić wsparcia: 4 osobom w wieku 30+ (3 mężczyzn i 1 kobieta). Maksymalna wartość wsparcia wynosi 30 000,00 zł. Projekt jako całość adresowany jest do osób bezrobotnych zarejestrowanych w PUP Zawiercie w szczególności do: a) osób młodych (tj. w wieku 18-29 lat), w tym: - osób z grupy NEET, - osób samotnie wychowujących dzieci, - osób opuszczające pieczę zastępczą, - osób pochodzenia migranckiego. b) osób znajdujących się w najtrudniejszej sytuacji na rynku pracy, w tym narażonych na dyskryminację tj.: - kobiet, - osób w wieku 50 lat i więcej, - osób z niepełnosprawnościami, - osób długotrwale bezrobotnych, - osób o niskich kwalifikacjach, - osób narażonych na dyskryminację ze względu na orientację seksualną, - osób narażonych na dyskryminację ze względu na pochodzenie etniczne. W związku z koniecznością objęcia wsparciem osób w najtrudniejszej sytuacji na rynku pracy oraz realizacją obligatoryjnych wskaźników pierwszeństwo udziału w projekcie będą miały osoby należące do wyżej wskazanych grup priorytetowych, mieszczących się w ramach niniejszego naboru. Przed złożeniem wniosku zaleca się kontakt z pracownikiem realizującym przedmiotową formę wsparcia: pokój 4.12, telefon: 32 6721179 w 275. DOKUMENTY DO POBRANIA",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-16",
+  "nabor_do": "2026-11-17",
+  "tryb": "terminowy",
+  "kwota_max_zl": 30000,
+  "kwota_opis": "do 30 000 zł",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "do 30 lat",
+   "30+",
+   "kobiety",
+   "długotrwale bezrobotni",
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "zawiercie.praca.gov.pl#70903263",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-13T14:28:48+00:00",
+  "ostatni_raz": "2026-11-13T14:28:48+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 4
+ }
+]
