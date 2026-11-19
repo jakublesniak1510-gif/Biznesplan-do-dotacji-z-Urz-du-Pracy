@@ -1,21 +1,288 @@
 [
  {
-  "zrodlo": "zielonalinia",
-  "tytul": "PUP Łódź – Jednorazowe środki na podjęcie działalności gospodarczej – PFRON",
-  "url": "https://zielonalinia.gov.pl/pup-lodz-jednorazowe-srodki-na-podjecie-dzialalnosci-gospodarczej-pfron/",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "lodz",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Łodzi",
+  "zrodlo": "pup",
+  "tytul": "Nabór uzupełniający wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pracy.",
+  "url": "https://radziejow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/powiatowy-urzad-pracy-w-radziejowie-oglasza-nabor-uzupelniajacy-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-ze-srodkow-funduszu-pracy.-wnioski-przyjmowane-beda-od-dnia-23.11.2026-r.-do-dnia-24.11.2026-r.?p_r_p_assetEntryId=71090391",
+  "data_publikacji": "2026-11-19",
+  "pup_id": "radziejow",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Radziejowie",
+  "wojewodztwo": "kujawsko-pomorskie",
+  "tresc": "Powiatowy Urząd Pracy w Radziejowie ogłasza nabór uzupełniający wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pracy Wnioski przyjmowane będą od dnia 23.11.2026 r . do dnia 24.11.2026 r . Powiatowy Urząd Pracy w Radziejowie dysponuje ograniczonymi środkami finansowymi przeznaczonymi na dofinansowanie podjęcia działalności gospodarczej. Przewidywalna maksymalna wysokość dofinansowania dla jednej osoby to 22.000,00 zł . Ostateczna wysokość przyznawanych środków będzie uzależniona od liczby wniosków zakwalifikowanych do przyznania dofinansowania oraz możliwości finansowych Urzędu. Rozpatrzenie wniosków odbywa się w trybie konkursowym i będzie przyznawane dla najlepiej zaprezentowanych pomysłów. PUP w Radziejowie rozpatruje wnioski, które wpłynęły do tut. Urzędu tylko w wyznaczonym terminie naboru. Wniosek o przyznanie dofinansowania podjęcia działalności gospodarczej zalecamy składać osobiście (celem weryfikacji) w pokoju nr 9, w godzinach 8ºº - 14ºº, zgodnie z obowiązującym wzorem. Obowiązują druki z opublikowanego ogłoszenia. Niedopuszczalne jest jakiekolwiek modyfikowanie i usuwanie elementów wniosku – dopuszcza się wyłącznie dodawanie stron, rozszerzanie rubryk wynikające z objętości treści. W przypadku braku możliwości osobistego złożenia wniosku o dofinansowanie podjęcia działalności gospodarczej można również wysłać go na adres do e - Doręczeń PUP Radziejów: AE:PL-53261-38624-DBRAV-24 lub za pośrednictwem poczty na adres: Powiatowy Urząd Pracy w Radziejowie, ul. Kościuszki 20/22, 88-200 Radziejów, zgodnie z obowiązującym wzorem . Pod uwagę będzie brana data wpływu wniosku do Urzędu. Za datę złożenia wniosku uznaje się datę wpływu do Kancelarii PUP w Radziejowie. Aby skutecznie wysyłać pisma i wnioski do administracji publicznej w formie elektronicznej trzeba mieć założony i aktywny adres do e - Doręczeń. Informujemy, że wnioski niekompletne i zawierające błędy formalne nie będą rozpatrywane; wnioskodawca jest zobowiązany umożliwić przeprowadzenie kontroli w przyszłej siedzibie działalności gospodarczej przed merytorycznym rozpatrzeniem wniosku; wnioski podlegają ocenie merytorycznej, którą przeprowadza Komisja Oceny Wniosków powołana przez Dyrektora PUP w Radziejowie; najlepiej ocenione wnioski, to znaczy takie z najwyższą punktacją po ocenie KOW będą mogły otrzymać dofinansowanie, przy tej samej liczbie punktów z rankingu oceny wniosków, pierwszeństwo w skorzystaniu z tej formy pomocy będą miały osoby, które będą spełniać definicje z art. 69 ustawy o rynku pracy i służbach zatrudnienia; wnioski powinny zawierać dokumenty dotyczące zabezpieczenia wnioskowanych środków. Ostateczna liczba osób objętych wsparciem oraz wysokość przyznawanych środków zostaną ustalone po zakończeniu naboru, z uwzględnieniem liczby i oceny złożonych wniosków oraz dostępnego limitu finansowego. Załączniki Wniosek o dofinansowanie podjęcia działalności gospodarczej FP 2026 (2).docx 64 KB Wniosek o dofinansowanie podjęcia działalności gospodarczej FP 2026 (2).pdf 366 KB Informacja o prawach i obowiązkach osoby bezrobotnej ubiegającej się o przyznanie dofinansowania podjęcia działalności gospodarczej (3).docx 115 KB Załącznik nr 1 do wniosku o dofinansowanie (1) (1).docx 55 KB Załącznik nr 2 do wniosku o dofinansowanie (1) (1).docx 202 KB Załącznik nr 3 do wniosku o dofinansowanie (1) (1).docx 202 KB Załącznik nr 4 klauzula infromacjyjna (1).docx 25 KB Załącznik nr 5-9 Dokumenty dla poręczycieli do wniosku o dofinansowanie (1) (1).docx 44 KB Zasady przyznawnia dofinansowania podjęcia działalności gospodarczej 29.04.2026 r_ (1).docx 45 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-23",
+  "nabor_do": "2026-11-24",
+  "tryb": "terminowy",
+  "kwota_max_zl": 22000,
+  "kwota_opis": "do 22 000 zł",
+  "zrodla_finansowania": [
+   "FP"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "radziejow.praca.gov.pl#71090391",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 5
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Uzupełniający nabór wniosków - FEŁ2027 - dofinansowanie podjęcia działalności gospodarczej",
+  "url": "https://skierniewice.praca.gov.pl/-/uzupelniajacy-nabor-wnioskow-fel2027-dotacja",
+  "data_publikacji": "2026-11-18",
+  "pup_id": "skierniewice",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Skierniewicach",
   "wojewodztwo": "łódzkie",
-  "tresc": "Powiatowy Urząd Pracy w Łodzi przyjmuje wnioski o dofinansowanie w formie przyznawania osobie niepełnosprawnej środków na podjęcie działalności gospodarczej. Kwota dofinansowania wynosi do 75 000 zł. Więcej informacji znajduje się na stronie urzędu. Źródło: Powiatowy Urząd Pracy w Łodzi",
-  "url_urzedu": "https://lodz.praca.gov.pl/-/komunikat-pfron-jednorazowe-srodki-na-podjecie-dzialalnosci-gospodarczej-7",
-  "kategoria": "dotacja_dzialalnosc_pfron",
+  "tresc": "Powiatowy Urząd Pracy w Skierniewicach ogłasza uzupełniający nabór wniosków o dofinansowanie podjęcia działalności gospodarczej w ramach projektu \" Aktywizacja zawodowa bezrobotnych z powiatu skierniewickiego i miasta Skierniewice (III) \" realizowanego w ramach programu regionalnego Fundusze Europejskie dla Łódzkiego 2021-2027, Priorytet FELD.07 „Fundusze europejskie dla zatrudnienia i integracji w Łódzkiem\", Działanie FELD.07.01 „Aktywizacja zawodowa - PUP\". W ramach prowadzonego naboru Urząd zamierza udzielić jednej dotacji w wysokości 45.000,00 zł. Każdy wydatek przewidziany w składanym wniosku musi być ściśle powiązany z profilem planowanej działalności i szczegółowo uzasadniony przez wnioskodawcę. Komisja oceniająca wnioski zastrzega sobie prawo odrzucenia wydatku skutkujące obniżeniem wnioskowanej kwoty dofinansowania o kwotę niezaakceptowanego zakupu. Termin naboru wniosków: 18 listopad 2026 - do wyczerpania limitu środków. Zgodnie z Regulaminem wyboru projektów powiatowych urzędów pracy zatwierdzonym przez Zarząd Województwa Łódzkiego: uczestnikami projektu - osobami, którym zostanie udzielone dofinansowanie podjęcia działalności - mogą być osoby zarejestrowane w PUP jako bezrobotni. Priorytetowo będą traktowani bezrobotni będący w trudnej sytuacji na rynku pracy: kobiety , osoby młode - bezrobotni w wieku między 18 a 29 rokiem życia, tj. od dnia, w którym przypadają 18 urodziny do dnia poprzedzającego 30 urodziny, osoby starsze - bezrobotni w wieku 55 lat i więcej tj. od dnia, w którym przypadają 55 urodziny, osoby z niepełnosprawnościami - w rozumieniu wytycznych ministra właściwego do spraw rozwoju regionalnego dotyczących realizacji zasad równościowych w ramach funduszy unijnych na 2021-2027, długotrwale bezrobotni - bezrobotni pozostający w rejestrze PUP przez okres ponad 12 miesięcy w okresie ostatnich 2 lat, z wyłączeniem okresów odbywania stażu i przygotowania zawodowego dorosłych, osoby o niskich kwalifikacjach - bezrobotni posiadający wykształcenie na poziomie do ISCED 4 włącznie (wykształcenie policealne - zgodnie z Międzynarodową Standardową Klasyfikacją Kształcenia UNESCO). W przypadku osób młodych przystąpienie do projektu musi być poprzedzone oceną umiejętności cyfrowych oraz - w razie potrzeby - uzupełnieniem poziomu kompetencji cyfrowych . Złożenie wniosku o dofinansowanie podjęcia działalności gospodarczej musi być poprzedzone rozmową z doradcą klienta w pokojach 17,18 lub 19 oraz doradcą zawodowym w pokoju nr 14. Wypełnione wnioski wraz z załącznikami należy składać w Powiatowym Urzędzie Pracy w Skierniewicach - pokoje: 5 lub 6. #FunduszeEuropejskie #FunduszeUE Załączniki FEŁ 2021-2027 - Zasady przyznawania bezrobotnemu dofinansowania podjęcia działalności gospodarczej.pdf 256 KB FEŁ 2021-2027 - Wniosek o dofinansowanie podjęcia działalności gospodarczej 2026 (1).docx 134 KB Formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis.docx 59 KB FEŁ 2021-2027 - Klauzula RODO - poręczyciele.pdf 341 KB FEŁ 2021- 2027 - Załącznik do Traktatu Ustanawiającego Wspólnotę Europejską.docx 21 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "",
+  "tryb": "do wyczerpania środków",
+  "kwota_max_zl": 45000,
+  "kwota_opis": "do 45 000 zł",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "kobiety",
+   "długotrwale bezrobotni",
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "https://skierniewice.praca.gov.pl/-/uzupelniajacy-nabor-wnioskow-fel2027-dotacja",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "trwa (do wyczerpania środków)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Informacja o zamieszczeniu aktualnie obowiązujących Zasad przyznawania dofinansowania na podjęcie działalności gospodarczej",
+  "url": "https://sochaczew.praca.gov.pl/-/informacja-o-zamieszczeniu-aktualnie-obowiazujacych-zasad-przyznawania-dofinasowania-na-podjecie-dzialalnosci-gospodarczej",
+  "data_publikacji": "2026-11-19",
+  "pup_id": "sochaczew",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Sochaczewie",
+  "wojewodztwo": "mazowieckie",
+  "tresc": "W związku z trwającym naborem wniosków o przyznanie dofinansowania na podjęcie działalności gospodarczej w ramach realizacji projektu EFS+ pt. Aktywizacja zawodowa osób bezrobotnych w powiecie sochaczewskim (III) , Powiatowy Urząd Pracy w Sochaczewie uprzejmie informuje, iż wprowadzono zmienione Zasady przyznawania dofinansowania na podjęcie działalności gospodarczej. W związku z powyższym aktualne zasady dostępne są na stronie internetowej sochaczew.praca.gov.pl w zakładce: Dokumenty do pobrania - Dofinansowanie na podjęcie działalności gospodarczej FEM (Fundusze Europejskie dla Mazowsza) oraz w siedzibie Powiatowego Urzędu Pracy w Sochaczewie, ul. Kusocińskiego 11, pokój nr 42 (I piętro). #FunduszeUE #FunduszeEuropejskie Załączniki Zasady przyznawania dofinansowania na podjęcie działalności gospodarczej PORĘCZYCIELE.pdf 298 KB Wniosek o przyznanie dofinansowania na podjęcie działalności gospodarczej w ramach projektu EFS+.docx 127 KB Oświadczenie o niekaralności.docx 68 KB Oświadczenie_o_braku_wykluczeń_-_agresja_Rosji.docx 71 KB Formularz-de-minimis.pdf 494 KB Druk Rozliczenia _FEM2026.docx 84 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
   "pewnosc": "wysoka",
   "nabor_od": "",
   "nabor_do": "",
   "tryb": "",
-  "kwota_max_zl": 75000,
-  "kwota_opis": "do 75 000 zł",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "https://sochaczew.praca.gov.pl/-/informacja-o-zamieszczeniu-aktualnie-obowiazujacych-zasad-przyznawania-dofinasowania-na-podjecie-dzialalnosci-gospodarczej",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "do weryfikacji (brak dat)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków o dofinansowanie na podjęcie działalności gospodarczej przedłużony do 20 listopada 2026 r.",
+  "url": "https://wolomin.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-dofinansowanie-na-podjecie-dzialalnosci-gospodarczej-przedluzony-do-20-listopada-2026-r.?p_r_p_assetEntryId=71062336",
+  "data_publikacji": "2026-11-18",
+  "pup_id": "wolomin",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Wołominie",
+  "wojewodztwo": "mazowieckie",
+  "tresc": "Powiatowy Urząd Pracy w Wołominie informuje, że przedłuża termin naboru wniosków o przyznanie jednorazowego dofinansowania na podjęcie działalności gospodarczej do dnia 20 listopada 2026 r. Wsparcie realizowane jest w ramach projektu współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus, programu Fundusze Europejskie dla Mazowsza 2021–2027 pn. „Aktywizacja zawodowa osób bezrobotnych w powiecie wołomińskim (III)”. O dofinansowanie mogą ubiegać się osoby bezrobotne, absolwenci CIS lub KIS oraz poszukujący pracy opiekunowie osoby niepełnosprawnej, niepozostający w zatrudnieniu, należący do jednej lub kilku grup znajdujących się w szczególnie trudnej sytuacji na rynku pracy: - osoby młode w wieku 18–29 lat, - osoby długotrwale bezrobotne, - osoby z wykształceniem odpowiadającym poziomowi ISCED 3 i niższym, - osoby w wieku 50 lat i więcej, - osoby z niepełnosprawnością, - kobiety. Zachęcamy osoby zainteresowane rozpoczęciem własnej działalności gospodarczej do skorzystania z możliwości uzyskania wsparcia i złożenia wniosku w wyznaczonym terminie.",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "2026-11-20",
+  "tryb": "terminowy",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "do 30 lat",
+   "kobiety",
+   "długotrwale bezrobotni",
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "wolomin.praca.gov.pl#71062336",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "trwa",
+  "dni_do_konca": 1
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "NABÓR WNIOSKÓW O PRZYZNANIE JEDNORAZOWYCH ŚRODKÓW NA PODJĘCIE DZIAŁALNOŚCI GOSPODARCZEJ 23.XI.2026",
+  "url": "https://brzeg.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-18.xi.2026?p_r_p_assetEntryId=71060634",
+  "data_publikacji": "2026-11-18",
+  "pup_id": "brzeg",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Brzegu",
+  "wojewodztwo": "opolskie",
+  "tresc": "Powiatowy Urząd Pracy w Brzegu ogłasza ostatni nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej w ramach: projektu pn. Aktywizacja zawodowa osób pozostających bez zatrudnienia realizowana przez PUP w Brzegu (III), w zakresie Działania 5.1 Aktywizacja zawodowa osób pozostających bez zatrudnienia realizowana przez PUP w ramach Priorytetu 5 Fundusze Europejskie wspierające opolski rynek pracy i edukację programu regionalnego FEO 2021-2027, współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus Planowana liczba dotacji ok. 2 Wnioski można składać w dniu 23.11.2026 r. Maksymalna kwota dotacji do 35 000,00 zł. Wnioski należy składać wyłącznie we wskazanym terminie. Wnioski złożone przed i po terminie naboru nie zostaną uwzględnione. Z uwagi na wymogi realizowanego projektu prosimy o składanie wniosków w formie wydruku kolorowego. Serdecznie zapraszamy do składania wniosków. Szczegółowe pytania prosimy kierować do pracowników Wydziału Aktywizacji Rynku Pracy - pok. 10, I p, tel. 774441390 do 92, wew.135 #FunduszeUE #FunduszeEuropejskie Z up. Starosty Dyrektor Powiatowego Urzędu Pracy w Brzegu (–) Anna Soroczyńska Załączniki Regulamin przyznawania jednorazowych środków na podjęcie działalnosci gospodarczej.pdf 798 KB Wniosek o przyznanie jednorazowych środków na podjęcie dzialalności gospodarczej.doc 375 KB Załącznik nr 4 Oświadczenie Bezrobotny.docx 76 KB Załącznik nr 5 Oświadczenie Absolwenta CIS i KIS.docx 76 KB Załącznik nr 6 - Oświadczenie - Opiekun.docx 81 KB Załącznik Nr 7 - Formularz pomocy de minimis.pdf 368 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-23",
+  "nabor_do": "2026-11-23",
+  "tryb": "terminowy",
+  "kwota_max_zl": 35000,
+  "kwota_opis": "do 35 000 zł",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": 2,
+  "grupy_docelowe": [
+   "absolwenci"
+  ],
+  "wstrzymany": "",
+  "klucz": "brzeg.praca.gov.pl#71060634",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 4
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Nabór wniosków w sprawie przyznania jednorazowych środków na podjęcie działalności gospodarczej",
+  "url": "https://lubliniec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-w-sprawie-przyznania-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-1?p_r_p_assetEntryId=71048992",
+  "data_publikacji": "2026-11-18",
+  "pup_id": "lubliniec",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Lublińcu",
+  "wojewodztwo": "śląskie",
+  "tresc": "Powiatowy Urząd Pracy w Lublińcu informuje, że zostaje uruchomiony nabór wniosków w sprawie przyznania jednorazowych środków na podjęcie działalności gospodarczej z Funduszu Pracy. Nabór wniosków trwa od 25.11.2026r. do 27.11.2026r. Maksymalna kwota dotacji o jaką można wnioskować wynosi 15.000,00 zł. Załączniki Wniosek w sprawie dofinansowania podjęcia działalności gospodarczej 2026.doc 199 KB formularz-informacji-przedstawianych-przy-ubieganiu-sie-o-pom-1.pdf 2754 KB REGULAMIN JEDNORAZOWYCH ŚRODKÓW NA OTWARCIE DZIAŁALNOŚCI GOSP. 2026.docx 25 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-25",
+  "nabor_do": "2026-11-27",
+  "tryb": "terminowy",
+  "kwota_max_zl": 15000,
+  "kwota_opis": "do 15 000 zł",
+  "zrodla_finansowania": [
+   "FP"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "lubliniec.praca.gov.pl#71048992",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "zapowiedziany",
+  "dni_do_konca": 8
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "Fundusze Europejskie dla osób fizycznych – rozwój kompetencji i wsparcie na start własnego biznesu",
+  "url": "https://mikolow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/fundusze-europejskie-dla-osob-fizycznych-rozwoj-kompetencji-i-wsparcie-na-start-wlasnego-biznesu?p_r_p_assetEntryId=71061726",
+  "data_publikacji": "2026-11-18",
+  "pup_id": "mikolow",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Mikołowie z siedzibą w Łaziskach Górnych",
+  "wojewodztwo": "śląskie",
+  "tresc": "Wraz ze specjalistami z Głównego Punktu Informacyjnego Funduszy Europejskich zapraszamy na spotkanie informacyjne pn. „Fundusze Europejskie dla osób fizycznych – rozwój kompetencji i wsparcie na start własnego biznesu”. Termin i miejsce spotkania Kiedy: 4 grudnia 2026 r. O której: 10:00-12:00 Gdzie: Powiatowy Urząd Pracy w Mikołowie z siedzibą w Łaziskach Górnych, ul. Chopina 8, 43-170 Łaziska Górne, sala 111 (parter) Program spotkania: 10:00-10:10 – Rejestracja uczestników 10:10-10:20 – Powitanie uczestników i przedstawienie usług Punktu Informacyjnego Funduszy Europejskich 10:20-10:40 – Możliwości uzyskania dofinansowania na szkolenia i podnoszenie kwalifikacji 10:40-11:00 – Jak skorzystać z Funduszy Europejskich na rozwój kompetencji 11:00-11:20 – Możliwości uzyskania wsparcia na rozpoczęcie działalności gospodarczej 11:20-12:00 – Pytania, odpowiedzi i konsultacje indywidualne Informacje organizacyjne: Rejestracja na spotkanie odbywa się poprzez wypełnienie formularza rejestracyjnego. Udział w spotkaniu zostanie potwierdzony e-mailem (podanym w formularzu). Osoby z niepełnosprawnościami lub takie, których stan zdrowia wymaga zapewnienia określonych warunków uczestnictwa w spotkaniu proszone są o wcześniejszy kontakt z organizatorem. Spotkanie jest bezpłatne. Szczegóły na stronie: https://funduszeue.slaskie.pl/.../w/4_12_2026_pup_laziska_g",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "",
+  "tryb": "",
+  "kwota_max_zl": null,
+  "kwota_opis": "",
+  "zrodla_finansowania": [
+   "EFS+"
+  ],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [
+   "osoby z niepełnosprawnością"
+  ],
+  "wstrzymany": "",
+  "klucz": "mikolow.praca.gov.pl#71061726",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "do weryfikacji (brak dat)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "WŁASNA FIRMA BEZ KREDYTU? SIĘGNIJ PO BEZZWROTNĄ DOTACJĘ",
+  "url": "https://sosnowiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/wlasna-firma-bez-kredytu-siegnij-po-bezzwrotna-dotacje?p_r_p_assetEntryId=71048539",
+  "data_publikacji": "2026-11-19",
+  "pup_id": "sosnowiec",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Sosnowcu",
+  "wojewodztwo": "śląskie",
+  "tresc": "Planujesz otwarcie własnego biznesu, ale brakuje Ci kapitału na start? Powiatowy Urząd Pracy w Sosnowcu prowadzi nabór wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej. To realna szansa na uruchomienie wymarzonej firmy bez konieczności zaciągania zobowiązań w banku. DLACZEGO WARTO ZŁOŻYĆ WNIOSEK WŁAŚNIE TERAZ? Bezzwrotne wsparcie finansowe: Możesz otrzymać nawet do 30 000 zł na start. Jeśli wywiążesz się z warunków umowy – przede wszystkim poprowadzisz firmę w Sosnowcu przez minimum 12 miesięcy – nie oddajesz ani złotówki. Zero kredytów i odsetek: Rozwijasz swój pomysł na własnych zasadach, bez obciążania domowego budżetu ratami pożyczek i kosztami bankowymi. Konkretne inwestycje od pierwszego dnia: Przyznane środki przeznaczysz na zakup niezbędnego sprzętu, maszyn, narzędzi czy specjalistycznego oprogramowania, co pozwoli Ci od razu ruszyć ze sprzedażą lub świadczeniem usług. Przejrzyste zasady i wsparcie urzędu: Wnioski oceniamy według jasnych, przejrzystych kryteriów. Nie musisz jednak przechodzić przez formalności samodzielnie – nasi doradcy oferują bezpłatne konsultacje (zarówno stacjonarnie, jak i zdalnie przez MS Teams), podczas których pomogą Ci poprawnie przygotować dokumentację. Ochrona przed wzrostem cen i zmianami przepisów: Pula środków jest ograniczona, a wnioski rozpatrujemy do wyczerpania budżetu. Działając teraz, zyskujesz pewność obecnych warunków finansowania i kupujesz wyposażenie po aktualnych cenach rynkowych, zanim ewentualne zmiany w procedurach lub inflacja podniosą koszty inwestycji. JAK ZROBIĆ PIERWSZY KROK? Szczegółowy regulamin, aktualne formularze wniosków oraz informacje o terminach naborów i instruktażów znajdziesz na naszej stronie internetowej. Jeśli masz pytania lub chcesz skonsultować swój pomysł przed złożeniem dokumentów, skontaktuj się z naszymi pracownikami. Instruktaże i konsultacje: Agnieszka Nieroda – specjalista ds. programów, tel. 32 29 78 765 Informacje: Maja Danecka – specjalista ds. programów, tel. 32 29 78 766 Aleksandra Derwińska – specjalista ds. programów, tel. 32 71 87 340",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc",
+  "pewnosc": "wysoka",
+  "nabor_od": "",
+  "nabor_do": "",
+  "tryb": "do wyczerpania środków",
+  "kwota_max_zl": 30000,
+  "kwota_opis": "do 30 000 zł",
+  "zrodla_finansowania": [],
+  "liczba_miejsc": null,
+  "grupy_docelowe": [],
+  "wstrzymany": "",
+  "klucz": "sosnowiec.praca.gov.pl#71048539",
+  "zrodla": [
+   "pup"
+  ],
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
+  "status": "trwa (do wyczerpania środków)",
+  "dni_do_konca": null
+ },
+ {
+  "zrodlo": "pup",
+  "tytul": "KOMUNIKAT PUP: Dotyczy naboru wniosków o przyznanie osobie niepełnosprawnej środków na podjęcie działalności gospodarczej finansowanych ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (PFRON)",
+  "url": "https://nowemiastolubawskie.praca.gov.pl/-/komunikat-pup-dotyczy-naboru-wnioskow-o-przyznanie-osobie-niepelnosprawnej-srodkow-na-podjecie-dzialalnosci-gospodarczej-finansowanych-ze-srodkow-panstwowego-funduszu-rehabilitacji-osob-niepelnosprawnych-pfron-",
+  "data_publikacji": "2026-11-19",
+  "pup_id": "nowemiastolubawskie",
+  "pup_nazwa": "Powiatowy Urząd Pracy w Nowym Mieście Lubawskim",
+  "wojewodztwo": "warmińsko-mazurskie",
+  "tresc": "Powiatowy Urząd Pracy w Nowym Mieście Lubawskim informuje, o rozpoczęciu naboru wniosków o przyznanie osobie niepełnosprawnej środków na podjęcie działalności gospodarczej finansowanych ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych (PFRON). Liczba dostępnych dotacji – 2 Maksymalna kwota dotacji – 50 000,00 zł Umowy zawierane będą z obowiązkiem prowadzenia działalności gospodarczej nieprzerwanie przez okres co najmniej 12 miesięcy zgodnie z art. 12a ust. 1 pkt 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych. WAŻNE! Wnioski wraz z kompletem załączników niezbędnych do jego oceny będą przyjmowane w formie elektronicznej przez System Obsługi Wsparcia finansowanego ze środków PFRON (SOW) na stronie internetowej https://sow.pfron.org.pl lub w wersji papierowej w sekretariacie Powiatowego Urzędu Pracy w Nowym Mieście Lubawskim. Wniosek złożony elektronicznie musi być opatrzony podpisem potwierdzonym profilem zaufanym elektronicznej platformy usług administracji publicznej e-PUAP lub przez system bezpiecznego potwierdzania tożsamości MojeID. Wnioski wraz z kompletem wymaganych załączników należy składać w terminie od 30.11.2026 r. do 02.12.2026 r. Załączniki REGULAMIN PFRON 2026.pdf 86 KB Komplet dokumentów - PFRON 2026.zip 1446 KB",
+  "url_urzedu": "",
+  "kategoria": "dotacja_dzialalnosc_pfron",
+  "pewnosc": "wysoka",
+  "nabor_od": "2026-11-30",
+  "nabor_do": "2026-12-02",
+  "tryb": "terminowy",
+  "kwota_max_zl": 50000,
+  "kwota_opis": "do 50 000 zł",
   "zrodla_finansowania": [
    "PFRON"
   ],
@@ -24,488 +291,13 @@
    "osoby z niepełnosprawnością"
   ],
   "wstrzymany": "",
-  "klucz": "zl#pup-lodz-jednorazowe-srodki-na-podjecie-dzialalnosci-gospodarczej-pfron",
-  "zrodla": [
-   "zielonalinia"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "NABÓR WNIOSKÓW O DOFINANSOWANIE PODJĘCIA DZIAŁALNOŚCI GOSPODARCZEJ",
-  "url": "https://legnica.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-1",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "legnica",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Legnicy",
-  "wojewodztwo": "dolnośląskie",
-  "tresc": "​​​​​ ​​​​​ Powiatowy Urząd Pracy w Legnicy ogłasza nabór wniosków o dofinansowanie podjęcia działalności gospodarczej. Wsparcie realizowane będzie w ramach: Funduszy Europejskich dla Dolnego Śląska 2021-2027 w zakresie Europejskiego Funduszu Społecznego Plus (EFS+) Środków Funduszu Pracy (limit podstawowy) Rezerwy Funduszu Pracy pozostającej w dyspozycji Ministry Rodziny, Pracy i Polityki Społecznej Termin naboru: od 23 listopada 2026 r. do 30 listopada 2026 r. Powiatowy Urząd Pracy w Legnicy dysponuje środkami pozwalającymi na udzielenie ok. 12 dofinansowań średnio w wysokości 28 000,00 zł. Do wniosku obowiązkowo należy załączyć formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis (załącznik do rozporządzenia Rady Ministrów z dnia 30 lipca 2024 r. poz. 1206). Druk wniosku i formularz informacji przedstawianych przy ubieganiu się o pomoc de minimis jest do pobrania na stronie internetowej www.legnica.praca.gov.pl/dokumenty do pobrania . Sposób składania wniosków: 1. osobiście Powiatowy Urząd Pracy w Legnicy – ul. Gen. Władysława Andersa 2, 59-220 Legnica (pokój nr 7, I piętro), Powiatowy Urząd Pracy w Legnicy - Filia w Chojnowie – Rynek 20, 59-225 Chojnów (pokój nr 6, parter) 2. pocztą – adresy jw. 3. drogą elektroniczną poprzez: portal www.praca.gov.pl/inne pismo do urzędu skrzynkę do e-doręczeń: AE:PL-23305-50336-SJGSG-26 (złożenie wniosku w formie elektronicznej wymaga podpisania go kwalifikowanym podpisem elektronicznym lub podpisem potwierdzonym profilem zaufanym) Wnioskodawcy ubiegający się o przyznanie środków na podjęcie działalności gospodarczej muszą posiadać indywidualny plan działania (IPD), przygotowywany przez doradcę do spraw zatrudnienia z Powiatowego Urzędu Pracy z Legnicy przy udziale bezrobotnego. W przypadku pytań w sprawie IPD proszę kontaktować się telefonicznie ze swoim doradcą do spraw zatrudnienia. W razie pytań i wątpliwości informacji udzielają pracownicy Urzędu pod numerami telefonów: w Legnicy tel. 76/ 722-52-45 w Chojnowie tel. 76/ 754-43-76",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-23",
-  "nabor_do": "2026-11-30",
-  "tryb": "terminowy",
-  "kwota_max_zl": 28000,
-  "kwota_opis": "do 28 000 zł",
-  "zrodla_finansowania": [
-   "FP",
-   "EFS+"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "https://legnica.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-1",
+  "klucz": "https://nowemiastolubawskie.praca.gov.pl/-/komunikat-pup-dotyczy-naboru-wnioskow-o-przyznanie-osobie-niepelnosprawnej-srodkow-na-podjecie-dzialalnosci-gospodarczej-finansowanych-ze-srodkow-panstwowego-funduszu-rehabilitacji-osob-niepelnosprawnych-pfron-",
   "zrodla": [
    "pup"
   ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
+  "pierwszy_raz": "2026-11-19T14:20:49+00:00",
+  "ostatni_raz": "2026-11-19T14:20:49+00:00",
   "status": "zapowiedziany",
   "dni_do_konca": 13
- },
- {
-  "zrodlo": "pup",
-  "tytul": "NABÓR WNIOSKÓW O PRZYZNANIE JEDNORAZOWYCH ŚRODKÓW NA PODJĘCIE DZIAŁALNOŚCI GOSPODARCZEJ DLA JEDNEJ OSOBY POWYŻEJ 30 ROKU ŻYCIA",
-  "url": "https://lwowekslaski.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-jednorazowych-srodkow-na-podjecie-dzialalnosci-gospodarczej-dla-jednej-osoby-powyzej-30-roku-zycia?p_r_p_assetEntryId=71017778",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "lwowekslaski",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Lwówku Śląskim",
-  "wojewodztwo": "dolnośląskie",
-  "tresc": "NABÓR WNIOSKÓW O PRZYZNANIE JEDNORAZOWYCH ŚRODKÓW NA PODJĘCIE DZIAŁALNOŚCI GOSPODARCZEJ DLA JEDNEJ OSOBY POWYŻEJ 30 ROKU ŻYCIA Termin składania wniosków od 18.11.2026 do 25.11.2026 r. Urząd dysponuje środkami finansowymi w wysokości 30 000,00 zł. (trzydzieści tysięcy zł). Druki wniosków oraz zasady przyznawania środków na rok 2026 do pobrania na stronie internetowej Powiatowego Urzędu Pracy we Lwówku Śląskim: https://lwowekslaski.praca.gov.pl/-/7279610-dofinansowanie-podjecia-dzialalnosci-gospodarczej-dokumenty-do-pobrania Wsparcie finansowane będzie w ramach środków: Programu Funduszy Europejskich dla Dolnego Śląska 2021-2027 projektu „Aktywizacja osób pozostających bez pracy w powiecie lwóweckim III” współfinansowanego z Europejskiego Funduszu Społecznego Plus Informacja: na witrynie internetowej: https://lwowekslaski.praca.gov.pl/dla-bezrobotnych-i-poszukujacych-pracy/formy-wsparcia/dofinansowanie-podjecia-dzialalnosci-gospodarczej telefoniczna dotycząca jednorazowych środków na podjęcie działalności gospodarczej pod numerem: 75 782 42 24 do 26 wew. 259 #FunduszeEU #FunduszeEuropejskie UWAGA! Wnioski będą rozpatrywane w drodze konkursu – o kolejności realizacji wniosków nie decyduje data wpływu do urzędu. O pozytywnym zaopiniowaniu wniosku będzie decydowała ilość osiągniętych punktów. W przypadku gdy wnioski uzyskają taką samą ilość punktów, kryterium rozstrzygającym będzie spełnienie warunków określonych w art. 69 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia. Przypominamy, że przed złożeniem wniosku należy w rozmowie z doradcą ds. zatrudnienia zaplanować dofinansowanie na otwarcie własnej działalności gospodarczej w Indywidualnym Planie Działania.",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-18",
-  "nabor_do": "2026-11-25",
-  "tryb": "terminowy",
-  "kwota_max_zl": null,
-  "kwota_opis": "pula naboru: 30 000 zł (limit na osobę w ogłoszeniu)",
-  "zrodla_finansowania": [
-   "EFS+"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [
-   "do 30 lat",
-   "30+"
-  ],
-  "wstrzymany": "",
-  "klucz": "lwowekslaski.praca.gov.pl#71017778",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "zapowiedziany",
-  "dni_do_konca": 8
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Dofinansowanie na podjęcie działalności gospodarczej – nadal można składać wnioski !",
-  "url": "https://olawa.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/dofinansowanie-na-podjecie-dzialalnosci-gospodarczej-nadal-mozna-skladac-wnioski-?p_r_p_assetEntryId=71015585",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "olawa",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Oławie",
-  "wojewodztwo": "dolnośląskie",
-  "tresc": "Powiatowy Urząd Pracy w Oławie informuje, że nadal można składać wnioski o dofinansowanie podjęcia działalności gospodarczej ze środków rezerwy Ministra Rodziny i Polityki Społecznej na finansowanie form pomocy (bez udziału środków EFS+). Dokumenty niezbędne do ubiegania się o dofinansowanie dostępne są w zakładce Dofinansowanie . Gdzie i jak złożyć wniosek? Wnioski należy składać w sekretariacie Powiatowego Urzędu Pracy w Oławie: Powiatowy Urząd Pracy w Oławie ul. 3 Maja 1 55-200 Oława Ważne! W dniu składania wniosku należy również zgłosić się do swojego doradcy klienta, zgodnie z przyjętym podziałem obsługi. Osoby bezrobotne zarejestrowane w Filii PUP w Jelczu-Laskowicach powinny zgłosić się do doradcy klienta w siedzibie filii: ul. Józefa Bożka 11 55-220 Jelcz-Laskowice. Wizyta u doradcy klienta jest niezbędna w celu ustalenia indywidualnego planu działania oraz weryfikacji i aktualizacji danych. W dniu składania wniosku należy również zgłosić się do doradcy zawodowego. Na co można przeznaczyć dofinansowanie? Przyznane środki można przeznaczyć m.in. na: zakup maszyn, urządzeń i sprzętu niezbędnego do prowadzenia działalności; zakup komputerów, telefonów i oprogramowania; zakup materiałów i towarów potrzebnych do wykonywania usług; zakup mebli i wyposażenia lokalu; zakup samochodu, jeżeli jest uzasadniony rodzajem planowanej działalności; materiały reklamowe, w tym wykonanie strony internetowej lub sklepu internetowego; dostosowanie lokalu do potrzeb planowanej działalności; usługi, pomoc prawną, konsultacje i doradztwo związane z rozpoczęciem działalności. Wszystkie planowane wydatki muszą być racjonalne, celowe i bezpośrednio związane z profilem planowanej działalności gospodarczej. Uwaga! Dofinansowania nie można przeznaczyć m.in. na zakup alkoholu, papierosów, broni i amunicji, kursy i szkolenia niezbędne do uzyskania kwalifikacji wymaganych do prowadzenia działalności, a także bieżące opłaty abonamentowe i subskrypcyjne. Poszczególne rodzaje wydatków podlegają określonym limitom procentowym i kwotowym. Ostateczna kwalifikacja planowanych zakupów dokonywana jest przez Starostę na etapie oceny wniosku.",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [
-   "FP",
-   "EFS+"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "olawa.praca.gov.pl#71015585",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Program Preinkubacji „Wybieram Toruń” - wsparcie dla osób planujących rozpoczęcie działalności gospodarczej",
-  "url": "https://muptorun.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/program-preinkubacji-wybieram-torun-wsparcie-dla-osob-planujacych-rozpoczecie-dzialalnosci-gospodarczej?p_r_p_assetEntryId=70984443",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "muptorun",
-  "pup_nazwa": "Powiatowy Urząd Pracy dla Miasta Torunia",
-  "wojewodztwo": "kujawsko-pomorskie",
-  "tresc": "Osoby zainteresowane rozpoczęciem działalności gospodarczej, które chciałyby wcześniej zweryfikować swój pomysł na biznes, w tym również osoby planujące złożyć wniosek o środki na podjęcie działalności gospodarczej, mogą skorzystać z bezpłatnego Programu Preinkubacji „Wybieram Toruń”, realizowanego przez Fundację Przedsiębiorczy Toruń. Program skierowany jest do pełnoletnich mieszkańców Torunia, którzy nie prowadzą działalności gospodarczej. Udział w nim nie jest ograniczony górną granicą wieku. W ramach programu uczestnicy mają możliwość przetestowania swojego pomysłu biznesowego w praktyce, bez konieczności zakładania własnej firmy. Za pośrednictwem inkubatora mogą legalnie prowadzić sprzedaż oraz wystawiać faktury. Otrzymują również wsparcie opiekuna programu i mentorów, którzy pomagają w planowaniu kolejnych działań oraz rozwijaniu pomysłu na biznes. Program może stanowić interesującą formę przygotowania do samozatrudnienia, szczególnie dla osób, które rozważają rozpoczęcie działalności gospodarczej, ale przed podjęciem ostatecznej decyzji chcą sprawdzić możliwości i potencjał swojego przedsięwzięcia. Program „Wybieram Toruń” realizowany jest w ramach zadania publicznego „Wybieram Toruń, Toruński Fundusz Innowacji i Rozwoju”, współfinansowanego ze środków Gminy Miasta Toruń. Stanowi część miejskiego Funduszu Wsparcia Przedsiębiorczości i Innowacji, utworzonego na podstawie uchwały nr 377/26 Rady Miasta Torunia. Szczegółowe informacje o programie oraz formularz zgłoszeniowy dostępne są na stronie: www.wybieramtorun.pl . Aktualności dotyczące programu publikowane są również na profilach Fundacji na Facebooku i Instagramie: @wybieramtorun . Załączniki Plakat_A4_PUP_Wybieram_Torun.pdf 521 KB",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "muptorun.praca.gov.pl#70984443",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór na składanie wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej w ramach projektu pt. „Kompleksowa aktywizacja zawodowa osób bezrobotnych z powiatu hrubieszowskiego edycja IV” w ramach Priorytetu IX Zaspokajanie potrzeb rynku pracy, Działania 9.1 Aktywizacja zawodowa – projekty PUP, programu Fundusze Europejskie dla Lubelskiego 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus.",
-  "url": "https://hrubieszow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-na-skladanie-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-w-ramach-projektu-pt.-kompleksowa-aktywizacja-zawodowa-osob-bezrobotnych-z-powiatu-hrubieszowskiego-edycja-iv-w-ramach-priorytetu-ix-zaspokajanie-potrzeb-rynku-prac?p_r_p_assetEntryId=71004840",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "hrubieszow",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Hrubieszowie",
-  "wojewodztwo": "lubelskie",
-  "tresc": "Powiatowy Urząd Pracy w Hrubieszowie informuje, że z dniem 17.11.2026 roku wznawia nabór na składanie wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej w ramach projektu pt. „Kompleksowa aktywizacja zawodowa osób bezrobotnych z powiatu hrubieszowskiego edycja IV” w ramach Priorytetu IX Zaspokajanie potrzeb rynku pracy, Działania 9.1 Aktywizacja zawodowa – projekty PUP, programu Fundusze Europejskie dla Lubelskiego 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus. Informujemy, iż rozpatrywane będą wnioski wraz z załącznikami oraz formularzem o pomocy de minimis ( dostępna aktualna wersja wniosku ) złożone do siedziby Powiatowego Urzędu Pracy w Hrubieszowie w wersji papierowej lub elektronicznej opatrzonej podpisem kwalifikowalnym. Nabór prowadzony jest do wyczerpania limitów środków zabezpieczonych na realizację w/w formy wsparcia tj. dla 3 osób. Wsparcie w głównej mierze będzie skierowane do osób bezrobotnych zarejestrowanych w Powiatowym Urzędzie Pracy w Hrubieszowie znajdujących się w trudnej sytuacji na rynku pracy, ze szczególnym uwzględnieniem: osób młodych w wieku 18-29 lat, osób należących do kategorii NEET, osób w wieku 55 lat i więcej, osób długotrwale bezrobotnych, osób z niepełnosprawnościami lub o ograniczonej mobilności, osób odchodzących z rolnictwa, osób, którym udzielono ochrony czasowej w związku z wojną w Ukrainie. Ponadto zgodnie z art. 69 ustawy z dnia 20 maca 2025 r. o rynku pracy i służbach zatrudnienia, pierwszeństwo w skierowaniu do udziału w formach pomocy przysługuje: bezrobotnym posiadającym Kartę Dużej Rodziny, o której mowa w art. 1 ust. 1 ustawy z dnia 5 grudnia 2014 r. o Karcie Dużej Rodziny, bezrobotnym powyżej 50. roku życia, bezrobotnym bez kwalifikacji zawodowych, bezrobotnym niepełnosprawnym, długotrwale bezrobotnym, bezrobotnym i poszukującym pracy, będącym osobami do 30. roku życia, bezrobotnym samotnie wychowującym co najmniej jedno dziecko. Wysokość kwoty dofinansowania w ramach ogłoszonego naboru wynosi 40 000,00 zł. Szczegółowe informacje odnośnie wyżej wymienione formy wsparcia można uzyskać w Urzędzie Pracy I piętro, pokój nr 16 lub telefonicznie (84 53 53 054). Załączniki wniosek EFS +edycja IV-2026 (2).docx 133 KB wniosek EFS +edycja IV-2026 (1).pdf 616 KB formularz-informacji-pomoc-de-minimis-uoig-rozporzadzenie-ke-2832-13112025 (5).docx 57 KB formularz-informacji-pomoc-de-minimis-uoig-rozporzadzenie-ke-2832-13112025 (1).pdf 312 KB",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "do wyczerpania środków",
-  "kwota_max_zl": 40000,
-  "kwota_opis": "do 40 000 zł",
-  "zrodla_finansowania": [
-   "EFS+"
-  ],
-  "liczba_miejsc": 3,
-  "grupy_docelowe": [
-   "do 30 lat",
-   "50+",
-   "długotrwale bezrobotni",
-   "osoby z niepełnosprawnością"
-  ],
-  "wstrzymany": "",
-  "klucz": "hrubieszow.praca.gov.pl#71004840",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "trwa (do wyczerpania środków)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór wniosków o przyznanie dofinansowania podjęcia działalności gospodarczej w ramach środków FP",
-  "url": "https://zagan.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/nabor-wnioskow-o-przyznanie-dofinansowania-podjecia-dzialalnosci-gospodarczej-w-ramach-srodkow-fp?p_r_p_assetEntryId=70840014",
-  "data_publikacji": "2026-11-10",
-  "pup_id": "zagan",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Żaganiu",
-  "wojewodztwo": "lubuskie",
-  "tresc": "Powiatowy Urząd Pracy w Żaganiu ogłasza nabór wniosków o dofinansowanie podjęcia działalności gospodarczej dla osoby bezrobotnej w ramach środków Funduszu Pracy - 1",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [
-   "FP"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "zagan.praca.gov.pl#70840014",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej w ramach projektu „Łódź aktywizuje zawodowo IV”",
-  "url": "https://lodz.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-w-ramach-projektu-lodz-aktywizuje-zawodowo-iv",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "lodz",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Łodzi",
-  "wojewodztwo": "łódzkie",
-  "tresc": "Powiatowy Urząd Pracy w Łodzi informuje, że od dnia 17 listopada 2026 roku rozpoczyna nabór wniosków o dofinansowanie podjęcia działalności gospodarczej w ramach projektu „Łódź aktywizuje zawodowo IV” współfinansowanego ze środków Unii Europejskiej w ramach Europejskiego Funduszu Społecznego Plus. Urząd dysponuje środkami na realizację ok. 9 wniosków. Kwota dofinansowania wynosi do 49 000,00 zł. Pierwszeństwo udziału w projekcie będą miały osoby zarejestrowane w Powiatowym Urzędzie Pracy w Łodzi jako bezrobotne, znajdujące się w szczególnie trudnej sytuacji na rynku pracy, należące do co najmniej jednej z niżej wymienionych grup: osób do 30. roku życia, osób powyżej 55. roku życia, osób o niskich kwalifikacjach (z wykształceniem policealnym lub niższym), osób długotrwale bezrobotnych (pozostających w rejestrze pup łącznie przez okres ponad 12 miesięcy w okresie ostatnich dwóch lat, z wyłączeniem okresów odbywania stażu), osób z niepełnosprawnościami, kobiet. Składanie wniosków: Wnioski wraz z wymaganymi załącznikami można złożyć w formie: papierowej – listownie lub osobiście w Kancelarii Urzędu, pokój 033 (parter), lub elektronicznej za pośrednictwem e-Doręczeń. Wnioski składane w formie elektronicznej muszą być opatrzone: kwalifikowanym podpisem elektronicznym lub, podpisem zaufanym lub, podpisem osobistym. Wnioski złożone w formie elektronicznej niepodpisane w sposób wskazany powyżej nie będą podlegały rozpatrzeniu. Urząd zastrzega sobie możliwość natychmiastowego wstrzymania naboru, jeżeli ilość wniosków przekroczy dostępne środki finansowe. Załączniki 1. Wniosek o dofinansowanie podjęcia działalności gospodarczej 2026 EFS.pdf 407 KB 2. Formularz informacji przedstawianych przy ubieganiu sie o pomoc de minimis (1).pdf 2754 KB 3. Oświadczenie poręczyciela do wniosku o dofinansowanie podjęcia działalności gospodarczej 2026 (1).pdf 197 KB 4. Zaświadczenie o dochodach poręczyciela 2026 (1).pdf 112 KB 5. Zasady dotyczące przyznawania dofinansowania podjęcia dzialalności gospodarczej 2026.pdf 283 KB 6. Zmiana analizy finansowej dotyczaca dofinansowania podjęcia działalności gospodarczej 2026.pdf 276 KB",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-17",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": 49000,
-  "kwota_opis": "do 49 000 zł",
-  "zrodla_finansowania": [
-   "EFS+"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [
-   "kobiety",
-   "długotrwale bezrobotni",
-   "osoby z niepełnosprawnością"
-  ],
-  "wstrzymany": "",
-  "klucz": "https://lodz.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-w-ramach-projektu-lodz-aktywizuje-zawodowo-iv",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Ogłosznie o naborze wniosków w sprawie przyznania jednorazowo środków na podjęcie działalności gospodarczej",
-  "url": "https://plonsk.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/oglosznie-o-naborze-wnioskow-w-sprawie-przyznania-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-1?p_r_p_assetEntryId=71026427",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "plonsk",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Płońsku",
-  "wojewodztwo": "mazowieckie",
-  "tresc": "Powiatowy Urząd Pracy w Płońsku informuje, że w dniu 18 listopada 2026 r. odbędzie się nabór wniosków w sprawie przyznania jednorazowo środków na podjęcie działalności gospodarczej w ramach projektu „Aktywizacja zawodowa osób bezrobotnych w powiecie płońskim (III)\" współfinansowanego przez Unię Europejską ze środków Europejskiego Funduszu Społecznego +, w ramach Funduszy Europejskich dla Mazowsza 2021-2027 , Oś priorytetowa VI Fundusze Europejskie dla aktywnego zawodowo Mazowsza , Działanie 6.1 – Aktywizacja zawodowa osób bezrobotnych dla osób, które dokonały wpisu na listę potencjalnych uczestników/uczestniczek projektu, wobec których przeprowadzono wstępną weryfikację kwalifikowalności udziału w projekcie w oparciu o jego założenia oraz dane zgromadzone w rejestrach osób bezrobotnych PUP w Płońsku i z którymi urząd skontaktował się telefonicznie. Oferta naboru obejmuje przyznanie jednorazowo środków na podjęcie działalności gospodarczej osobom zarejestrowanym jako bezrobotne w Powiatowym Urzędzie Pracy w Płońsku, które nie otrzymały bezzwrotnych środków z Funduszu Pracy lub innych bezzwrotnych środków publicznych na podjęcie działalności gospodarczej. Ważne! Projekt zakłada, że przystąpienie uczestników/uczestniczek do programu każdorazowo poprzedzony jest badaniem ankietowym dotyczącym umiejętności ekologicznych i umiejętności związanych z usługami zdrowotnymi i opiekuńczymi. Dodatkowo osoby w grupie wiekowej 18-29 lat zostaną poddane ocenie umiejętności cyfrowych, a - w razie potrzeby - uzupełnią poziom tych kompetencji. W przypadku osób powyżej 30 roku życia diagnoza umiejętności cyfrowych zostanie wykonana, o ile taka potrzeba zostanie zidentyfikowana w trakcie opracowywania IPD. Uwaga: Uczestnik/uczestniczka projektu nie może otrzymywać jednocześnie wsparcia w innym projekcie z zakresu aktywizacji społeczno-zawodowej dofinansowanym ze środków Europejskiego Funduszu Społecznego Plus. Ważne! Planowana działalność gospodarcza nie może powodować znaczących negatywnych skutków dla środowiska, zgodnie z zasadą „nie czyń poważnych szkód” (DNSH), o której mowa w art.9 rozporządzenia Parlamentu Europejskiego i Rady (UE) 2021/1060. W ramach przyznanych środków nie będą refundowane wydatki w postaci sprzętu używanego, jak również napędzanego paliwami kopalnymi Wnioski o dofinansowanie podjęcia działalności gospodarczej można pobrać: - w siedzibie PUP w Płońsku pok. nr 7 - ze strony internetowej Urzędu Pracy: plonsk.praca.gov.pl – załącznik do niniejszego ogłoszenia. Szczegółowych informacji na temat dofinansowania podjęcia działalności gospodarczej udziela Pani Magdalena Koper pod nr tel. 236623756 wew. 250 lub osobiście w pokoju nr 7. Kwota dofinansowania podjęcia działalności gospodarczej – do 34 000,00 zł Projekt realizowany do 31.12.2027 r. Wypełnione wnioski wraz załącznikami przyjmowane będą w siedzibie Powiatowego Urzędu Pracy w Płońsku, ul. Wolności 12 w dniu 18 listopada 2026 r. Wnioski rozpatrywane będą zgodnie z Zasadami przyznawania dofinansowania na podjęcie działalności gospodarczej obowiązującymi w Powiatowym Urzędzie Pracy w Płońsku . Uwaga! Złożenie wniosku nie jest równoznaczne z otrzymaniem jednorazowych środków na podjęcie działalności gospodarczej w ramach naboru. Budynek Powiatowego Urzędu Pracy w Płońsku dostosowany jest do potrzeb osób z niepełnosprawnościami. Do wszystkich pomieszczeń można wejść z psem asystującym/ psem przewodnikiem. Osoby niesłyszące lub słabosłyszące mogą skorzystać z systemu „WideoTłumacz”. Jeżeli są usługi dostępnościowe, które powinniśmy zapewnić, prosimy o kontakt z urzędem. #FunduszeUE Załączniki Wniosek o dofinansowanie działalności gospodarczej EFS.zip 663 KB",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-18",
-  "nabor_do": "2026-11-18",
-  "tryb": "terminowy",
-  "kwota_max_zl": 34000,
-  "kwota_opis": "do 34 000 zł",
-  "zrodla_finansowania": [
-   "FP",
-   "EFS+"
-  ],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [
-   "do 30 lat",
-   "30+",
-   "osoby z niepełnosprawnością"
-  ],
-  "wstrzymany": "",
-  "klucz": "plonsk.praca.gov.pl#71026427",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "zapowiedziany",
-  "dni_do_konca": 1
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pracy",
-  "url": "https://mupplock.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-ze-srodkow-funduszu-pracy",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "mupplock",
-  "pup_nazwa": "Miejski Urząd Pracy w Płocku",
-  "wojewodztwo": "mazowieckie",
-  "tresc": "W związku z pozostającymi w dyspozycji Miejskiego Urzędu Pracy w Płocku oszczędnościami, tut. Urząd ogłasza nabór wniosków o dofinansowanie podjęcia działalności gospodarczej ze środków Funduszu Pracy. Nabór wniosków ma charakter otwarty i będzie prowadzony od dnia 16 listopada 2026 r. Termin zakończenia naboru będzie ustalony na kolejny dzień roboczy do godziny 15:00 od dnia ukazania się informacji o zakończeniu naboru na stronie mupplock.praca.gov.pl w zakładce „Aktualności” oraz mediach społecznościowych Miejskiego Urzędu Pracy w Płocku: Facebook i Instagram. W ramach niniejszego naboru wniosków MUP w Płocku planuje udzielić wsparcia, o którym mowa w art. 147 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz.U. z 2025 r., poz. 620, z późn. zm.), na dofinansowanie podjęcia działalności gospodarczej dla 1 osoby zarejestrowanej w MUP, należącej do jednej z niżej wymienionych grup: osoba bezrobotna, absolwent centrum integracji społecznej, absolwent klubu integracji społecznej, poszukujący pracy niezatrudniony i niewykonujący innej pracy zarobkowej opiekun osoby niepełnosprawnej. Realizacja programu nie może przekroczyć dnia 31 grudnia 2026 r., co oznacza że zawarcie umów o dofinansowanie podjęcia działalności gospodarczej oraz przekazanie środków musi nastąpić do dnia 31 grudnia 2026 r. Dofinansowanie podjęcia działalności gospodarczej – należy przez to rozumieć jednorazowe środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności. Osoba bezrobotna – oznacza to osobę spełniającą warunki określone w art. 2 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia. Absolwent CIS – oznacza to osobę, która przez okres nie krótszy niż 6 miesięcy uczestniczyła w zajęciach w centrum integracji społecznej i otrzymała zaświadczenie potwierdzające uczestnictwo w zajęciach i umiejętności nabyte w ramach reintegracji zawodowej i społecznej; osoba ta jest absolwentem centrum integracji społecznej przez okres 6 miesięcy od dnia zakończenia zajęć w centrum integracji społecznej (art. 2 pkt 1a ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym). Absolwent KIS – oznacza to osobę, która uczestniczyła w klubie integracji społecznej przez okres nie krótszy niż 6 miesięcy, posiada ważne zaświadczenie o zakończeniu uczestnictwa w klubie integracji społecznej oraz zrealizowała postanowienia kontraktu socjalnego (art. 2 pkt 1b ustawy z dnia 13 czerwca 2003 r. o zatrudnieniu socjalnym). Poszukujący pracy – należy przez to rozumieć niezatrudnionego i niewykonującego innej pracy zarobkowej opiekuna osoby niepełnosprawnej. Opiekun osoby niepełnosprawnej – oznacza to: matkę i ojca, opiekuna faktycznego dziecka, przez którego rozumie się osobę faktycznie opiekującą się dzieckiem, jeżeli wystąpiła z wnioskiem do sądu opiekuńczego o przysposobienie dziecka, rodzinę zastępczą spokrewnioną albo rodzinę zastępczą niezawodową w rozumieniu ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej (tekst jednolity: Dz. U. z 2026 r., poz. 980), rodzica zastępczego zawodowego albo prowadzącego rodzinny dom dziecka niepobierającego z tego tytułu wynagrodzenia w przypadkach, o których mowa w art. 54 ust. 6 oraz art. 62 ust. 4 ustawy z dnia 9 czerwca 2011 r. o wspieraniu rodziny i systemie pieczy zastępczej, małżonka, inną osobę, na której zgodnie z przepisami ustawy z dnia 25 lutego 1964 r.-Kodeks rodzinny i opiekuńczy (tekst jednolity: Dz. U. z 2026 r., poz. 236) ciąży obowiązek alimentacyjny, z wyjątkiem osób o znacznym stopniu niepełnosprawności – opiekującą się dzieckiem z orzeczeniem o niepełnosprawności łącznie ze wskazaniami: konieczności stałej lub długotrwałej opieki lub pomocy innej osoby w związku ze znacznie ograniczoną możliwością samodzielnej egzystencji oraz konieczności stałego współudziału na co dzień opiekuna dziecka w procesie jego leczenia, rehabilitacji i edukacji, lub os",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-16",
-  "nabor_do": "",
-  "tryb": "ciągły",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [
-   "FP"
-  ],
-  "liczba_miejsc": 1,
-  "grupy_docelowe": [
-   "osoby z niepełnosprawnością",
-   "absolwenci"
-  ],
-  "wstrzymany": "2026-11-18",
-  "klucz": "https://mupplock.praca.gov.pl/-/nabor-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-ze-srodkow-funduszu-pracy",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "trwa (do wyczerpania środków)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór uzupełniający wniosków o dofinansowanie podjęcia działalności gospodarczej – FEM II półrocze 2026",
-  "url": "https://mupplock.praca.gov.pl/-/nabor-uzupelniajacy-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-fem-ii-polrocze-2026",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "mupplock",
-  "pup_nazwa": "Miejski Urząd Pracy w Płocku",
-  "wojewodztwo": "mazowieckie",
-  "tresc": "W związku z pozostającymi w dyspozycji Miejskiego Urzędu Pracy w Płocku oszczędnościami, tut. Urząd ogłasza nabór uzupełniający wniosków o dofinansowanie podjęcia działalności gospodarczej w ramach projektu współfinansowanego ze środków unijnych EFS+ „Aktywizacja zawodowa osób bezrobotnych w Mieście Płocku (III)” w ramach Funduszy Europejskich dla Mazowsza 2021-2027, Priorytet VI, Działanie 6.1. Nabór wniosków ma charakter otwarty i będzie prowadzony od dnia 16 listopada 2026 r. Termin zakończenia naboru będzie ustalony na kolejny dzień roboczy do godziny 15:00 od dnia ukazania się informacji o zakończeniu naboru na stronie mupplock.praca.gov.pl w zakładce „Aktualności” oraz mediach społecznościowych Miejskiego Urzędu Pracy w Płocku: Facebook i Instagram. W ramach niniejszego naboru wniosków MUP w Płocku planuje udzielić wsparcia, o którym mowa w art. 147 ust. 1 pkt 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz.U. z 2025 r., poz. 620, z późn. zm.), na dofinansowanie podjęcia działalności gospodarczej dla 1 uczestnika projektu. Realizacja programu nie może przekroczyć dnia 31 grudnia 2026 r., co oznacza że zawarcie umowy o dofinansowanie podjęcia działalności gospodarczej w ramach projektu oraz przekazanie środków musi nastąpić do dnia 31 grudnia 2026 r. Dofinansowanie podjęcia działalności gospodarczej – należy przez to rozumieć jednorazowe środki na podjęcie działalności gospodarczej, w tym na pokrycie kosztów pomocy prawnej, konsultacji i doradztwa związanych z podjęciem tej działalności. Kwota udzielonego dofinansowania podjęcia działalności gospodarczej nie może przekroczyć 6-krotnej wysokości przeciętnego wynagrodzenia obowiązującego w dniu zawarcia umowy. Uczestnikami projektu są osoby bezrobotne zarejestrowane w MUP należące do jednej lub kilku grup znajdujących się w szczególnie trudnej sytuacji na rynku pracy: osoby młode w wieku 18 - 29 lat, osoby długotrwale bezrobotne, osoby w wieku 50 lat i więcej, osoby z wykształceniem odpowiadającym poziomowi ISCED 3 i niższym, osoby z niepełnosprawnościami, kobiety, migranci (w rozumieniu art. 1 ust. 3 pkt 2-3 ustawy o rynku pracy i służbach zatrudnienia). Uczestnicy projektu, w wieku do 29 roku życia, przed otrzymaniem wsparcia będą objęci oceną umiejętności cyfrowych, a w razie potrzeby – uzupełnieniem poziomu kompetencji cyfrowych. W przypadku osób powyżej 29 roku życia ocena umiejętności cyfrowych zostanie wykonana fakultatywnie, o ile taka potrzeba zostanie zidentyfikowana w trakcie opracowywania Indywidualnego Planu Działania. Uczestnik projektu nie może brać udziału w innym projekcie z zakresu aktywizacji społeczno – zawodowej, współfinansowanym ze środków Europejskiego Funduszu Społecznego Plus. Definicje dotyczące grupy docelowej: Osoba młoda w wieku 18 - 29 lat – osoba, która może przystąpić do projektu do dnia poprzedzającego dzień 30 urodzin. Osoba długotrwale bezrobotna – jest to osoba bezrobotna pozostająca w rejestrze MUP łącznie przez okres ponad 12 miesięcy w okresie ostatnich 2 lat, z wyłączeniem okresów odbywania stażu. Osoba o niskich kwalifikacjach – to osoba posiadająca wykształcenie na poziomie do ISCED 3 włącznie (osoby z wykształceniem ponadgimnazjalnym lub ponadpodstawowym i niższym), zgodnie z Międzynarodową Klasyfikacją Standardów Edukacyjnych ISCED 2011 (UNESCO). Osoba w wieku 50 lat i więcej – to osoba kwalifikująca się do projektu od dnia, w którym przypadają 50 urodziny. Osoba z niepełnosprawnością – osoba, o której mowa w art. 1 ustawy z dnia 27 sierpnia 1997 r. o rehabilitacji zawodowej i społecznej oraz zatrudnianiu osób niepełnosprawnych. Migranci w rozumieniu art. 1 ust. 3 pkt 2-3 ustawy o rynku pracy i służbach zatrudnienia. Bezrobotny – oznacza to osobę spełniającą warunki określone w art. 2 ust. 1 ustawy z dnia 20 marca 2025 r. o rynku pracy i służbach zatrudnienia (Dz.U. z 2025 r., poz. 620 z późn. zm.) Realizacja projektu będzie zgodna z Wytycznymi dotyczącymi realizacji zasad równościowych w ramach fundusz",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-16",
-  "nabor_do": "",
-  "tryb": "ciągły",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [
-   "EFS+"
-  ],
-  "liczba_miejsc": 1,
-  "grupy_docelowe": [
-   "do 30 lat",
-   "kobiety",
-   "długotrwale bezrobotni",
-   "osoby z niepełnosprawnością"
-  ],
-  "wstrzymany": "2026-11-18",
-  "klucz": "https://mupplock.praca.gov.pl/-/nabor-uzupelniajacy-wnioskow-o-dofinansowanie-podjecia-dzialalnosci-gospodarczej-fem-ii-polrocze-2026",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "trwa (do wyczerpania środków)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Nabór wniosków na dotacje ze środków Funduszu Pracy",
-  "url": "https://debica.praca.gov.pl/-/nabor-wnioskow-na-dotacje-ze-srodkow-funduszu-pracy",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "debica",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Dębicy",
-  "wojewodztwo": "podkarpackie",
-  "tresc": "W ramach powstałych oszczędności ze środków Funduszu Pracy Powiatowy Urząd Pracy w Dębicy ogłasza nabór wniosków o przyznanie dofinansowania na podjęcie działalności gospodarczej skierowany do osób bezrobotnych. Szczegóły naboru: Wnioski będą przyjmowane: od 24 do 25 listopada 2026 r. Kwota dofinansowania: do 25 000,00 złotych Liczba dotacji: 3 Każdy bezrobotny wnioskujący o przyznanie dofinansowania przed złożeniem wniosku powinien wcześniej skontaktować się (telefonicznie) ze swoim Doradcą ds. zatrudnienia (przypisanym zgodnie z podziałem literowym), w celu założenia lub uaktualnienia Indywidualnego Planu Działania, z którego musi wynikać możliwość zastosowania tej formy pomocy. Osoby młode do 30 roku życia zobligowane są do wykonania TESTU KOMPETENCJI CYFROWYCH u Doradców ds. zatrudnienia, pok. 10 na parterze. W razie potrzeby poziom kompetencji zostanie uzupełniony. Wniosek o przyznanie jednorazowych środków na podjęcie działalności gospodarczej dostępny jest do pobrania: - na dole tego ogłoszenia. - na stronie internetowej: zakładka Urząd > dokumenty do pobrania > Jednorazowe środki na podjęcie działalności gospodarczej Szczególną uwagę należy zwrócić na kompletność i poprawność wypełnionej dokumentacji. Wniosek należy składać na obowiązującym formularzu. Każdy punkt we wniosku należy wypełnić w sposób czytelny i jednoznaczny. Nie należy pozostawiać jakichkolwiek punktów bez odpowiedzi. Wszelkie poprawki należy dokonywać poprzez skreślenie i zaparafowanie. Składanie wniosku: Wniosek w formie papierowej należy złożyć w sekretariacie Urzędu na I piętrze w godz. 8:00 - 15:00 Wniosek w formie elektronicznej należy przekazać: przez platformę usług elektronicznych Publicznych Służb Zatrudnienia w serwisie praca.gov.pl za pośrednictwem publicznej usługi rejestrowanego doręczenia elektronicznego (e - doręczenia) na adres AE:PL-52421-29854-FFDFU-21 Wniosek oraz wszystkie załączniki powinny zostać podpisane każdy oddzielnie: kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym albo podpisem osobistym. W razie pytań lub wątpliwości prosimy o kontakt telefoniczny pod numerem: 14 6809163 Załączniki Wniosek o dofinansowanie 2026.pdf 325 KB Załącznik nr 1 do Wniosku - Szacowane przychody i koszty w pierwszym roku prowadzenia działalności gosp (miesięcznie).pdf 171 KB Załącznik nr 4 do Wniosku Formularz informacji pomoc de minimis DzU2025_1489.pdf 312 KB Kryteria oceny wniosku.pdf 145 KB Warunki przyznawania dofinansowania 2026.pdf 169 KB Prawa i obowiązki bezrobotnego Dotacje 2026.pdf 139 KB WZÓR WYPEŁNIENIA Formularz informacji pomoc de minimis.pdf 293 KB",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "2026-11-24",
-  "nabor_do": "2026-11-25",
-  "tryb": "terminowy",
-  "kwota_max_zl": 25000,
-  "kwota_opis": "do 25 000 zł",
-  "zrodla_finansowania": [
-   "FP"
-  ],
-  "liczba_miejsc": 3,
-  "grupy_docelowe": [
-   "do 30 lat"
-  ],
-  "wstrzymany": "",
-  "klucz": "https://debica.praca.gov.pl/-/nabor-wnioskow-na-dotacje-ze-srodkow-funduszu-pracy",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "zapowiedziany",
-  "dni_do_konca": 8
- },
- {
-  "zrodlo": "pup",
-  "tytul": "JUŻ DZIŚ KOLEJNY INSTRUKTAŻ DLA STARAJĄCYCH SIĘ O DOTACJĘ!",
-  "url": "https://sosnowiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/juz-dzis-kolejny-instruktaz-dla-starajacych-sie-o-dotacje-?p_r_p_assetEntryId=70919551",
-  "data_publikacji": "2026-11-17",
-  "pup_id": "sosnowiec",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Sosnowcu",
-  "wojewodztwo": "śląskie",
-  "tresc": "Najbliższy termin: 17.11.2026 r. Godzina: 9:00 - 11:00 Podczas spotkania omówimy m.in.: Jak prawidłowo uzupełnić wniosek na aktualnie obowiązującym druku Jakie są najczęstsze błędy we wnioskach Jak bezbłędnie skompletować wszystkie wymagane załączniki Jak prawidłowo opisać planowaną działalność Jakie są kryteria oceny formalnej i merytorycznej Prowadząca: Agnieszka Nieroda Specjalista ds. programów Miejsce: Instruktaże odbywają się na parterze budynku Urzędu Pracy w Zagłębiowskiej Strefie Talentów. Prosimy o punktualne przybycie, aby nie zakłócać przebiegu spotkania innym uczestnikom. Serdecznie zapraszamy wszystkie osoby planujące złożenie wniosku o dotację! REGULAMIN, WNIOSEK I ZAŁĄCZNIKI INSTRUKTAŻ - STACJONARNIE LUB ONLINE",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "sosnowiec.praca.gov.pl#70919551",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "UWAGA: Informacja o dodatkowym naborze wniosków o przyznanie środków na podjęcie działalności gospodarczej dla 1 osoby",
-  "url": "https://ostrowiec.praca.gov.pl/-/uwaga-informacja-o-dodatkowym-naborze-wnioskow-o-przyznanie-srodkow-na-podjecie-dzialalnosci-gospodarczej-dla-1-osoby",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "ostrowiec",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Ostrowcu Świętokrzyskim",
-  "wojewodztwo": "świętokrzyskie",
-  "tresc": "Powiatowy Urząd Pracy w Ostrowcu Świętokrzyskim informuje o uruchomieniu dodatkowego naboru wniosków o przyznanie środków na podjęcie działalności gospodarczej w związku ze zwolnieniem środków finansowych z pierwotnie zaplanowanej puli na ten cel. W ramach naboru przewiduje się przyznanie 1 dofinansowania osobie spełniającej warunki udziału w projekcie, link https://ostrowiec.praca.gov.pl/-/aktywizacja-zawodowa-osob-bezrobotnych-w-powiecie-ostrowieckim-iv- . Pierwszeństwo w przyznaniu dofinansowania będzie miała osoba należące do co najmniej jednej z następujących grup: w wieku 18-29 lat, długotrwale bezrobotne, z niepełnosprawnościami oraz osoby bezrobotne powyżej 55 roku życia. Maksymalna kwota dofinansowania 27 202,00 zł. Nabór wniosków realizowany w ramach projektu „Aktywizacja zawodowa osób bezrobotnych w powiecie ostrowieckim (IV)” (Program Fundusze Europejskie dla Świętokrzyskiego 2021-2027 w ramach Europejskiego Funduszu Społecznego PLUS). #FunduszeEuropejskie",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": 27202,
-  "kwota_opis": "do 27 202 zł",
-  "zrodla_finansowania": [
-   "EFS+"
-  ],
-  "liczba_miejsc": 1,
-  "grupy_docelowe": [
-   "do 30 lat",
-   "długotrwale bezrobotni",
-   "osoby z niepełnosprawnością"
-  ],
-  "wstrzymany": "2026-11-18",
-  "klucz": "https://ostrowiec.praca.gov.pl/-/uwaga-informacja-o-dodatkowym-naborze-wnioskow-o-przyznanie-srodkow-na-podjecie-dzialalnosci-gospodarczej-dla-1-osoby",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
- },
- {
-  "zrodlo": "pup",
-  "tytul": "Ostatnie środki na rozpoczęcie działalności gospodarczej!",
-  "url": "https://kolobrzeg.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/ostatnie-srodki-na-rozpoczecie-dzialalnosci-gospodarczej-?p_r_p_assetEntryId=70981258",
-  "data_publikacji": "2026-11-16",
-  "pup_id": "kolobrzeg",
-  "pup_nazwa": "Powiatowy Urząd Pracy w Kołobrzegu",
-  "wojewodztwo": "zachodniopomorskie",
-  "tresc": "Powiatowy Urząd Pracy w Kołobrzegu informuje, że posiada ostatnie środki finansowe na dofinansowanie podjęcia działalności gospodarczej. Osoby zainteresowane uzyskaniem wsparcia zachęcamy do kontaktu z Urzędem w celu uzyskania szczegółowych informacji dotyczących zasad i warunków przyznawania dofinansowania. (pokój 2, tel. 94 352 41 33 wew. 122, 107) Nie zwlekaj – liczba dostępnych środków jest ograniczona!",
-  "url_urzedu": "",
-  "kategoria": "dotacja_dzialalnosc",
-  "pewnosc": "wysoka",
-  "nabor_od": "",
-  "nabor_do": "",
-  "tryb": "",
-  "kwota_max_zl": null,
-  "kwota_opis": "",
-  "zrodla_finansowania": [],
-  "liczba_miejsc": null,
-  "grupy_docelowe": [],
-  "wstrzymany": "",
-  "klucz": "kolobrzeg.praca.gov.pl#70981258",
-  "zrodla": [
-   "pup"
-  ],
-  "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-  "ostatni_raz": "2026-11-17T14:18:10+00:00",
-  "status": "do weryfikacji (brak dat)",
-  "dni_do_konca": null
  }
 ]
