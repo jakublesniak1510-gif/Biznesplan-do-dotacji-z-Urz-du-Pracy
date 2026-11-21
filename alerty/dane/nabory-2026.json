@@ -1,10 +1,202 @@
 {
- "wygenerowano": "2026-11-19T14:28:38+00:00",
- "dzis": "2026-11-19",
+ "wygenerowano": "2026-11-21T14:40:33+00:00",
+ "dzis": "2026-11-21",
  "opis": "Nabory wniosków o środki na podjęcie działalności gospodarczej (PUP) wykryte przez monitor alerty/",
- "liczba_wszystkich": 580,
- "liczba_aktywnych_dzis": 40,
+ "liczba_wszystkich": 586,
+ "liczba_aktywnych_dzis": 29,
  "nabory": [
+  {
+   "zrodlo": "pup",
+   "tytul": "Wstrzymanie nabór wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej przez osoby z niepełnosprawnością",
+   "url": "https://zywiec.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/wstrzymanie-naboru-wnioskow-dla-osob-z-niepelnosprawnoscia?p_r_p_assetEntryId=71107642",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "zywiec",
+   "pup_nazwa": "Powiatowy Urząd Pracy w Żywcu",
+   "wojewodztwo": "śląskie",
+   "tresc": "Powiatowy Urząd Pracy w Żywcu informuje, że z dniem 23.11.2026 r. wstrzymuje przyjmowanie wniosków o przyznanie jednorazowych środków na podjęcie działalności gospodarczej w ramach naboru dedykowanego osobom bezrobotnym z niepełnosprawnością.",
+   "url_urzedu": "",
+   "kategoria": "zakonczenie_naboru",
+   "pewnosc": "wysoka",
+   "nabor_od": "2026-11-23",
+   "nabor_do": "",
+   "tryb": "",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [
+    "osoby z niepełnosprawnością"
+   ],
+   "wstrzymany": "",
+   "klucz": "zywiec.praca.gov.pl#71107642",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": null
+  },
+  {
+   "zrodlo": "pup",
+   "tytul": "Informacja dotycząca wniosków o dotację na podjęcie działalności gospodraczej i refundację kosztów wyposażenia stanowiska pracy",
+   "url": "https://wodzislawslaski.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/informacja-4?p_r_p_assetEntryId=71108145",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "wodzislawslaski",
+   "pup_nazwa": "Powiatowy Urząd Pracy w Wodzisławiu Śląskim",
+   "wojewodztwo": "śląskie",
+   "tresc": "Powiatowy Urząd Pracy w Wodzisławiu Śląskim informuje, iż aktualnie nie są prowadzone nabory wniosków o przyznanie środków Funduszu Pracy na podjęcie działalności gospodarczej oraz wniosków o refundację ze środków Funduszu Pracy kosztów wyposażenia lub doposażenia stanowiska pracy dla skierowanego bezrobotnego lub skierowanego opiekuna.",
+   "url_urzedu": "",
+   "kategoria": "dotacja_dzialalnosc",
+   "pewnosc": "wysoka",
+   "nabor_od": "",
+   "nabor_do": "",
+   "tryb": "",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [
+    "FP"
+   ],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [],
+   "wstrzymany": "",
+   "klucz": "wodzislawslaski.praca.gov.pl#71108145",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "do weryfikacji (brak dat)",
+   "dni_do_konca": null
+  },
+  {
+   "zrodlo": "pup",
+   "tytul": "Zamknięcie naboru wniosków ze środków PFRON",
+   "url": "https://tarnow.praca.gov.pl/-/zamkniecie-naboru-wnioskow-ze-srodkow-pfron-1",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "tarnow",
+   "pup_nazwa": "Powiatowy Urząd Pracy w Tarnowie",
+   "wojewodztwo": "małopolskie",
+   "tresc": "Powiatowy Urząd Pracy w Tarnowie informuje, że od dnia 23.11.2026 r. zamyka nabór wniosków osób niepełnosprawnych dotyczących środków na podjęcie działalności gospodarczej, rolniczej albo działalności w formie spółdzielni socjalnej ze środków Państwowego Funduszu Rehabilitacji Osób Niepełnosprawnych, z uwagi na liczbę złożonych wniosków, która wyczerpuje pulę aktualnie dostępnych środków finansowych przeznaczonych na ten cel. Wnioski złożone po zamknięciu naboru nie będą rozpatrywane.",
+   "url_urzedu": "",
+   "kategoria": "zakonczenie_naboru",
+   "pewnosc": "średnia",
+   "nabor_od": "2026-11-23",
+   "nabor_do": "",
+   "tryb": "",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [
+    "PFRON"
+   ],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [
+    "osoby z niepełnosprawnością"
+   ],
+   "wstrzymany": "",
+   "klucz": "https://tarnow.praca.gov.pl/-/zamkniecie-naboru-wnioskow-ze-srodkow-pfron-1",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": null
+  },
+  {
+   "zrodlo": "pup",
+   "tytul": "Informacja o zakończeniu naboru wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej w ramach Funduszy Europejskich dla Dolnego Śląska 2021-2027",
+   "url": "https://olesnica.praca.gov.pl/-/informacja-o-zakonczeniu-naboru-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-ramach-funduszy-europejskich-dla-dolnego-slaska-2021-2027",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "olesnica",
+   "pup_nazwa": "Powiatowy Urząd Pracy w Oleśnicy",
+   "wojewodztwo": "dolnośląskie",
+   "tresc": "Oleśnica, dnia 20.11.2026 r. Informacja Powiatowy Urząd Pracy w Oleśnicy informuje, że w dniu 20.11.2026 r. został zakończony nabór wniosków o przyznanie jednorazowo środków na podjęcie działalności gospodarczej w ramach Funduszy Europejskich dla Dolnego Śląska 2021-2027 współfinansowanych ze środków Unii Europejskiej ze względu na wyczerpanie ilości przewidzianych miejsc w naborze. O kolejnych naborach będą Państwo informowani na naszej stronie internetowej w zakładce Aktualności. Załączniki Zakończenie naboru - dotacje 20.11.2026 r..pdf 803 KB",
+   "url_urzedu": "",
+   "kategoria": "zakonczenie_naboru",
+   "pewnosc": "wysoka",
+   "nabor_od": "2026-11-20",
+   "nabor_do": "2026-11-20",
+   "tryb": "terminowy",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [
+    "EFS+"
+   ],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [],
+   "wstrzymany": "",
+   "klucz": "https://olesnica.praca.gov.pl/-/informacja-o-zakonczeniu-naboru-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-ramach-funduszy-europejskich-dla-dolnego-slaska-2021-2027",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
+  },
+  {
+   "zrodlo": "pup",
+   "tytul": "Grupowa porada zawodowa pn. „Przedsiębiorczość i samozatrudnienie”",
+   "url": "https://nowysacz.praca.gov.pl/-/grupowa-porada-zawodowa-pn.-przedsiebiorczosc-i-samozatrudnienie-1",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "nowysacz",
+   "pup_nazwa": "Powiatowy Urząd Pracy dla Powiatu Nowosądeckiego",
+   "wojewodztwo": "małopolskie",
+   "tresc": "W dniu 18 listopada 2026 roku w Powiatowym Urzędzie Pracy dla Powiatu Nowosądeckiego odbyło się spotkanie realizowane w ramach grupowych porad zawodowych pn. „Przedsiębiorczość i samozatrudnienie” . Wydarzenie to wpisało się w program XVII obchodów Światowego Tygodnia Przedsiębiorczości i adresowane było do osób, które rozważają rozpoczęcie własnej działalności gospodarczej i pozyskanie dotacji z urzędu pracy. Podczas spotkania 15 uczestników poznało zasady ubiegania się o dotację, omówiono między innymi: etapy przygotowania wniosku oraz późniejsze obowiązki wynikające z podpisanej umowy. W programie spotkania uwzględniono również zagadnienia dotyczące realiów prowadzenia własnej firmy w tym konieczność przeprowadzenia bilansu korzyści i wyzwań wynikających z pracy na własny rachunek. Warsztaty pokazały, że decyzja o założeniu własnej firmy musi być poprzedzona rzetelnym przygotowaniem i realistyczną oceną własnych zasobów. Ważnym elementem programu były wystąpienia zaproszonych gości tj. pracowników Urzędu Statystycznego w Krakowie oddział w Nowym Sączu oraz Pani Justyny Buczek prowadzącej działalność pod nazwą „Justyna Buczek Kancelaria Radcy Prawnego” , które stanowiły cenne źródło praktycznych wskazówek dla osób przygotowujących się do uruchomienia własnego biznesu. Przedstawiciele Urzędu Statystycznego przybliżyli uczestnikom zagadnienia związane z rejestrem REGON oraz z zasadami prawidłowego doboru kodów Polskiej Klasyfikacji Działalności. Swoimi doświadczeniami podzieliła się również Justyna Buczek radca prawny , która w 2025 roku założyła własną działalność w oparciu o dotację przyznaną przez Powiatowy Urząd Pracy dla Powiatu Nowosądeckiego. Bardzo ciekawie opowiedziała o swojej drodze, począwszy od decyzji o pracy na własny rachunek poprzez przygotowanie wniosku aż po uruchomienie kancelarii. Na zakończenie wystąpienia podkreśliła, że jeszcze rok temu sama stała przed podobnym wyborem i znajdowała się dokładnie w tej samej sytuacji co obecni na sali uczestnicy i że dzisiaj prowadząc własną kancelarię z pełnym przekonaniem potwierdza, że była to dobra decyzja. Dziękujemy za obecność i aktywny udział w warsztatach oraz życzymy trafnych decyzji zawodowych.",
+   "url_urzedu": "",
+   "kategoria": "dotacja_dzialalnosc",
+   "pewnosc": "wysoka",
+   "nabor_od": "",
+   "nabor_do": "",
+   "tryb": "",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [],
+   "wstrzymany": "",
+   "klucz": "https://nowysacz.praca.gov.pl/-/grupowa-porada-zawodowa-pn.-przedsiebiorczosc-i-samozatrudnienie-1",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "do weryfikacji (brak dat)",
+   "dni_do_konca": null
+  },
+  {
+   "zrodlo": "pup",
+   "tytul": "Wstrzymanie z dniem 20.11.2026 r. naboru wniosków o dofinansowanie w formie przyznawania bezrobotnemu jednorazowo środków na podjęcie działalności gospodarczej w ramach projektu pt: „Kompleksowa aktywizacja zawodowa osób bezrobotnych z powiatu hrubieszowskiego edycja IV” w ramach Priorytetu IX Zaspokajanie potrzeb rynku pracy, Działania 9.1 Aktywizacja zawodowa – projekty PUP (typ projektu nr 1), programu Fundusze Europejskie dla Lubelskiego 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus.",
+   "url": "https://hrubieszow.praca.gov.pl/rynek-pracy/aktualnosci/-/asset_publisher/8VCc6CLiHUaO/content/wstrzymanie-naboru-wnioskow-o-dofinansowanie-w-formie-przyznawania-bezrobotnemu-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-w-ramach-projektu-pt-kompleksowa-aktywizacja-zawodowa-osob-bezrobotnych-z-powiatu-hrubieszowskiego-edycja-iv-w-ramach?p_r_p_assetEntryId=71130623",
+   "data_publikacji": "2026-11-20",
+   "pup_id": "hrubieszow",
+   "pup_nazwa": "Powiatowy Urząd Pracy w Hrubieszowie",
+   "wojewodztwo": "lubelskie",
+   "tresc": "Powiatowy Urząd Pracy w Hrubieszowie informuje, że z dniem 20.11.2026 roku wstrzymuje nabór wniosków o dofinansowanie w formie przyznawania bezrobotnemu jednorazowo środków na podjęcie działalności gospodarczej w ramach projektu pt: „Kompleksowa aktywizacja zawodowa osób bezrobotnych z powiatu hrubieszowskiego edycja IV” w ramach Priorytetu IX Zaspokajanie potrzeb rynku pracy, Działania 9.1 Aktywizacja zawodowa – projekty PUP (typ projektu nr 1), programu Fundusze Europejskie dla Lubelskiego 2021-2027 współfinansowanego ze środków Europejskiego Funduszu Społecznego Plus. Informujemy, iż ilość złożonych wniosków wyczerpała limit środków przeznaczonych na realizację tego zadania. Zapraszamy Państwa do bieżącego zapoznawania się z informacjami zamieszczanymi na naszej stronie internetowej.",
+   "url_urzedu": "",
+   "kategoria": "zakonczenie_naboru",
+   "pewnosc": "wysoka",
+   "nabor_od": "",
+   "nabor_do": "",
+   "tryb": "",
+   "kwota_max_zl": null,
+   "kwota_opis": "",
+   "zrodla_finansowania": [
+    "EFS+"
+   ],
+   "liczba_miejsc": null,
+   "grupy_docelowe": [],
+   "wstrzymany": "",
+   "klucz": "hrubieszow.praca.gov.pl#71130623",
+   "zrodla": [
+    "pup"
+   ],
+   "pierwszy_raz": "2026-11-21T14:33:50+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": null
+  },
   {
    "zrodlo": "pup",
    "tytul": "WŁASNA FIRMA BEZ KREDYTU? SIĘGNIJ PO BEZZWROTNĄ DOTACJĘ",
@@ -31,7 +223,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa (do wyczerpania środków)",
    "dni_do_konca": null
   },
@@ -63,7 +255,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -97,9 +289,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -104
+   "dni_do_konca": -106
   },
   {
    "zrodlo": "pup",
@@ -129,9 +321,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 5
+   "dni_do_konca": 3
   },
   {
    "zrodlo": "pup",
@@ -163,9 +355,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 13
+   "dni_do_konca": 11
   },
   {
    "zrodlo": "pup",
@@ -195,7 +387,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -222,8 +414,8 @@
    "liczba_miejsc": null,
    "grupy_docelowe": [
     "do 30 lat",
-    "kobiety",
     "długotrwale bezrobotni",
+    "kobiety",
     "osoby z niepełnosprawnością"
    ],
    "wstrzymany": "",
@@ -232,9 +424,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 1
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -258,8 +450,8 @@
    ],
    "liczba_miejsc": null,
    "grupy_docelowe": [
-    "kobiety",
     "długotrwale bezrobotni",
+    "kobiety",
     "osoby z niepełnosprawnością"
    ],
    "wstrzymany": "",
@@ -268,7 +460,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa (do wyczerpania środków)",
    "dni_do_konca": null
   },
@@ -298,7 +490,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -332,7 +524,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -364,9 +556,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 8
+   "dni_do_konca": 6
   },
   {
    "zrodlo": "pup",
@@ -396,9 +588,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -430,9 +622,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-19T14:20:49+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 4
+   "dni_do_konca": 2
   },
   {
    "zrodlo": "pup",
@@ -460,7 +652,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -497,9 +689,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -529,9 +721,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -562,7 +754,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -592,9 +784,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -17
+   "dni_do_konca": -19
   },
   {
    "zrodlo": "pup",
@@ -624,9 +816,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -659,9 +851,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa",
-   "dni_do_konca": 6
+   "dni_do_konca": 4
   },
   {
    "zrodlo": "pup",
@@ -695,7 +887,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -726,14 +918,14 @@
     "długotrwale bezrobotni",
     "osoby z niepełnosprawnością"
    ],
-   "wstrzymany": "",
+   "wstrzymany": "2026-11-20",
    "klucz": "hrubieszow.praca.gov.pl#71004840",
    "zrodla": [
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa (do wyczerpania środków)",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
    "dni_do_konca": null
   },
   {
@@ -745,7 +937,7 @@
    "pup_nazwa": "Powiatowy Urząd Pracy w Dębicy",
    "wojewodztwo": "podkarpackie",
    "tresc": "W ramach powstałych oszczędności ze środków Funduszu Pracy Powiatowy Urząd Pracy w Dębicy ogłasza nabór wniosków o przyznanie dofinansowania na podjęcie działalności gospodarczej skierowany do osób bezrobotnych. Szczegóły naboru: Wnioski będą przyjmowane: od 24 do 25 listopada 2026 r. Kwota dofinansowania: do 25 000,00 złotych Liczba dotacji: 3 Każdy bezrobotny wnioskujący o przyznanie dofinansowania przed złożeniem wniosku powinien wcześniej skontaktować się (telefonicznie) ze swoim Doradcą ds. zatrudnienia (przypisanym zgodnie z podziałem literowym), w celu założenia lub uaktualnienia Indywidualnego Planu Działania, z którego musi wynikać możliwość zastosowania tej formy pomocy. Osoby młode do 30 roku życia zobligowane są do wykonania TESTU KOMPETENCJI CYFROWYCH u Doradców ds. zatrudnienia, pok. 10 na parterze. W razie potrzeby poziom kompetencji zostanie uzupełniony. Wniosek o przyznanie jednorazowych środków na podjęcie działalności gospodarczej dostępny jest do pobrania: - na dole tego ogłoszenia. - na stronie internetowej: zakładka Urząd > dokumenty do pobrania > Jednorazowe środki na podjęcie działalności gospodarczej Szczególną uwagę należy zwrócić na kompletność i poprawność wypełnionej dokumentacji. Wniosek należy składać na obowiązującym formularzu. Każdy punkt we wniosku należy wypełnić w sposób czytelny i jednoznaczny. Nie należy pozostawiać jakichkolwiek punktów bez odpowiedzi. Wszelkie poprawki należy dokonywać poprzez skreślenie i zaparafowanie. Składanie wniosku: Wniosek w formie papierowej należy złożyć w sekretariacie Urzędu na I piętrze w godz. 8:00 - 15:00 Wniosek w formie elektronicznej należy przekazać: przez platformę usług elektronicznych Publicznych Służb Zatrudnienia w serwisie praca.gov.pl za pośrednictwem publicznej usługi rejestrowanego doręczenia elektronicznego (e - doręczenia) na adres AE:PL-52421-29854-FFDFU-21 Wniosek oraz wszystkie załączniki powinny zostać podpisane każdy oddzielnie: kwalifikowanym podpisem elektronicznym albo podpisem potwierdzonym profilem zaufanym albo podpisem osobistym. W razie pytań lub wątpliwości prosimy o kontakt telefoniczny pod numerem: 14 6809163 Załączniki Wniosek o dofinansowanie 2026.pdf 325 KB Załącznik nr 1 do Wniosku - Szacowane przychody i koszty w pierwszym roku prowadzenia działalności gosp (miesięcznie).pdf 171 KB Załącznik nr 4 do Wniosku Formularz informacji pomoc de minimis DzU2025_1489.pdf 312 KB Kryteria oceny wniosku.pdf 145 KB Warunki przyznawania dofinansowania 2026.pdf 169 KB Prawa i obowiązki bezrobotnego Dotacje 2026.pdf 139 KB WZÓR WYPEŁNIENIA Formularz informacji pomoc de minimis.pdf 293 KB",
-   "url_urzedu": "",
+   "url_urzedu": "https://debica.praca.gov.pl/-/nabor-wnioskow-na-dotacje-ze-srodkow-funduszu-pracy",
    "kategoria": "dotacja_dzialalnosc",
    "pewnosc": "wysoka",
    "nabor_od": "2026-11-24",
@@ -763,12 +955,13 @@
    "wstrzymany": "",
    "klucz": "https://debica.praca.gov.pl/-/nabor-wnioskow-na-dotacje-ze-srodkow-funduszu-pracy",
    "zrodla": [
-    "pup"
+    "pup",
+    "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 6
+   "dni_do_konca": 4
   },
   {
    "zrodlo": "pup",
@@ -798,9 +991,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -3
+   "dni_do_konca": -5
   },
   {
    "zrodlo": "pup",
@@ -834,7 +1027,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -864,7 +1057,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -901,7 +1094,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -936,7 +1129,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -970,7 +1163,7 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1003,9 +1196,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 11
+   "dni_do_konca": 9
   },
   {
    "zrodlo": "pup",
@@ -1033,7 +1226,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1071,9 +1264,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -2
+   "dni_do_konca": -4
   },
   {
    "zrodlo": "pup",
@@ -1101,9 +1294,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 1
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -1137,9 +1330,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa",
-   "dni_do_konca": 8
+   "dni_do_konca": 6
   },
   {
    "zrodlo": "pup",
@@ -1171,7 +1364,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1202,8 +1395,8 @@
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
    "ostatni_raz": "2026-11-17T14:18:10+00:00",
-   "status": "trwa",
-   "dni_do_konca": 1
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -1229,13 +1422,13 @@
    "grupy_docelowe": [
     "osoby z niepełnosprawnością"
    ],
-   "wstrzymany": "",
+   "wstrzymany": "2026-11-23",
    "klucz": "https://tarnow.praca.gov.pl/-/nabor-wnioskow-ze-srodkow-pfron-2",
    "zrodla": [
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1265,7 +1458,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1296,9 +1489,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zapowiedziany",
-   "dni_do_konca": 8
+   "dni_do_konca": 6
   },
   {
    "zrodlo": "pup",
@@ -1332,7 +1525,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa (do wyczerpania środków)",
    "dni_do_konca": null
   },
@@ -1367,9 +1560,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -1400,7 +1593,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1433,7 +1626,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-13T14:28:48+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "do weryfikacji (brak dat)",
    "dni_do_konca": null
   },
@@ -1465,8 +1658,8 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-17T14:18:10+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "do weryfikacji (brak dat)",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
   {
@@ -1502,9 +1695,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 1
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -1534,9 +1727,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -7
+   "dni_do_konca": -9
   },
   {
    "zrodlo": "pup",
@@ -1566,9 +1759,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "pup",
@@ -1598,7 +1791,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1628,7 +1821,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1661,9 +1854,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": 11
+   "dni_do_konca": 9
   },
   {
    "zrodlo": "pup",
@@ -1695,9 +1888,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -1725,9 +1918,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa",
-   "dni_do_konca": 3
+   "dni_do_konca": 1
   },
   {
    "zrodlo": "pup",
@@ -1759,7 +1952,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1794,7 +1987,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "trwa (do wyczerpania środków)",
    "dni_do_konca": null
   },
@@ -1829,7 +2022,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1861,7 +2054,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -1894,9 +2087,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "zapowiedziany",
-   "dni_do_konca": 1
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -1924,8 +2117,8 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "do weryfikacji (brak dat)",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
   {
@@ -1954,9 +2147,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 0
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -2
   },
   {
    "zrodlo": "pup",
@@ -1993,9 +2186,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -7
+   "dni_do_konca": -9
   },
   {
    "zrodlo": "pup",
@@ -2030,9 +2223,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "pup",
@@ -2062,8 +2255,8 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "do weryfikacji (brak dat)",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
   {
@@ -2094,7 +2287,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -2154,9 +2347,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-06T14:10:42+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "pup",
@@ -2186,9 +2379,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-06T14:10:42+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -31
+   "dni_do_konca": -33
   },
   {
    "zrodlo": "pup",
@@ -2216,7 +2409,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-06T14:10:42+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -2248,9 +2441,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-06T14:10:42+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "pup",
@@ -2282,7 +2475,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-06T14:10:42+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -2314,7 +2507,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -2346,7 +2539,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -2376,9 +2569,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -2414,9 +2607,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -7
+   "dni_do_konca": -9
   },
   {
    "zrodlo": "pup",
@@ -2448,7 +2641,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -2486,9 +2679,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -1
+   "dni_do_konca": -3
   },
   {
    "zrodlo": "pup",
@@ -2518,9 +2711,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -87
+   "dni_do_konca": -89
   },
   {
    "zrodlo": "pup",
@@ -2556,9 +2749,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -94
+   "dni_do_konca": -96
   },
   {
    "zrodlo": "pup",
@@ -2586,9 +2779,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -15
+   "dni_do_konca": -17
   },
   {
    "zrodlo": "pup",
@@ -2618,9 +2811,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "pup",
@@ -2648,9 +2841,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "zielonalinia",
@@ -2688,9 +2881,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -7
+   "dni_do_konca": -9
   },
   {
    "zrodlo": "pup",
@@ -2720,9 +2913,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -13
+   "dni_do_konca": -15
   },
   {
    "zrodlo": "pup",
@@ -2752,9 +2945,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-10T14:46:54+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -2790,9 +2983,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "zielonalinia",
@@ -2822,7 +3015,7 @@
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
    "ostatni_raz": "2026-11-13T14:28:48+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -2854,9 +3047,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-05T14:31:28+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -21
+   "dni_do_konca": -23
   },
   {
    "zrodlo": "pup",
@@ -2887,9 +3080,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-04T14:23:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -6
+   "dni_do_konca": -8
   },
   {
    "zrodlo": "zielonalinia",
@@ -2926,9 +3119,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -2960,9 +3153,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -2
+   "dni_do_konca": -4
   },
   {
    "zrodlo": "pup",
@@ -2994,9 +3187,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -13
+   "dni_do_konca": -15
   },
   {
    "zrodlo": "pup",
@@ -3026,7 +3219,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3089,7 +3282,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3126,9 +3319,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 0
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -2
   },
   {
    "zrodlo": "pup",
@@ -3159,7 +3352,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -3226,9 +3419,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "pup",
@@ -3258,7 +3451,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -3292,9 +3485,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -2
+   "dni_do_konca": -4
   },
   {
    "zrodlo": "pup",
@@ -3327,7 +3520,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -3359,7 +3552,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3397,9 +3590,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -15
+   "dni_do_konca": -17
   },
   {
    "zrodlo": "pup",
@@ -3461,9 +3654,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -7
+   "dni_do_konca": -9
   },
   {
    "zrodlo": "pup",
@@ -3499,7 +3692,7 @@
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
    "ostatni_raz": "2026-11-10T14:46:54+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -3529,9 +3722,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -27
+   "dni_do_konca": -29
   },
   {
    "zrodlo": "pup",
@@ -3561,9 +3754,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "zielonalinia",
@@ -3593,7 +3786,7 @@
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
    "ostatni_raz": "2026-11-03T14:03:31+00:00",
    "status": "zakończony",
-   "dni_do_konca": -13
+   "dni_do_konca": -15
   },
   {
    "zrodlo": "pup",
@@ -3621,7 +3814,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3655,7 +3848,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3688,9 +3881,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": 1
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -3722,9 +3915,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -9
+   "dni_do_konca": -11
   },
   {
    "zrodlo": "pup",
@@ -3755,9 +3948,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -17
+   "dni_do_konca": -19
   },
   {
    "zrodlo": "pup",
@@ -3786,9 +3979,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -10
+   "dni_do_konca": -12
   },
   {
    "zrodlo": "pup",
@@ -3820,7 +4013,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -3853,7 +4046,7 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -3885,7 +4078,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3917,7 +4110,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3947,7 +4140,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -3979,9 +4172,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -17
+   "dni_do_konca": -19
   },
   {
    "zrodlo": "pup",
@@ -4013,9 +4206,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -38
+   "dni_do_konca": -40
   },
   {
    "zrodlo": "pup",
@@ -4076,9 +4269,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -4106,9 +4299,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa",
-   "dni_do_konca": 1
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
+   "dni_do_konca": -1
   },
   {
    "zrodlo": "pup",
@@ -4138,7 +4331,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4168,7 +4361,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4194,14 +4387,14 @@
    ],
    "liczba_miejsc": null,
    "grupy_docelowe": [],
-   "wstrzymany": "",
+   "wstrzymany": "2026-11-20",
    "klucz": "https://olesnica.praca.gov.pl/-/ogloszenie-o-naborze-wnioskow-o-przyznanie-jednorazowo-srodkow-na-podjecie-dzialalnosci-gospodarczej-finansowane-w-ramach-funduszy-europejskich-dla-dolnego-slaska",
    "zrodla": [
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "prawdopodobnie nieaktualny",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "zakończony",
    "dni_do_konca": null
   },
   {
@@ -4230,7 +4423,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4295,9 +4488,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "zielonalinia",
@@ -4328,7 +4521,7 @@
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
    "ostatni_raz": "2026-11-11T14:08:15+00:00",
    "status": "zakończony",
-   "dni_do_konca": -13
+   "dni_do_konca": -15
   },
   {
    "zrodlo": "pup",
@@ -4358,7 +4551,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4388,7 +4581,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4420,9 +4613,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -4452,7 +4645,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4482,7 +4675,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4514,7 +4707,7 @@
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
    "ostatni_raz": "2026-11-17T14:18:10+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -4544,7 +4737,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4576,7 +4769,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4638,7 +4831,7 @@
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
    "ostatni_raz": "2026-11-13T14:28:48+00:00",
    "status": "zakończony",
-   "dni_do_konca": -27
+   "dni_do_konca": -29
   },
   {
    "zrodlo": "pup",
@@ -4668,9 +4861,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "pup",
@@ -4698,7 +4891,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4728,9 +4921,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -13
+   "dni_do_konca": -15
   },
   {
    "zrodlo": "zielonalinia",
@@ -4759,9 +4952,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -4793,7 +4986,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -4853,7 +5046,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4885,7 +5078,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -4915,9 +5108,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -28
+   "dni_do_konca": -30
   },
   {
    "zrodlo": "pup",
@@ -4947,9 +5140,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "pup",
@@ -4977,7 +5170,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5009,7 +5202,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5043,8 +5236,8 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
-   "status": "trwa (do wyczerpania środków)",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
+   "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
   {
@@ -5073,7 +5266,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5103,7 +5296,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5133,9 +5326,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -5163,7 +5356,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5193,7 +5386,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5227,7 +5420,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5259,7 +5452,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5299,9 +5492,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "pup",
@@ -5329,7 +5522,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5361,7 +5554,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5398,9 +5591,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -27
+   "dni_do_konca": -29
   },
   {
    "zrodlo": "pup",
@@ -5431,9 +5624,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -21
+   "dni_do_konca": -23
   },
   {
    "zrodlo": "pup",
@@ -5463,9 +5656,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -2
+   "dni_do_konca": -4
   },
   {
    "zrodlo": "zielonalinia",
@@ -5498,7 +5691,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-06T14:10:42+00:00",
    "status": "zakończony",
-   "dni_do_konca": -31
+   "dni_do_konca": -33
   },
   {
    "zrodlo": "pup",
@@ -5528,9 +5721,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -5562,7 +5755,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-05T14:31:28+00:00",
    "status": "trwa",
-   "dni_do_konca": 139
+   "dni_do_konca": 137
   },
   {
    "zrodlo": "pup",
@@ -5596,7 +5789,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -29
+   "dni_do_konca": -31
   },
   {
    "zrodlo": "pup",
@@ -5626,7 +5819,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5665,7 +5858,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-06T14:10:42+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "pup",
@@ -5695,7 +5888,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5728,7 +5921,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -5764,7 +5957,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -19
+   "dni_do_konca": -21
   },
   {
    "zrodlo": "pup",
@@ -5796,9 +5989,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -31
+   "dni_do_konca": -33
   },
   {
    "zrodlo": "pup",
@@ -5832,7 +6025,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-03T14:03:31+00:00",
    "status": "zakończony",
-   "dni_do_konca": -24
+   "dni_do_konca": -26
   },
   {
    "zrodlo": "pup",
@@ -5866,7 +6059,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-13T14:28:48+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "zielonalinia",
@@ -5899,7 +6092,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -5929,7 +6122,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -5961,9 +6154,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -30
+   "dni_do_konca": -32
   },
   {
    "zrodlo": "pup",
@@ -5991,7 +6184,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -6024,7 +6217,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6054,7 +6247,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6084,7 +6277,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6117,9 +6310,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -30
+   "dni_do_konca": -32
   },
   {
    "zrodlo": "pup",
@@ -6149,7 +6342,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6181,9 +6374,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -57
+   "dni_do_konca": -59
   },
   {
    "zrodlo": "pup",
@@ -6215,9 +6408,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -36
+   "dni_do_konca": -38
   },
   {
    "zrodlo": "pup",
@@ -6278,9 +6471,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "zielonalinia",
@@ -6403,9 +6596,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -27
+   "dni_do_konca": -29
   },
   {
    "zrodlo": "pup",
@@ -6435,7 +6628,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -6467,7 +6660,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6501,9 +6694,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "pup",
@@ -6531,9 +6724,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -20
+   "dni_do_konca": -22
   },
   {
    "zrodlo": "pup",
@@ -6593,7 +6786,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6623,7 +6816,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6653,7 +6846,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6721,7 +6914,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-19T14:20:49+00:00",
    "status": "zakończony",
-   "dni_do_konca": -38
+   "dni_do_konca": -40
   },
   {
    "zrodlo": "pup",
@@ -6818,9 +7011,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "pup",
@@ -6850,7 +7043,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -6919,9 +7112,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -21
+   "dni_do_konca": -23
   },
   {
    "zrodlo": "pup",
@@ -6953,7 +7146,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "trwa",
-   "dni_do_konca": 139
+   "dni_do_konca": 137
   },
   {
    "zrodlo": "pup",
@@ -6981,9 +7174,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "pup",
@@ -7013,7 +7206,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7043,7 +7236,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7075,7 +7268,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7107,7 +7300,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7137,7 +7330,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -7167,9 +7360,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -36
+   "dni_do_konca": -38
   },
   {
    "zrodlo": "pup",
@@ -7268,7 +7461,7 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7305,7 +7498,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-11-06T14:10:42+00:00",
    "status": "zakończony",
-   "dni_do_konca": -38
+   "dni_do_konca": -40
   },
   {
    "zrodlo": "pup",
@@ -7333,7 +7526,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7393,9 +7586,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "pup",
@@ -7491,7 +7684,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -36
+   "dni_do_konca": -38
   },
   {
    "zrodlo": "pup",
@@ -7523,9 +7716,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -28
+   "dni_do_konca": -30
   },
   {
    "zrodlo": "pup",
@@ -7559,7 +7752,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -71
+   "dni_do_konca": -73
   },
   {
    "zrodlo": "zielonalinia",
@@ -7594,7 +7787,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -41
+   "dni_do_konca": -43
   },
   {
    "zrodlo": "zielonalinia",
@@ -7628,9 +7821,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -35
+   "dni_do_konca": -37
   },
   {
    "zrodlo": "pup",
@@ -7720,7 +7913,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -7782,7 +7975,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7842,7 +8035,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -7874,7 +8067,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -7906,9 +8099,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -41
+   "dni_do_konca": -43
   },
   {
    "zrodlo": "pup",
@@ -7939,9 +8132,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -34
+   "dni_do_konca": -36
   },
   {
    "zrodlo": "pup",
@@ -7974,9 +8167,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -31
+   "dni_do_konca": -33
   },
   {
    "zrodlo": "pup",
@@ -8006,9 +8199,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "zielonalinia",
@@ -8041,7 +8234,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -36
+   "dni_do_konca": -38
   },
   {
    "zrodlo": "pup",
@@ -8137,7 +8330,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8167,7 +8360,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8197,7 +8390,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8227,7 +8420,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -8258,9 +8451,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -43
+   "dni_do_konca": -45
   },
   {
    "zrodlo": "pup",
@@ -8326,9 +8519,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -43
+   "dni_do_konca": -45
   },
   {
    "zrodlo": "pup",
@@ -8390,7 +8583,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -43
+   "dni_do_konca": -45
   },
   {
    "zrodlo": "zielonalinia",
@@ -8419,9 +8612,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "pup",
@@ -8451,7 +8644,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-06T14:10:42+00:00",
    "status": "zakończony",
-   "dni_do_konca": -51
+   "dni_do_konca": -53
   },
   {
    "zrodlo": "pup",
@@ -8481,7 +8674,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -78
+   "dni_do_konca": -80
   },
   {
    "zrodlo": "pup",
@@ -8509,7 +8702,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -8576,7 +8769,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -51
+   "dni_do_konca": -53
   },
   {
    "zrodlo": "pup",
@@ -8604,7 +8797,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -8636,7 +8829,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -8668,7 +8861,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "pup",
@@ -8696,7 +8889,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -8757,7 +8950,7 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8794,7 +8987,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -51
+   "dni_do_konca": -53
   },
   {
    "zrodlo": "pup",
@@ -8822,7 +9015,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8856,7 +9049,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -49
+   "dni_do_konca": -51
   },
   {
    "zrodlo": "pup",
@@ -8916,7 +9109,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -8949,9 +9142,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -55
+   "dni_do_konca": -57
   },
   {
    "zrodlo": "pup",
@@ -9015,9 +9208,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "pup",
@@ -9047,9 +9240,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -56
+   "dni_do_konca": -58
   },
   {
    "zrodlo": "pup",
@@ -9079,9 +9272,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -56
+   "dni_do_konca": -58
   },
   {
    "zrodlo": "pup",
@@ -9113,7 +9306,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "pup",
@@ -9141,7 +9334,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9203,7 +9396,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-11T14:08:15+00:00",
    "status": "zakończony",
-   "dni_do_konca": -45
+   "dni_do_konca": -47
   },
   {
    "zrodlo": "pup",
@@ -9231,7 +9424,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9295,7 +9488,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -9327,7 +9520,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -9357,9 +9550,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -36
+   "dni_do_konca": -38
   },
   {
    "zrodlo": "pup",
@@ -9389,7 +9582,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9453,7 +9646,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9490,7 +9683,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -55
+   "dni_do_konca": -57
   },
   {
    "zrodlo": "pup",
@@ -9522,7 +9715,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-05T14:31:28+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "pup",
@@ -9550,7 +9743,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -9580,9 +9773,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "pup",
@@ -9646,7 +9839,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -55
+   "dni_do_konca": -57
   },
   {
    "zrodlo": "pup",
@@ -9676,7 +9869,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9708,7 +9901,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -9740,7 +9933,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -59
+   "dni_do_konca": -61
   },
   {
    "zrodlo": "pup",
@@ -9770,7 +9963,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -9802,7 +9995,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -51
+   "dni_do_konca": -53
   },
   {
    "zrodlo": "pup",
@@ -9830,9 +10023,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "pup",
@@ -9898,7 +10091,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -115
+   "dni_do_konca": -117
   },
   {
    "zrodlo": "zielonalinia",
@@ -9927,9 +10120,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -55
+   "dni_do_konca": -57
   },
   {
    "zrodlo": "pup",
@@ -9957,7 +10150,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10021,7 +10214,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10119,9 +10312,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -63
+   "dni_do_konca": -65
   },
   {
    "zrodlo": "pup",
@@ -10153,7 +10346,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10183,7 +10376,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10251,7 +10444,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10283,7 +10476,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10315,7 +10508,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10347,7 +10540,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10377,7 +10570,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-11-03T14:03:31+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10471,7 +10664,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10501,7 +10694,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10564,9 +10757,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -62
+   "dni_do_konca": -64
   },
   {
    "zrodlo": "pup",
@@ -10600,7 +10793,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10662,7 +10855,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10694,7 +10887,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10822,7 +11015,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10856,7 +11049,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10890,7 +11083,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -10924,7 +11117,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -48
+   "dni_do_konca": -50
   },
   {
    "zrodlo": "pup",
@@ -10954,7 +11147,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -10984,7 +11177,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -11014,7 +11207,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -11044,7 +11237,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11078,7 +11271,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11172,7 +11365,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11238,7 +11431,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -71
+   "dni_do_konca": -73
   },
   {
    "zrodlo": "pup",
@@ -11300,7 +11493,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11460,7 +11653,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -11497,7 +11690,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "pup",
@@ -11561,7 +11754,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-19T14:20:49+00:00",
    "status": "zakończony",
-   "dni_do_konca": -71
+   "dni_do_konca": -73
   },
   {
    "zrodlo": "pup",
@@ -11589,9 +11782,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -62
+   "dni_do_konca": -64
   },
   {
    "zrodlo": "pup",
@@ -11622,7 +11815,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11652,9 +11845,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -62
+   "dni_do_konca": -64
   },
   {
    "zrodlo": "pup",
@@ -11684,7 +11877,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -11714,7 +11907,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -11783,7 +11976,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -73
+   "dni_do_konca": -75
   },
   {
    "zrodlo": "pup",
@@ -11815,7 +12008,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -70
+   "dni_do_konca": -72
   },
   {
    "zrodlo": "pup",
@@ -11873,7 +12066,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11903,7 +12096,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -11941,9 +12134,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -78
+   "dni_do_konca": -80
   },
   {
    "zrodlo": "pup",
@@ -12035,9 +12228,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -71
+   "dni_do_konca": -73
   },
   {
    "zrodlo": "pup",
@@ -12067,7 +12260,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12099,7 +12292,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-13T14:28:48+00:00",
    "status": "zakończony",
-   "dni_do_konca": -78
+   "dni_do_konca": -80
   },
   {
    "zrodlo": "pup",
@@ -12129,7 +12322,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12163,7 +12356,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -71
+   "dni_do_konca": -73
   },
   {
    "zrodlo": "pup",
@@ -12193,7 +12386,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12225,9 +12418,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -78
+   "dni_do_konca": -80
   },
   {
    "zrodlo": "pup",
@@ -12255,7 +12448,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -12285,7 +12478,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12345,7 +12538,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -12380,9 +12573,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -69
+   "dni_do_konca": -71
   },
   {
    "zrodlo": "pup",
@@ -12444,7 +12637,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -78
+   "dni_do_konca": -80
   },
   {
    "zrodlo": "pup",
@@ -12475,9 +12668,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -83
+   "dni_do_konca": -85
   },
   {
    "zrodlo": "pup",
@@ -12535,7 +12728,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12565,7 +12758,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -12599,7 +12792,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -77
+   "dni_do_konca": -79
   },
   {
    "zrodlo": "pup",
@@ -12668,7 +12861,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -76
+   "dni_do_konca": -78
   },
   {
    "zrodlo": "zielonalinia",
@@ -12728,7 +12921,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -12760,7 +12953,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -12790,7 +12983,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -12916,7 +13109,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -93
+   "dni_do_konca": -95
   },
   {
    "zrodlo": "pup",
@@ -12974,7 +13167,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13006,7 +13199,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13036,7 +13229,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13066,7 +13259,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13128,7 +13321,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -62
+   "dni_do_konca": -64
   },
   {
    "zrodlo": "pup",
@@ -13156,7 +13349,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13188,7 +13381,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13310,9 +13503,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -85
+   "dni_do_konca": -87
   },
   {
    "zrodlo": "pup",
@@ -13372,7 +13565,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13436,7 +13629,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -97
+   "dni_do_konca": -99
   },
   {
    "zrodlo": "pup",
@@ -13464,7 +13657,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13496,7 +13689,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13526,7 +13719,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13560,7 +13753,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13624,7 +13817,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -13654,7 +13847,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13688,7 +13881,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13724,7 +13917,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -97
+   "dni_do_konca": -99
   },
   {
    "zrodlo": "zielonalinia",
@@ -13755,9 +13948,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -90
+   "dni_do_konca": -92
   },
   {
    "zrodlo": "pup",
@@ -13789,7 +13982,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-11-17T14:18:10+00:00",
    "status": "zakończony",
-   "dni_do_konca": -83
+   "dni_do_konca": -85
   },
   {
    "zrodlo": "pup",
@@ -13821,7 +14014,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13855,7 +14048,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -13917,9 +14110,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -106
+   "dni_do_konca": -108
   },
   {
    "zrodlo": "pup",
@@ -14105,7 +14298,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -14140,7 +14333,7 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -14172,7 +14365,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -99
+   "dni_do_konca": -101
   },
   {
    "zrodlo": "pup",
@@ -14204,7 +14397,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -14236,7 +14429,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -101
+   "dni_do_konca": -103
   },
   {
    "zrodlo": "pup",
@@ -14300,7 +14493,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -113
+   "dni_do_konca": -115
   },
   {
    "zrodlo": "zielonalinia",
@@ -14333,7 +14526,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -112
+   "dni_do_konca": -114
   },
   {
    "zrodlo": "zielonalinia",
@@ -14398,7 +14591,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-11-03T14:03:31+00:00",
    "status": "zakończony",
-   "dni_do_konca": -52
+   "dni_do_konca": -54
   },
   {
    "zrodlo": "zielonalinia",
@@ -14564,7 +14757,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -118
+   "dni_do_konca": -120
   },
   {
    "zrodlo": "zielonalinia",
@@ -14594,7 +14787,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -118
+   "dni_do_konca": -120
   },
   {
    "zrodlo": "pup",
@@ -14624,9 +14817,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -118
+   "dni_do_konca": -120
   },
   {
    "zrodlo": "pup",
@@ -14722,7 +14915,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -119
+   "dni_do_konca": -121
   },
   {
    "zrodlo": "zielonalinia",
@@ -14754,7 +14947,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -132
+   "dni_do_konca": -134
   },
   {
    "zrodlo": "zielonalinia",
@@ -14855,9 +15048,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -132
+   "dni_do_konca": -134
   },
   {
    "zrodlo": "zielonalinia",
@@ -14889,7 +15082,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -140
+   "dni_do_konca": -142
   },
   {
    "zrodlo": "pup",
@@ -14917,9 +15110,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -139
+   "dni_do_konca": -141
   },
   {
    "zrodlo": "zielonalinia",
@@ -15043,7 +15236,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -15075,7 +15268,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -142
+   "dni_do_konca": -144
   },
   {
    "zrodlo": "zielonalinia",
@@ -15107,7 +15300,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -135
+   "dni_do_konca": -137
   },
   {
    "zrodlo": "zielonalinia",
@@ -15170,9 +15363,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -134
+   "dni_do_konca": -136
   },
   {
    "zrodlo": "zielonalinia",
@@ -15267,7 +15460,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -15301,7 +15494,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -15333,7 +15526,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -153
+   "dni_do_konca": -155
   },
   {
    "zrodlo": "pup",
@@ -15398,7 +15591,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -148
+   "dni_do_konca": -150
   },
   {
    "zrodlo": "zielonalinia",
@@ -15432,7 +15625,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -142
+   "dni_do_konca": -144
   },
   {
    "zrodlo": "zielonalinia",
@@ -15462,7 +15655,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -146
+   "dni_do_konca": -148
   },
   {
    "zrodlo": "zielonalinia",
@@ -15494,7 +15687,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -156
+   "dni_do_konca": -158
   },
   {
    "zrodlo": "zielonalinia",
@@ -15526,7 +15719,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -153
+   "dni_do_konca": -155
   },
   {
    "zrodlo": "zielonalinia",
@@ -15561,7 +15754,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -160
+   "dni_do_konca": -162
   },
   {
    "zrodlo": "zielonalinia",
@@ -15591,7 +15784,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -155
+   "dni_do_konca": -157
   },
   {
    "zrodlo": "zielonalinia",
@@ -15627,9 +15820,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -160
+   "dni_do_konca": -162
   },
   {
    "zrodlo": "zielonalinia",
@@ -15659,7 +15852,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -160
+   "dni_do_konca": -162
   },
   {
    "zrodlo": "zielonalinia",
@@ -15719,7 +15912,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -161
+   "dni_do_konca": -163
   },
   {
    "zrodlo": "zielonalinia",
@@ -15752,7 +15945,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -169
+   "dni_do_konca": -171
   },
   {
    "zrodlo": "zielonalinia",
@@ -15785,7 +15978,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -174
+   "dni_do_konca": -176
   },
   {
    "zrodlo": "pup",
@@ -15851,7 +16044,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -157
+   "dni_do_konca": -159
   },
   {
    "zrodlo": "zielonalinia",
@@ -15915,7 +16108,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -183
+   "dni_do_konca": -185
   },
   {
    "zrodlo": "pup",
@@ -15943,9 +16136,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -181
+   "dni_do_konca": -183
   },
   {
    "zrodlo": "zielonalinia",
@@ -15976,7 +16169,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-11-06T14:10:42+00:00",
    "status": "zakończony",
-   "dni_do_konca": -209
+   "dni_do_konca": -211
   },
   {
    "zrodlo": "zielonalinia",
@@ -16008,7 +16201,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -163
+   "dni_do_konca": -165
   },
   {
    "zrodlo": "zielonalinia",
@@ -16043,7 +16236,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -181
+   "dni_do_konca": -183
   },
   {
    "zrodlo": "zielonalinia",
@@ -16211,7 +16404,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -185
+   "dni_do_konca": -187
   },
   {
    "zrodlo": "zielonalinia",
@@ -16247,7 +16440,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -189
+   "dni_do_konca": -191
   },
   {
    "zrodlo": "zielonalinia",
@@ -16307,7 +16500,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -203
+   "dni_do_konca": -205
   },
   {
    "zrodlo": "zielonalinia",
@@ -16337,7 +16530,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -197
+   "dni_do_konca": -199
   },
   {
    "zrodlo": "zielonalinia",
@@ -16371,7 +16564,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -181
+   "dni_do_konca": -183
   },
   {
    "zrodlo": "pup",
@@ -16399,7 +16592,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -16431,7 +16624,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -203
+   "dni_do_konca": -205
   },
   {
    "zrodlo": "zielonalinia",
@@ -16461,7 +16654,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -188
+   "dni_do_konca": -190
   },
   {
    "zrodlo": "zielonalinia",
@@ -16491,7 +16684,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -205
+   "dni_do_konca": -207
   },
   {
    "zrodlo": "zielonalinia",
@@ -16525,7 +16718,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -204
+   "dni_do_konca": -206
   },
   {
    "zrodlo": "pup",
@@ -16555,7 +16748,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -16591,7 +16784,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -197
+   "dni_do_konca": -199
   },
   {
    "zrodlo": "zielonalinia",
@@ -16623,7 +16816,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -203
+   "dni_do_konca": -205
   },
   {
    "zrodlo": "zielonalinia",
@@ -16653,7 +16846,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -203
+   "dni_do_konca": -205
   },
   {
    "zrodlo": "zielonalinia",
@@ -16717,7 +16910,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -190
+   "dni_do_konca": -192
   },
   {
    "zrodlo": "zielonalinia",
@@ -16749,7 +16942,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -216
+   "dni_do_konca": -218
   },
   {
    "zrodlo": "zielonalinia",
@@ -16779,7 +16972,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -206
+   "dni_do_konca": -208
   },
   {
    "zrodlo": "zielonalinia",
@@ -16811,7 +17004,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -219
+   "dni_do_konca": -221
   },
   {
    "zrodlo": "pup",
@@ -16839,7 +17032,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   },
@@ -16907,7 +17100,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -216
+   "dni_do_konca": -218
   },
   {
    "zrodlo": "zielonalinia",
@@ -16937,7 +17130,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -223
+   "dni_do_konca": -225
   },
   {
    "zrodlo": "zielonalinia",
@@ -16969,7 +17162,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -223
+   "dni_do_konca": -225
   },
   {
    "zrodlo": "zielonalinia",
@@ -16999,7 +17192,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -212
+   "dni_do_konca": -214
   },
   {
    "zrodlo": "zielonalinia",
@@ -17063,7 +17256,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -209
+   "dni_do_konca": -211
   },
   {
    "zrodlo": "zielonalinia",
@@ -17125,7 +17318,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -230
+   "dni_do_konca": -232
   },
   {
    "zrodlo": "pup",
@@ -17155,9 +17348,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -223
+   "dni_do_konca": -225
   },
   {
    "zrodlo": "zielonalinia",
@@ -17191,7 +17384,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -224
+   "dni_do_konca": -226
   },
   {
    "zrodlo": "zielonalinia",
@@ -17223,7 +17416,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -226
+   "dni_do_konca": -228
   },
   {
    "zrodlo": "zielonalinia",
@@ -17255,7 +17448,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -234
+   "dni_do_konca": -236
   },
   {
    "zrodlo": "zielonalinia",
@@ -17322,9 +17515,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -22
+   "dni_do_konca": -24
   },
   {
    "zrodlo": "zielonalinia",
@@ -17361,7 +17554,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -239
+   "dni_do_konca": -241
   },
   {
    "zrodlo": "zielonalinia",
@@ -17398,7 +17591,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -237
+   "dni_do_konca": -239
   },
   {
    "zrodlo": "zielonalinia",
@@ -17460,7 +17653,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -216
+   "dni_do_konca": -218
   },
   {
    "zrodlo": "zielonalinia",
@@ -17494,7 +17687,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -248
+   "dni_do_konca": -250
   },
   {
    "zrodlo": "zielonalinia",
@@ -17531,7 +17724,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -244
+   "dni_do_konca": -246
   },
   {
    "zrodlo": "zielonalinia",
@@ -17567,7 +17760,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -246
+   "dni_do_konca": -248
   },
   {
    "zrodlo": "zielonalinia",
@@ -17634,7 +17827,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -233
+   "dni_do_konca": -235
   },
   {
    "zrodlo": "zielonalinia",
@@ -17670,7 +17863,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -251
+   "dni_do_konca": -253
   },
   {
    "zrodlo": "zielonalinia",
@@ -17699,9 +17892,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -244
+   "dni_do_konca": -246
   },
   {
    "zrodlo": "zielonalinia",
@@ -17797,7 +17990,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -255
+   "dni_do_konca": -257
   },
   {
    "zrodlo": "pup",
@@ -17855,7 +18048,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -17887,7 +18080,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -265
+   "dni_do_konca": -267
   },
   {
    "zrodlo": "zielonalinia",
@@ -17945,9 +18138,9 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -264
+   "dni_do_konca": -266
   },
   {
    "zrodlo": "zielonalinia",
@@ -18009,7 +18202,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -272
+   "dni_do_konca": -274
   },
   {
    "zrodlo": "zielonalinia",
@@ -18104,7 +18297,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -261
+   "dni_do_konca": -263
   },
   {
    "zrodlo": "pup",
@@ -18132,7 +18325,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "prawdopodobnie nieaktualny",
    "dni_do_konca": null
   },
@@ -18166,7 +18359,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -260
+   "dni_do_konca": -262
   },
   {
    "zrodlo": "zielonalinia",
@@ -18230,9 +18423,9 @@
     "zielonalinia"
    ],
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
-   "dni_do_konca": -269
+   "dni_do_konca": -271
   },
   {
    "zrodlo": "zielonalinia",
@@ -18262,7 +18455,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -275
+   "dni_do_konca": -277
   },
   {
    "zrodlo": "zielonalinia",
@@ -18294,7 +18487,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -279
+   "dni_do_konca": -281
   },
   {
    "zrodlo": "zielonalinia",
@@ -18324,7 +18517,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -279
+   "dni_do_konca": -281
   },
   {
    "zrodlo": "zielonalinia",
@@ -18356,7 +18549,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -302
+   "dni_do_konca": -304
   },
   {
    "zrodlo": "zielonalinia",
@@ -18386,7 +18579,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -279
+   "dni_do_konca": -281
   },
   {
    "zrodlo": "pup",
@@ -18416,7 +18609,7 @@
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
    "ostatni_raz": "2026-10-19T13:00:29+00:00",
    "status": "zakończony",
-   "dni_do_konca": -293
+   "dni_do_konca": -295
   },
   {
    "zrodlo": "zielonalinia",
@@ -18476,7 +18669,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -294
+   "dni_do_konca": -296
   },
   {
    "zrodlo": "zielonalinia",
@@ -18506,7 +18699,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -286
+   "dni_do_konca": -288
   },
   {
    "zrodlo": "zielonalinia",
@@ -18538,7 +18731,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -50
+   "dni_do_konca": -52
   },
   {
    "zrodlo": "zielonalinia",
@@ -18570,7 +18763,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -297
+   "dni_do_konca": -299
   },
   {
    "zrodlo": "zielonalinia",
@@ -18602,7 +18795,7 @@
    "pierwszy_raz": "2026-10-14T20:49:27+00:00",
    "ostatni_raz": "2026-10-14T20:49:27+00:00",
    "status": "zakończony",
-   "dni_do_konca": -293
+   "dni_do_konca": -295
   },
   {
    "zrodlo": "pup",
@@ -18630,7 +18823,7 @@
     "pup"
    ],
    "pierwszy_raz": "2026-10-19T13:00:29+00:00",
-   "ostatni_raz": "2026-11-19T14:20:49+00:00",
+   "ostatni_raz": "2026-11-21T14:33:50+00:00",
    "status": "zakończony",
    "dni_do_konca": null
   }
